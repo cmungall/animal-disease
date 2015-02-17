@@ -1,0 +1,50 @@
+format-version: 1.2
+ontology: zoodi
+
+[Term]
+id: Wikidata:Q1126331 ! epizootic
+name: epizootic
+
+[Term]
+id: Wikidata:Q4608004 ! 2007 australian equine influenza outbreak
+name: 2007 australian equine influenza outbreak
+
+[Term]
+id: Wikidata:Q6603976 ! list of west nile virus outbreaks
+name: list of west nile virus outbreaks
+
+[Term]
+id: Wikipedia:1924_Los_Angeles_pneumonic_plague_outbreak ! 1924 los angeles pneumonic plague outbreak
+name: 1924 los angeles pneumonic plague outbreak
+
+[Term]
+id: Wikipedia:PEPPADEP
+name: peppadep
+
+[Term]
+id: Wikipedia:Moredun_Research_Institute
+name: moredun research institute
+
+[Term]
+id: Wikidata:Q5412422
+name: european community reference laboratory for fish diseases
+
+[Term]
+id: Wikidata:Q8074198
+name: zoophilia and health
+
+[Term]
+id: Wikidata:Q3048621
+name: list of diseases of the honey bee
+
+[Term]
+id: Wikipedia:Risk_assessment_for_organic_swine_health
+name: risk assessment for organic swine health
+
+[Term]
+id: Wikipedia:Risk_of_Missed_PRRS_PCR_Detection
+name: risk of missed prrs pcr detection
+
+[Term]
+id: Wikipedia:Thiamine
+name: thiamine

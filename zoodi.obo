@@ -3,35 +3,6 @@ date: 23:09:2005 14:37
 saved-by: obo-cat.pl
 default-namespace: none
 ontology: zoodi
-owl-axioms: Prefix(owl:=<http://www.w3.org/2002/07/owl#>)\nPrefix(rdf:=<http://www.w3.org/1999/02/22-rdf-syntax-ns#>)\nPrefix(xml:=<http://www.w3.org/XML/1998/namespace>)\nPrefix(xsd:=<http://www.w3.org/2001/XMLSchema#>)\nPrefix(rdfs:=<http://www.w3.org/2000/01/rdf-schema#>)\n\n\nOntology(\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/Wikipedia#_Severe_combined_immunodeficiency_%28non-human%29> \"Wikipedia:Severe_combined_immunodeficiency_(non-human)\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/Wikipedia#_Cerebellar_hypoplasia_%28non-human%29> \"Wikipedia:Cerebellar_hypoplasia_(non-human)\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/Wikipedia#_Sweating_sickness_%28cattle%29> \"Wikipedia:Sweating_sickness_(cattle)\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/Wikipedia#_Orf_%28disease%29> \"Wikipedia:Orf_(disease)\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/Wikipedia#_Swimmer%27s_itch> \"Wikipedia:Swimmer's_itch\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/Wikipedia#_Velvet_%28fish_disease%29> \"Wikipedia:Velvet_(fish_disease)\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/Wikipedia#_Downer_%28animal%29> \"Wikipedia:Downer_(animal)\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/Wikipedia#_Junctional_epidermolysis_bullosa_%28veterinary_medicine%29> \"Wikipedia:Junctional_epidermolysis_bullosa_(veterinary_medicine)\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/Wikipedia#_Pacheco%27s_disease> \"Wikipedia:Pacheco's_disease\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/Wikipedia#_Hoose_%28disease%29> \"Wikipedia:Hoose_(disease)\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/Wikipedia#_Addison%27s_disease_in_canines> \"Wikipedia:Addison's_disease_in_canines\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/Wikipedia#_Bath_treatment_%28fishkeeping%29> \"Wikipedia:Bath_treatment_(fishkeeping)\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/Wikipedia#_Lameness_%28equine%29> \"Wikipedia:Lameness_(equine)\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/Wikipedia#_Plague_%28disease%29> \"Wikipedia:Plague_(disease)\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/Wikipedia#_Verminous_haemorrhagic_dermatitis_%28cattle%29> \"Wikipedia:Verminous_haemorrhagic_dermatitis_(cattle)\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/Wikipedia#_Hygroma_%28canine_disease%29> \"Wikipedia:Hygroma_(canine_disease)\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/Wikipedia#_Choke_%28horse%29> \"Wikipedia:Choke_(horse)\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/Wikipedia#_Hot_spot_%28veterinary_medicine%29> \"Wikipedia:Hot_spot_(veterinary_medicine)\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/Wikipedia#_External_bacterial_infection_%28fish%29> \"Wikipedia:External_bacterial_infection_(fish)\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/Wikipedia#_Bladder_stone_%28animal%29> \"Wikipedia:Bladder_stone_(animal)\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/Wikipedia#_Impaction_%28animals%29> \"Wikipedia:Impaction_(animals)\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/Wikipedia#_Bumblefoot_%28infection%29> \"Wikipedia:Bumblefoot_(infection)\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/Wikipedia#_Ta%25C3%25AF_Forest_virus> \"Wikipedia:Ta%C3%AF_Forest_virus\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/Wikipedia#_Pneumonia_%28non-human%29> \"Wikipedia:Pneumonia_(non-human)\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/Wikipedia#_Subvalvular_aortic_stenosis_%28non-human%29> \"Wikipedia:Subvalvular_aortic_stenosis_(non-human)\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/Wikipedia#_Blain_%28animal_disease%29> \"Wikipedia:Blain_(animal_disease)\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/Wikipedia#_Vogt%25E2%2580%2593Koyanagi%25E2%2580%2593Harada_syndrome> \"Wikipedia:Vogt%E2%80%93Koyanagi%E2%80%93Harada_syndrome\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/Wikipedia#_Tyzzer%27s_disease> \"Wikipedia:Tyzzer's_disease\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/Wikipedia#_Ta%25C3%25AF_Forest_ebolavirus> \"Wikipedia:Ta%C3%AF_Forest_ebolavirus\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/Wikipedia#_Legg%25E2%2580%2593Calv%25C3%25A9%25E2%2580%2593Perthes_syndrome> \"Wikipedia:Legg%E2%80%93Calv%C3%A9%E2%80%93Perthes_syndrome\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/Wikipedia#_Blackleg_%28disease%29> \"Wikipedia:Blackleg_(disease)\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/Wikipedia#_Thompsonia_%28barnacle%29> \"Wikipedia:Thompsonia_(barnacle)\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/Wikipedia#_Dental_caries_%28non-human%29> \"Wikipedia:Dental_caries_(non-human)\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/Wikipedia#_Histiocytoma_%28dog%29> \"Wikipedia:Histiocytoma_(dog)\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/Wikipedia#_Marek%27s_disease> \"Wikipedia:Marek's_disease\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/Wikipedia#_Viral_arthritis_%28poultry%29> \"Wikipedia:Viral_arthritis_(poultry)\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/Wikipedia#_Hip_dysplasia_%28canine%29> \"Wikipedia:Hip_dysplasia_(canine)\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/Wikipedia#_Derzsy%27s_disease> \"Wikipedia:Derzsy's_disease\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/Wikipedia#_Ehrlichiosis_%28canine%29> \"Wikipedia:Ehrlichiosis_(canine)\"^^xsd:string)\nAnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/Wikipedia#_Ringtail_%28disease%29> \"Wikipedia:Ringtail_(disease)\"^^xsd:string)\n)
-
-[Term]
-id: Wikipedia:1924_Los_Angeles_pneumonic_plague_outbreak
-name: 1924 los angeles pneumonic plague outbreak
-namespace: dbpedia
-def: "The 1924 Los Angeles pneumonic plague outbreak began October 30, 1924, and was declared fully contained on November 13, 1924. It represented the first time plague had emerged in Southern California. Previously, plague outbreaks had arisen in San Francisco and nearby Oakland marking the first time plague had emerged in California. The Los Angeles outbreak began on October 30th, lasted two weeks, and killed 30 people. Public health officials credited the lessons learned from the San Francisco outbreak coupled with swiftly implemented measures, including hospitalization of the sick and all their contacts, a neighborhood quarantine, and a large-scale rat eradication program, with saving lives." [Wikipedia:1924_Los_Angeles_pneumonic_plague_outbreak]
-xref: http://commons.wikimedia.org/wiki/Special\:FilePath/Los_Angeles_Freeway_Map.png
-xref: Wikidata:Q17107868
-is_a: WikipediaCategory:1924_in_California
-is_a: WikipediaCategory:Health_disasters_in_the_United_States
-is_a: WikipediaCategory:Insect-borne_diseases
-is_a: WikipediaCategory:Plague_%28disease%29
-is_a: WikipediaCategory:Zoonotic_bacterial_diseases
-
-[Term]
-id: Wikidata:Q4608004
-name: 2007 australian equine influenza outbreak
-namespace: dbpedia
-def: "An outbreak of equine influenza (EI) in Australia was confirmed by the New South Wales Department of Primary Industries on 24 August 2007 in Sydney. Also known as \"horse flu\" and \"A1 influenza\", the rapid outbreak was of the Influenza A virus strain of subtype H3N8. While the virus is highly contagious, it rarely kills adult horses but the performance of thoroughbred racing horses can be affected for several weeks. It can be fatal to young foals and debilitated horses.Because of strict quarantine procedures to reduce the risk of exotic pests and diseases entering Australia, this was the first outbreak of equine influenza in Australia. Horses in Australia had not been exposed to the virus and, not being vaccinated, were fully susceptible.A combination of control measures was successful in combating the outbreak. The last new infected property was identified on 22 December 2007. The zones which had been instituted to permit and restrict movements according to risk were progressively lifted from areas of New South Wales and Queensland. Following the provisional declaration of EI-free status for New South Wales and Queensland, ongoing surveillance and tracking measures are required until the international community recognises that the disease has been eradicated from Australia." [Wikipedia:2007_Australian_equine_influenza_outbreak]
-xref: http://commons.wikimedia.org/wiki/Special\:FilePath/Equine-flu-alert-nsw.jpg
-xref: Wikidata:Q4608004
-is_a: WikipediaCategory:2000s_medical_outbreaks
-is_a: WikipediaCategory:2007_health_disasters
-is_a: WikipediaCategory:2007_in_Australia
-is_a: WikipediaCategory:Health_in_Australia
-is_a: WikipediaCategory:Horse_diseases
-is_a: WikipediaCategory:Horse_racing_in_Australia
-is_a: WikipediaCategory:Influenza
 
 [Term]
 id: Wikipedia:Abelson_murine_leukemia_virus
@@ -2273,14 +2244,6 @@ is_a: WikipediaCategory:Dog_diseases
 is_a: WikipediaCategory:Epilepsy
 
 [Term]
-id: Wikidata:Q1126331
-name: epizootic
-namespace: dbpedia
-def: "In epizoology, an epizootic (from Greek epi- upon + zoon animal) is a disease that appears as new cases in a given animal population, during a given period, at a rate that substantially exceeds what is \"expected\" based on recent experience (i.e. a sharp elevation in the incidence rate). Epidemic is the analogous term applied to human populations. High population density is a major contributing factor to epizootics. Aquaculture is an industry sometimes plagued by disease because of the large number of fish confined to a small area.Defining an epizootic can be subjective, depending in part on what is \"expected\". An epizootic may be: a) restricted to a specific locale (an outbreak), b) general (an \"epizootic\") or c) widespread (panzootic). Because it is based on what is \"expected\" or thought normal, a few cases of a very rare disease (like a TSE outbreak in a cervid population) might be classified as an \"epizootic\", while many cases of a common disease (like lymphocystis in esocids) would not. Common diseases that occur at a constant but relatively high rate in the population are said to be \"enzootic\". An example of an enzootic disease would be the influenza virus in some bird populations or, at a lower incidence, the Type IVb strain of VHS in certain Atlantic fish populations.An example of an epizootic would be the 1990 outbreak of Newcastle disease virus in double-crested cormorant colonies on the Great Lakes that resulted in the death of some 10,000 birds." [Wikipedia:Epizootic]
-xref: Wikidata:Q1126331
-is_a: WikipediaCategory:Animal_diseases
-
-[Term]
 id: Wikipedia:Epizootic_Hemorrhagic_Disease
 name: epizootic hemorrhagic disease
 namespace: dbpedia
@@ -2547,16 +2510,6 @@ namespace: dbpedia
 def: "Ethmoid hematoma is a progressive and locally destructive disease of horses. It is indicated by a mass in the paranasal sinuses, that resembles a tumor but is not neoplastic by any means. The origins and causes of the ethmoid hematoma are generally unknown. Large hematomas usually start within the ethmoid labyrinth, and smaller ones tend to begin on the sinus floor.The hematoma usually extends into the nasal passage. A growing hematoma causes pressure necrosis of the bone surrounding the hematoma, but only on rare occasions does it cause facial distortion. It is most commonly seen in horses older than 6 years. Mild, persistent, spontaneous, intermittent, and unilateral epistaxis is the most common sign clinically." [Wikipedia:Ethmoid_hematoma]
 xref: Wikidata:Q5404126
 is_a: WikipediaCategory:Horse_diseases
-
-[Term]
-id: Wikidata:Q5412422
-name: european community reference laboratory for fish diseases
-namespace: dbpedia
-def: "The European Community Reference Laboratory for Fish Diseases is located in Frederiksberg in Denmark at the National Veterinary Institute (a part of Technical University of Denmark).A main purpose of the CRL is to ensure the quality of diagnostics of fish diseases in EU Member States and to harmonise the procedures and methodologies applied. The work is mainly concerned with the exotic (Epizootic Haematopoietic Necrosis Virus and Epizootic Ulcerative Syndrome) and non-exotic (Viral hemorrhagic septicemia, Infectious hematopoietic necrosis virus, Koi herpes virus, and Infectious salmon anemia virus) diseases mentioned in Council Directive 2006/88/EC. The CRL co-ordinates those activities of the National Reference Laboratories (NRLs) for Fish diseases in EU that aim to harmonise diagnostic techniques and disseminate information of mutual interest. The work of the CRL also includes development of a database (Fishpathogens.eu) that aims to collect information on fish disease isolates and their sequences. Details of the work programme is decided at the Annual Meeting of the NRLs for Fish Diseases." [Wikipedia:European_Community_Reference_Laboratory_for_Fish_Diseases]
-xref: Wikidata:Q5412422
-is_a: WikipediaCategory:Agencies_of_the_European_Union
-is_a: WikipediaCategory:Aquaculture
-is_a: WikipediaCategory:Fish_diseases
 
 [Term]
 id: Wikidata:Q5420060
@@ -4070,20 +4023,6 @@ xref: Wikidata:Q1778998
 is_a: WikipediaCategory:Dog_diseases
 
 [Term]
-id: Wikidata:Q6603976
-name: list of west nile virus outbreaks
-namespace: dbpedia
-def: "United States: From 1999 through 2001, the CDC confirmed 149 West Nile virus infections, including 18 deaths. In 2002, a total of 4,156 cases were reported, including 284 fatalities. Thirteen cases in 2002 were contracted through blood transfusion. The cost of WNV-related health care in 2002 was estimated at $200 million. The first human West Nile disease in 2003 occurred in June, and one West Nile-infected blood transfusion was also identified that month.In the 2003 outbreak, 9,862 cases and 264 deaths were reported by the CDC. At least 30% of those cases were considered severe, involving meningitis or encephalitis. In 2004, only 2,539 cases and 100 deaths were reported. In 2005, there was a slight increase in the number of cases, with 3,000 cases and 119 deaths reported. Cases increased in 2006, with 4,269 cases and 177 deaths. In 2007, the number of cases reported decreased to 3,623 and the number of deaths dropped to 124. In 2007, 1,227 cases of WNV neuroinvasion disease and 117 deaths occurred.In 2008, West Nile surveillance data reported to CDC, a total of 28 states have reported 236 cases of human WNV illness. A total of 137 cases for which such data were available occurred in males, median age patients was 48 years. Dates of illness onset ranged from January 17 to August 14: Two cases were fatal.In 2009, 663 cases were reported; of these, 335 were encephalitis or meningitis infections, a reaction to the virus that approximately one in 150 people who get the virus will show. Three hundred and two cases were filed for West Nile fever, the most likely symptom of the virus; 26 cases were unspecified. The state of Texas had the most cases, with 104 total. The total mortality rate for 2009 was 32 deaths of the 663 reported serious cases, a 4.5% casualty rate, but only of the severe infections. Approximately 80% of cases have no symptoms, so the total casualty rate would be less than 1% of total infections in the U.S. These and earlier years data are available from the Centers for Disease Control and Prevention.Dallas County, Texas health officials announced in the second week of August 2012 a death toll of nine so far in the county. County Judge Clay Jenkins declared a public health emergency for the county on August 9, 2012, due to the West Nile virus outbreak in the area. North Texas has been hit the hardest in 2012, with approximately 663 human cases and 18 deaths, as of August 23, 2012. During the same time, the CDC reported 1,118 human cases and 41 deaths nationwide.Canada: One human death occurred in 1999. In 2002, ten human deaths out of 416 confirmed and probable cases were reported by Canadian health officials. In 2003, 14 deaths and 1,494 confirmed and probable cases were reported. Cases were reported in 2003 in Nova Scotia, Quebec, Ontario, Manitoba, Saskatchewan, Alberta, British Columbia, and the Yukon. In 2004, only 26 cases were reported and two deaths; however, 2005 saw 239 cases and 12 deaths. By October 28, 2006, 127 cases and no deaths had been reported. One case was asymptomatic and only discovered through a blood donation. In 2007, 445 Manitobans had confirmed cases of WNV and two people died with a third unconfirmed but suspected. Summer of 2012 saw widespread viral penetration in Canada, coast to coast. 17 people have either tested positive or are suspected of having the virus in Saskatchewan, and only one person has tested positive in Alberta.Saskatchewan has reported 826 cases of WNV plus three deaths. The spread of West Nile Virus infected mosquitoes to British Columbia for the first time was reported in 2009Israel: In the year 2000, the CDC found 417 confirmed cases with 326 hospitalizations; 33 of these people died. The main clinical presentations were encephalitis (57.9%), febrile disease (24.4%), and meningitis (15.9%).Romania: In 1996–1997, about 500 cases occurred in Romania with a fatality rate of nearly 10%. In 2010, 34 cases were confirmed, with 3 fatalities.Greece: In the summer of 2010, several cases were reported mainly in northern Greece, a countrywide total of 262 diagnosed cases and 35 fatalities. In 2011 the virus spread to central Greece but with fewer cases, 101 diagnosed and 9 fatalities. In 2012, 44 were diagnosed and 3 died. The total number of people in Greece infected by the virus is estimated to 1,800. In 2013, 35 diagnosed and 1 died.↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑" [Wikipedia:List_of_West_Nile_virus_outbreaks]
-xref: http://commons.wikimedia.org/wiki/Special\:FilePath/Global_distribution_of_West_Nile_virus-CDC.gif
-xref: Wikidata:Q6603976
-is_a: WikipediaCategory:Arthropod-borne_viral_fevers_and_viral_haemorrhagic_fevers
-is_a: WikipediaCategory:Flaviviruses
-is_a: WikipediaCategory:Horse_diseases
-is_a: WikipediaCategory:Insect-borne_diseases
-is_a: WikipediaCategory:Tropical_diseases
-is_a: WikipediaCategory:Zoonoses
-
-[Term]
 id: Wikidata:Q3079061
 name: list of aquarium diseases
 namespace: dbpedia
@@ -4093,17 +4032,6 @@ xref: Wikidata:Q3079061
 is_a: WikipediaCategory:Fish_diseases
 is_a: WikipediaCategory:Fish_health
 is_a: WikipediaCategory:Fishkeeping
-
-[Term]
-id: Wikidata:Q3048621
-name: list of diseases of the honey bee
-namespace: dbpedia
-def: "Diseases of the honey bee or abnormal hive conditions include:" [Wikipedia:List_of_diseases_of_the_honey_bee]
-xref: http://commons.wikimedia.org/wiki/Special\:FilePath/Varroa_on_larvae.jpg
-xref: Wikidata:Q3048621
-is_a: WikipediaCategory:Agricultural_pests
-is_a: WikipediaCategory:Beekeeping
-is_a: WikipediaCategory:Insect_diseases
 
 [Term]
 id: Wikidata:Q38912
@@ -4577,27 +4505,6 @@ is_a: WikipediaCategory:Gram-negative_bacteria
 is_a: WikipediaCategory:Moraxellaceae
 
 [Term]
-id: Wikipedia:Moredun_Research_Institute
-name: moredun research institute
-namespace: dbpedia
-def: "The Moredun Research Institute is a scientific research institution based at the Pentlands Science Park, in the Bush Estate area of Midlothian, Scotland. It conducts research into diseases of farm livestock and the promotion of animal health and welfare.Moredun employs over 200 vets, scientists and support staff, funded primarily by the Agriculture, Food and Rural Communities Directorate of the Scottish Government. The Institute received £7.1 million from the government in 2010-11." [Wikipedia:Moredun_Research_Institute]
-xref: Wikidata:Q6911236
-is_a: WikipediaCategory:1920_establishments_in_Scotland
-is_a: WikipediaCategory:Agricultural_research_institutes
-is_a: WikipediaCategory:Agriculture_in_Scotland
-is_a: WikipediaCategory:Agronomy
-is_a: WikipediaCategory:Animal_health_in_the_United_Kingdom
-is_a: WikipediaCategory:Animal_husbandry
-is_a: WikipediaCategory:Buildings_and_structures_in_Midlothian
-is_a: WikipediaCategory:Organisations_based_in_Midlothian
-is_a: WikipediaCategory:Organisations_supported_by_the_Scottish_Government
-is_a: WikipediaCategory:Research_institutes_established_in_1920
-is_a: WikipediaCategory:Research_institutes_in_Scotland
-is_a: WikipediaCategory:Sheep_and_goat_diseases
-is_a: WikipediaCategory:Veterinary_research_institutes
-is_a: WikipediaCategory:Zoology_organizations
-
-[Term]
 id: Wikipedia:Mouse_hepatitis_virus
 name: mouse hepatitis virus
 namespace: dbpedia
@@ -4961,16 +4868,6 @@ def: "Ovine rinderpest, also commonly known as peste des petits ruminants (PPR),
 xref: Wikidata:Q707609
 is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Sheep_and_goat_diseases
-
-[Term]
-id: Wikipedia:PEPPADEP
-name: peppadep
-namespace: dbpedia
-def: "PEPPADEP is the acronym for Programme pour l’Eradication de la Peste Porcine Africaine et pour le Développement de l'Elvage Porcin or the African Swine Fever Eradication and Swine Industry Development Project, a development project launched in 1981 by the Food and Agriculture Organization of the United Nations; the Interamericano Institute de Ciencias Agricola (IICA), a branch of the Organization of American States; the International Development Bank; the governments of Mexico, Canada, the United States; and the government of Haiti to \"eliminate the debilitating effects of African Swine Fever (ASF) in Haiti and to begin development of a productive swine industry.\"African Swine Fever, though it endangers neither humans nor other animals, decimates swine populations because it has neither vaccinations nor medications to stymie the spread of the fever. When AFS first made its appearance in the Dominican Republic, the Haitian government ordered the extermination of all Haitian swine on the border within a radius of 15 kilometers-100,000 pigs were slaughtered. The peasants received no compensation for the losses they suffered and the preventive measure failed to stop the disease from spreading. In late 1978 ASF spread to Haiti and the peasantry was devastated. Haiti's northern neighbors watched the spread with apprehension. Studies indicated that if African Swine Fever ever came to the United States it could wreak $150 million to $5 billion worth of damage. This fear lead the American, Canadian, and Mexican governments, through IICA, imposed a Swine Fever eradication plan on the Haitian government. This plan, PEPPADEP, was simple: kill all the swine in Haiti and restock the swine population with foreign pigs-either from the United States, Canada, or Mexico.ASF is a highly contagious viral disease infecting domestic pigs, warthogs and bush pigs, as well as soft ticks. The virus causes a lethal haemorraghic disease in domestic pigs; some strains can cause death of animals within as little as a week after infection. The disease was first recorded in Kenya in 1921 and is found in most sub-Saharan African countries. It spread to southern Europe in 1957 and the Caribbean in the 1970s. ASF made its way from Europe or Africa to the Dominican Republic, and spread to Haiti in the late 1970s." [Wikipedia:PEPPADEP]
-xref: Wikidata:Q7118992
-is_a: WikipediaCategory:Food_and_Agriculture_Organization
-is_a: WikipediaCategory:Health_in_Haiti
-is_a: WikipediaCategory:Swine_diseases
 
 [Term]
 id: Wikidata:Q2741523
@@ -5759,26 +5656,6 @@ xref: Wikidata:Q16989298
 is_a: WikipediaCategory:Hantaviruses
 is_a: WikipediaCategory:Rodent-carried_diseases
 is_a: WikipediaCategory:Zoonoses
-
-[Term]
-id: Wikipedia:Risk_assessment_for_organic_swine_health
-name: risk assessment for organic swine health
-namespace: dbpedia
-def: "Given the variety of diseases prevalent in swine production, both in the United States and abroad, it is important to understand the risks associated with organic swine production. Overall numbers for certified organic livestock remain low compared to the overall U.S. swine numbers, with approximately 12,000 animals in 2011. However, since 1992, stocks have increased dramatically, with an annual growth rate of 20 percent in total U.S. organic stock. Additionally, there are thousands of non-certified organic swine herds which are not accounted in official statistics, but where farmers still use organic production practices. Consumer demand, stemming from the larger organic agriculture movement has helped spurred growth in this industry. The overall segment, although minuscule compared to the conventional national average, still represents a strong and growing segment in U.S. pork production. The definition of organic swine according to the USDA National Organic Program (NOP), is largely unchanged:" [Wikipedia:Risk_assessment_for_organic_swine_health]
-xref: Wikidata:Q17163259
-is_a: WikipediaCategory:Pig_farming
-is_a: WikipediaCategory:Risk_management
-is_a: WikipediaCategory:Swine_diseases
-
-[Term]
-id: Wikipedia:Risk_of_Missed_PRRS_PCR_Detection
-name: risk of missed prrs pcr detection
-namespace: dbpedia
-def: "Porcine reproductive and respiratory syndrome virus (PRRSV) is an RNA virus that causes reproductive and respiratory disease in swine. PRRS was first recognized in midwestern United States in the late 1980s. Pork producers and veterinarians use vaccination, test-and-removal, and other farm-management practices as strategies to control spread of the virus. Although clinical signs of PRRSV infection are now well known, a number of other common respiratory and reproductive diseases may appear clinically similar which has made laboratory diagnostic testing important. Testing populations of pigs for presence of the virus requires taking blood or oral fluid samples and sending them to a diagnostic lab. Oral fluids collection kits are commercially available." [Wikipedia:Risk_of_Missed_PRRS_PCR_Detection]
-xref: http://commons.wikimedia.org/wiki/Special\:FilePath/Virus_Replication_large.svg
-xref: Wikidata:Q7336290
-is_a: WikipediaCategory:Pig_farming
-is_a: WikipediaCategory:Swine_diseases
 
 [Term]
 id: Wikipedia:Rockport_virus
@@ -7228,20 +7105,6 @@ xref: http://commons.wikimedia.org/wiki/Special\:FilePath/Rabid_dog.jpg
 xref: Wikidata:Q182672
 is_a: WikipediaCategory:Animal_diseases
 is_a: WikipediaCategory:Zoonoses
-
-[Term]
-id: Wikidata:Q8074198
-name: zoophilia and health
-namespace: dbpedia
-def: "Sexual contact with animals is associated with several significant health risks. Areas of possible concern are infection, physical injury and allergic reaction." [Wikipedia:Zoophilia_and_health]
-xref: http://commons.wikimedia.org/wiki/Special\:FilePath/Avenger_-_Westphalian_horse.jpg
-xref: Wikidata:Q8074198
-is_a: WikipediaCategory:Animal_diseases
-is_a: WikipediaCategory:Human%25E2%2580%2593animal_interaction
-is_a: WikipediaCategory:Sexually_transmitted_diseases_and_infections
-is_a: WikipediaCategory:Veterinary_medicine
-is_a: WikipediaCategory:Zoonoses
-is_a: WikipediaCategory:Zoophilia
 
 [Term]
 id: Wikidata:Q3046374

@@ -498,30 +498,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
 
 
 
-###  http://purl.obolibrary.org/obo/Wikidata_Q1126331
-
-<http://purl.obolibrary.org/obo/Wikidata_Q1126331> rdf:type owl:Class ;
-                                                   
-                                                   rdfs:label "epizootic"^^xsd:string ;
-                                                   
-                                                   rdfs:subClassOf <http://purl.obolibrary.org/obo/WikipediaCategory#_Animal_diseases> ;
-                                                   
-                                                   <http://purl.obolibrary.org/obo/IAO_0000115> "In epizoology, an epizootic (from Greek epi- upon + zoon animal) is a disease that appears as new cases in a given animal population, during a given period, at a rate that substantially exceeds what is \"expected\" based on recent experience (i.e. a sharp elevation in the incidence rate). Epidemic is the analogous term applied to human populations. High population density is a major contributing factor to epizootics. Aquaculture is an industry sometimes plagued by disease because of the large number of fish confined to a small area.Defining an epizootic can be subjective, depending in part on what is \"expected\". An epizootic may be: a) restricted to a specific locale (an outbreak), b) general (an \"epizootic\") or c) widespread (panzootic). Because it is based on what is \"expected\" or thought normal, a few cases of a very rare disease (like a TSE outbreak in a cervid population) might be classified as an \"epizootic\", while many cases of a common disease (like lymphocystis in esocids) would not. Common diseases that occur at a constant but relatively high rate in the population are said to be \"enzootic\". An example of an enzootic disease would be the influenza virus in some bird populations or, at a lower incidence, the Type IVb strain of VHS in certain Atlantic fish populations.An example of an epizootic would be the 1990 outbreak of Newcastle disease virus in double-crested cormorant colonies on the Great Lakes that resulted in the death of some 10,000 birds."^^xsd:string ;
-                                                   
-                                                   <http://www.geneontology.org/formats/oboInOwl#id> "Wikidata:Q1126331"^^xsd:string ;
-                                                   
-                                                   <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "Wikidata:Q1126331"^^xsd:string ;
-                                                   
-                                                   <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "dbpedia"^^xsd:string .
-[ rdf:type owl:Axiom ;
-  owl:annotatedTarget "In epizoology, an epizootic (from Greek epi- upon + zoon animal) is a disease that appears as new cases in a given animal population, during a given period, at a rate that substantially exceeds what is \"expected\" based on recent experience (i.e. a sharp elevation in the incidence rate). Epidemic is the analogous term applied to human populations. High population density is a major contributing factor to epizootics. Aquaculture is an industry sometimes plagued by disease because of the large number of fish confined to a small area.Defining an epizootic can be subjective, depending in part on what is \"expected\". An epizootic may be: a) restricted to a specific locale (an outbreak), b) general (an \"epizootic\") or c) widespread (panzootic). Because it is based on what is \"expected\" or thought normal, a few cases of a very rare disease (like a TSE outbreak in a cervid population) might be classified as an \"epizootic\", while many cases of a common disease (like lymphocystis in esocids) would not. Common diseases that occur at a constant but relatively high rate in the population are said to be \"enzootic\". An example of an enzootic disease would be the influenza virus in some bird populations or, at a lower incidence, the Type IVb strain of VHS in certain Atlantic fish populations.An example of an epizootic would be the 1990 outbreak of Newcastle disease virus in double-crested cormorant colonies on the Great Lakes that resulted in the death of some 10,000 birds."^^xsd:string ;
-  <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "Wikipedia:Epizootic"^^xsd:string ;
-  owl:annotatedProperty <http://purl.obolibrary.org/obo/IAO_0000115> ;
-  owl:annotatedSource <http://purl.obolibrary.org/obo/Wikidata_Q1126331>
-] .
-
-
-
 ###  http://purl.obolibrary.org/obo/Wikidata_Q1129598
 
 <http://purl.obolibrary.org/obo/Wikidata_Q1129598> rdf:type owl:Class ;
@@ -6369,38 +6345,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
 
 
 
-###  http://purl.obolibrary.org/obo/Wikidata_Q4608004
-
-<http://purl.obolibrary.org/obo/Wikidata_Q4608004> rdf:type owl:Class ;
-                                                   
-                                                   rdfs:label "2007 australian equine influenza outbreak"^^xsd:string ;
-                                                   
-                                                   rdfs:subClassOf <http://purl.obolibrary.org/obo/WikipediaCategory_Influenza> ,
-                                                                   <http://purl.obolibrary.org/obo/WikipediaCategory#_2000s_medical_outbreaks> ,
-                                                                   <http://purl.obolibrary.org/obo/WikipediaCategory#_2007_health_disasters> ,
-                                                                   <http://purl.obolibrary.org/obo/WikipediaCategory#_2007_in_Australia> ,
-                                                                   <http://purl.obolibrary.org/obo/WikipediaCategory#_Health_in_Australia> ,
-                                                                   <http://purl.obolibrary.org/obo/WikipediaCategory#_Horse_diseases> ,
-                                                                   <http://purl.obolibrary.org/obo/WikipediaCategory#_Horse_racing_in_Australia> ;
-                                                   
-                                                   <http://purl.obolibrary.org/obo/IAO_0000115> "An outbreak of equine influenza (EI) in Australia was confirmed by the New South Wales Department of Primary Industries on 24 August 2007 in Sydney. Also known as \"horse flu\" and \"A1 influenza\", the rapid outbreak was of the Influenza A virus strain of subtype H3N8. While the virus is highly contagious, it rarely kills adult horses but the performance of thoroughbred racing horses can be affected for several weeks. It can be fatal to young foals and debilitated horses.Because of strict quarantine procedures to reduce the risk of exotic pests and diseases entering Australia, this was the first outbreak of equine influenza in Australia. Horses in Australia had not been exposed to the virus and, not being vaccinated, were fully susceptible.A combination of control measures was successful in combating the outbreak. The last new infected property was identified on 22 December 2007. The zones which had been instituted to permit and restrict movements according to risk were progressively lifted from areas of New South Wales and Queensland. Following the provisional declaration of EI-free status for New South Wales and Queensland, ongoing surveillance and tracking measures are required until the international community recognises that the disease has been eradicated from Australia."^^xsd:string ;
-                                                   
-                                                   <http://www.geneontology.org/formats/oboInOwl#id> "Wikidata:Q4608004"^^xsd:string ;
-                                                   
-                                                   <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "Wikidata:Q4608004"^^xsd:string ;
-                                                   
-                                                   <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "dbpedia"^^xsd:string ;
-                                                   
-                                                   <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "http://commons.wikimedia.org/wiki/Special:FilePath/Equine-flu-alert-nsw.jpg"^^xsd:string .
-[ rdf:type owl:Axiom ;
-  owl:annotatedTarget "An outbreak of equine influenza (EI) in Australia was confirmed by the New South Wales Department of Primary Industries on 24 August 2007 in Sydney. Also known as \"horse flu\" and \"A1 influenza\", the rapid outbreak was of the Influenza A virus strain of subtype H3N8. While the virus is highly contagious, it rarely kills adult horses but the performance of thoroughbred racing horses can be affected for several weeks. It can be fatal to young foals and debilitated horses.Because of strict quarantine procedures to reduce the risk of exotic pests and diseases entering Australia, this was the first outbreak of equine influenza in Australia. Horses in Australia had not been exposed to the virus and, not being vaccinated, were fully susceptible.A combination of control measures was successful in combating the outbreak. The last new infected property was identified on 22 December 2007. The zones which had been instituted to permit and restrict movements according to risk were progressively lifted from areas of New South Wales and Queensland. Following the provisional declaration of EI-free status for New South Wales and Queensland, ongoing surveillance and tracking measures are required until the international community recognises that the disease has been eradicated from Australia."^^xsd:string ;
-  <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "Wikipedia:2007_Australian_equine_influenza_outbreak"^^xsd:string ;
-  owl:annotatedProperty <http://purl.obolibrary.org/obo/IAO_0000115> ;
-  owl:annotatedSource <http://purl.obolibrary.org/obo/Wikidata_Q4608004>
-] .
-
-
-
 ###  http://purl.obolibrary.org/obo/Wikidata_Q46305
 
 <http://purl.obolibrary.org/obo/Wikidata_Q46305> rdf:type owl:Class ;
@@ -10895,37 +10839,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
 
 
 
-###  http://purl.obolibrary.org/obo/Wikidata_Q6603976
-
-<http://purl.obolibrary.org/obo/Wikidata_Q6603976> rdf:type owl:Class ;
-                                                   
-                                                   rdfs:label "list of west nile virus outbreaks"^^xsd:string ;
-                                                   
-                                                   rdfs:subClassOf <http://purl.obolibrary.org/obo/WikipediaCategory_Flaviviruses> ,
-                                                                   <http://purl.obolibrary.org/obo/WikipediaCategory_Zoonoses> ,
-                                                                   <http://purl.obolibrary.org/obo/WikipediaCategory#_Arthropod-borne_viral_fevers_and_viral_haemorrhagic_fevers> ,
-                                                                   <http://purl.obolibrary.org/obo/WikipediaCategory#_Horse_diseases> ,
-                                                                   <http://purl.obolibrary.org/obo/WikipediaCategory#_Insect-borne_diseases> ,
-                                                                   <http://purl.obolibrary.org/obo/WikipediaCategory#_Tropical_diseases> ;
-                                                   
-                                                   <http://purl.obolibrary.org/obo/IAO_0000115> "United States: From 1999 through 2001, the CDC confirmed 149 West Nile virus infections, including 18 deaths. In 2002, a total of 4,156 cases were reported, including 284 fatalities. Thirteen cases in 2002 were contracted through blood transfusion. The cost of WNV-related health care in 2002 was estimated at $200 million. The first human West Nile disease in 2003 occurred in June, and one West Nile-infected blood transfusion was also identified that month.In the 2003 outbreak, 9,862 cases and 264 deaths were reported by the CDC. At least 30% of those cases were considered severe, involving meningitis or encephalitis. In 2004, only 2,539 cases and 100 deaths were reported. In 2005, there was a slight increase in the number of cases, with 3,000 cases and 119 deaths reported. Cases increased in 2006, with 4,269 cases and 177 deaths. In 2007, the number of cases reported decreased to 3,623 and the number of deaths dropped to 124. In 2007, 1,227 cases of WNV neuroinvasion disease and 117 deaths occurred.In 2008, West Nile surveillance data reported to CDC, a total of 28 states have reported 236 cases of human WNV illness. A total of 137 cases for which such data were available occurred in males, median age patients was 48 years. Dates of illness onset ranged from January 17 to August 14: Two cases were fatal.In 2009, 663 cases were reported; of these, 335 were encephalitis or meningitis infections, a reaction to the virus that approximately one in 150 people who get the virus will show. Three hundred and two cases were filed for West Nile fever, the most likely symptom of the virus; 26 cases were unspecified. The state of Texas had the most cases, with 104 total. The total mortality rate for 2009 was 32 deaths of the 663 reported serious cases, a 4.5% casualty rate, but only of the severe infections. Approximately 80% of cases have no symptoms, so the total casualty rate would be less than 1% of total infections in the U.S. These and earlier years data are available from the Centers for Disease Control and Prevention.Dallas County, Texas health officials announced in the second week of August 2012 a death toll of nine so far in the county. County Judge Clay Jenkins declared a public health emergency for the county on August 9, 2012, due to the West Nile virus outbreak in the area. North Texas has been hit the hardest in 2012, with approximately 663 human cases and 18 deaths, as of August 23, 2012. During the same time, the CDC reported 1,118 human cases and 41 deaths nationwide.Canada: One human death occurred in 1999. In 2002, ten human deaths out of 416 confirmed and probable cases were reported by Canadian health officials. In 2003, 14 deaths and 1,494 confirmed and probable cases were reported. Cases were reported in 2003 in Nova Scotia, Quebec, Ontario, Manitoba, Saskatchewan, Alberta, British Columbia, and the Yukon. In 2004, only 26 cases were reported and two deaths; however, 2005 saw 239 cases and 12 deaths. By October 28, 2006, 127 cases and no deaths had been reported. One case was asymptomatic and only discovered through a blood donation. In 2007, 445 Manitobans had confirmed cases of WNV and two people died with a third unconfirmed but suspected. Summer of 2012 saw widespread viral penetration in Canada, coast to coast. 17 people have either tested positive or are suspected of having the virus in Saskatchewan, and only one person has tested positive in Alberta.Saskatchewan has reported 826 cases of WNV plus three deaths. The spread of West Nile Virus infected mosquitoes to British Columbia for the first time was reported in 2009Israel: In the year 2000, the CDC found 417 confirmed cases with 326 hospitalizations; 33 of these people died. The main clinical presentations were encephalitis (57.9%), febrile disease (24.4%), and meningitis (15.9%).Romania: In 1996–1997, about 500 cases occurred in Romania with a fatality rate of nearly 10%. In 2010, 34 cases were confirmed, with 3 fatalities.Greece: In the summer of 2010, several cases were reported mainly in northern Greece, a countrywide total of 262 diagnosed cases and 35 fatalities. In 2011 the virus spread to central Greece but with fewer cases, 101 diagnosed and 9 fatalities. In 2012, 44 were diagnosed and 3 died. The total number of people in Greece infected by the virus is estimated to 1,800. In 2013, 35 diagnosed and 1 died.↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑"^^xsd:string ;
-                                                   
-                                                   <http://www.geneontology.org/formats/oboInOwl#id> "Wikidata:Q6603976"^^xsd:string ;
-                                                   
-                                                   <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "Wikidata:Q6603976"^^xsd:string ;
-                                                   
-                                                   <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "dbpedia"^^xsd:string ;
-                                                   
-                                                   <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "http://commons.wikimedia.org/wiki/Special:FilePath/Global_distribution_of_West_Nile_virus-CDC.gif"^^xsd:string .
-[ rdf:type owl:Axiom ;
-  owl:annotatedTarget "United States: From 1999 through 2001, the CDC confirmed 149 West Nile virus infections, including 18 deaths. In 2002, a total of 4,156 cases were reported, including 284 fatalities. Thirteen cases in 2002 were contracted through blood transfusion. The cost of WNV-related health care in 2002 was estimated at $200 million. The first human West Nile disease in 2003 occurred in June, and one West Nile-infected blood transfusion was also identified that month.In the 2003 outbreak, 9,862 cases and 264 deaths were reported by the CDC. At least 30% of those cases were considered severe, involving meningitis or encephalitis. In 2004, only 2,539 cases and 100 deaths were reported. In 2005, there was a slight increase in the number of cases, with 3,000 cases and 119 deaths reported. Cases increased in 2006, with 4,269 cases and 177 deaths. In 2007, the number of cases reported decreased to 3,623 and the number of deaths dropped to 124. In 2007, 1,227 cases of WNV neuroinvasion disease and 117 deaths occurred.In 2008, West Nile surveillance data reported to CDC, a total of 28 states have reported 236 cases of human WNV illness. A total of 137 cases for which such data were available occurred in males, median age patients was 48 years. Dates of illness onset ranged from January 17 to August 14: Two cases were fatal.In 2009, 663 cases were reported; of these, 335 were encephalitis or meningitis infections, a reaction to the virus that approximately one in 150 people who get the virus will show. Three hundred and two cases were filed for West Nile fever, the most likely symptom of the virus; 26 cases were unspecified. The state of Texas had the most cases, with 104 total. The total mortality rate for 2009 was 32 deaths of the 663 reported serious cases, a 4.5% casualty rate, but only of the severe infections. Approximately 80% of cases have no symptoms, so the total casualty rate would be less than 1% of total infections in the U.S. These and earlier years data are available from the Centers for Disease Control and Prevention.Dallas County, Texas health officials announced in the second week of August 2012 a death toll of nine so far in the county. County Judge Clay Jenkins declared a public health emergency for the county on August 9, 2012, due to the West Nile virus outbreak in the area. North Texas has been hit the hardest in 2012, with approximately 663 human cases and 18 deaths, as of August 23, 2012. During the same time, the CDC reported 1,118 human cases and 41 deaths nationwide.Canada: One human death occurred in 1999. In 2002, ten human deaths out of 416 confirmed and probable cases were reported by Canadian health officials. In 2003, 14 deaths and 1,494 confirmed and probable cases were reported. Cases were reported in 2003 in Nova Scotia, Quebec, Ontario, Manitoba, Saskatchewan, Alberta, British Columbia, and the Yukon. In 2004, only 26 cases were reported and two deaths; however, 2005 saw 239 cases and 12 deaths. By October 28, 2006, 127 cases and no deaths had been reported. One case was asymptomatic and only discovered through a blood donation. In 2007, 445 Manitobans had confirmed cases of WNV and two people died with a third unconfirmed but suspected. Summer of 2012 saw widespread viral penetration in Canada, coast to coast. 17 people have either tested positive or are suspected of having the virus in Saskatchewan, and only one person has tested positive in Alberta.Saskatchewan has reported 826 cases of WNV plus three deaths. The spread of West Nile Virus infected mosquitoes to British Columbia for the first time was reported in 2009Israel: In the year 2000, the CDC found 417 confirmed cases with 326 hospitalizations; 33 of these people died. The main clinical presentations were encephalitis (57.9%), febrile disease (24.4%), and meningitis (15.9%).Romania: In 1996–1997, about 500 cases occurred in Romania with a fatality rate of nearly 10%. In 2010, 34 cases were confirmed, with 3 fatalities.Greece: In the summer of 2010, several cases were reported mainly in northern Greece, a countrywide total of 262 diagnosed cases and 35 fatalities. In 2011 the virus spread to central Greece but with fewer cases, 101 diagnosed and 9 fatalities. In 2012, 44 were diagnosed and 3 died. The total number of people in Greece infected by the virus is estimated to 1,800. In 2013, 35 diagnosed and 1 died.↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑"^^xsd:string ;
-  <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "Wikipedia:List_of_West_Nile_virus_outbreaks"^^xsd:string ;
-  owl:annotatedProperty <http://purl.obolibrary.org/obo/IAO_0000115> ;
-  owl:annotatedSource <http://purl.obolibrary.org/obo/Wikidata_Q6603976>
-] .
-
-
-
 ###  http://purl.obolibrary.org/obo/Wikidata_Q662298
 
 <http://purl.obolibrary.org/obo/Wikidata_Q662298> rdf:type owl:Class ;
@@ -14191,12 +14104,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
 
 
 
-###  http://purl.obolibrary.org/obo/WikipediaCategory_Agronomy
-
-<http://purl.obolibrary.org/obo/WikipediaCategory_Agronomy> rdf:type owl:Class .
-
-
-
 ###  http://purl.obolibrary.org/obo/WikipediaCategory_Alcohols
 
 <http://purl.obolibrary.org/obo/WikipediaCategory_Alcohols> rdf:type owl:Class .
@@ -15958,32 +15865,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
 
 
 
-###  http://purl.obolibrary.org/obo/Wikipedia_PEPPADEP
-
-<http://purl.obolibrary.org/obo/Wikipedia_PEPPADEP> rdf:type owl:Class ;
-                                                    
-                                                    rdfs:label "peppadep"^^xsd:string ;
-                                                    
-                                                    rdfs:subClassOf <http://purl.obolibrary.org/obo/WikipediaCategory#_Food_and_Agriculture_Organization> ,
-                                                                    <http://purl.obolibrary.org/obo/WikipediaCategory#_Health_in_Haiti> ,
-                                                                    <http://purl.obolibrary.org/obo/WikipediaCategory#_Swine_diseases> ;
-                                                    
-                                                    <http://purl.obolibrary.org/obo/IAO_0000115> "PEPPADEP is the acronym for Programme pour l’Eradication de la Peste Porcine Africaine et pour le Développement de l'Elvage Porcin or the African Swine Fever Eradication and Swine Industry Development Project, a development project launched in 1981 by the Food and Agriculture Organization of the United Nations; the Interamericano Institute de Ciencias Agricola (IICA), a branch of the Organization of American States; the International Development Bank; the governments of Mexico, Canada, the United States; and the government of Haiti to \"eliminate the debilitating effects of African Swine Fever (ASF) in Haiti and to begin development of a productive swine industry.\"African Swine Fever, though it endangers neither humans nor other animals, decimates swine populations because it has neither vaccinations nor medications to stymie the spread of the fever. When AFS first made its appearance in the Dominican Republic, the Haitian government ordered the extermination of all Haitian swine on the border within a radius of 15 kilometers-100,000 pigs were slaughtered. The peasants received no compensation for the losses they suffered and the preventive measure failed to stop the disease from spreading. In late 1978 ASF spread to Haiti and the peasantry was devastated. Haiti's northern neighbors watched the spread with apprehension. Studies indicated that if African Swine Fever ever came to the United States it could wreak $150 million to $5 billion worth of damage. This fear lead the American, Canadian, and Mexican governments, through IICA, imposed a Swine Fever eradication plan on the Haitian government. This plan, PEPPADEP, was simple: kill all the swine in Haiti and restock the swine population with foreign pigs-either from the United States, Canada, or Mexico.ASF is a highly contagious viral disease infecting domestic pigs, warthogs and bush pigs, as well as soft ticks. The virus causes a lethal haemorraghic disease in domestic pigs; some strains can cause death of animals within as little as a week after infection. The disease was first recorded in Kenya in 1921 and is found in most sub-Saharan African countries. It spread to southern Europe in 1957 and the Caribbean in the 1970s. ASF made its way from Europe or Africa to the Dominican Republic, and spread to Haiti in the late 1970s."^^xsd:string ;
-                                                    
-                                                    <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "Wikidata:Q7118992"^^xsd:string ;
-                                                    
-                                                    <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:PEPPADEP"^^xsd:string ;
-                                                    
-                                                    <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "dbpedia"^^xsd:string .
-[ rdf:type owl:Axiom ;
-  owl:annotatedTarget "PEPPADEP is the acronym for Programme pour l’Eradication de la Peste Porcine Africaine et pour le Développement de l'Elvage Porcin or the African Swine Fever Eradication and Swine Industry Development Project, a development project launched in 1981 by the Food and Agriculture Organization of the United Nations; the Interamericano Institute de Ciencias Agricola (IICA), a branch of the Organization of American States; the International Development Bank; the governments of Mexico, Canada, the United States; and the government of Haiti to \"eliminate the debilitating effects of African Swine Fever (ASF) in Haiti and to begin development of a productive swine industry.\"African Swine Fever, though it endangers neither humans nor other animals, decimates swine populations because it has neither vaccinations nor medications to stymie the spread of the fever. When AFS first made its appearance in the Dominican Republic, the Haitian government ordered the extermination of all Haitian swine on the border within a radius of 15 kilometers-100,000 pigs were slaughtered. The peasants received no compensation for the losses they suffered and the preventive measure failed to stop the disease from spreading. In late 1978 ASF spread to Haiti and the peasantry was devastated. Haiti's northern neighbors watched the spread with apprehension. Studies indicated that if African Swine Fever ever came to the United States it could wreak $150 million to $5 billion worth of damage. This fear lead the American, Canadian, and Mexican governments, through IICA, imposed a Swine Fever eradication plan on the Haitian government. This plan, PEPPADEP, was simple: kill all the swine in Haiti and restock the swine population with foreign pigs-either from the United States, Canada, or Mexico.ASF is a highly contagious viral disease infecting domestic pigs, warthogs and bush pigs, as well as soft ticks. The virus causes a lethal haemorraghic disease in domestic pigs; some strains can cause death of animals within as little as a week after infection. The disease was first recorded in Kenya in 1921 and is found in most sub-Saharan African countries. It spread to southern Europe in 1957 and the Caribbean in the 1970s. ASF made its way from Europe or Africa to the Dominican Republic, and spread to Haiti in the late 1970s."^^xsd:string ;
-  <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "Wikipedia:PEPPADEP"^^xsd:string ;
-  owl:annotatedProperty <http://purl.obolibrary.org/obo/IAO_0000115> ;
-  owl:annotatedSource <http://purl.obolibrary.org/obo/Wikipedia_PEPPADEP>
-] .
-
-
-
 ###  http://purl.obolibrary.org/obo/Wikipedia_Pasteurellosis
 
 <http://purl.obolibrary.org/obo/Wikipedia_Pasteurellosis> rdf:type owl:Class ;
@@ -16450,36 +16331,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
   <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "Wikipedia:Wet-tail"^^xsd:string ;
   owl:annotatedProperty <http://purl.obolibrary.org/obo/IAO_0000115> ;
   owl:annotatedSource <http://purl.obolibrary.org/obo/Wikipedia_Wet-tail>
-] .
-
-
-
-###  http://purl.obolibrary.org/obo/Wikipedia#_1924_Los_Angeles_pneumonic_plague_outbreak
-
-<http://purl.obolibrary.org/obo/Wikipedia#_1924_Los_Angeles_pneumonic_plague_outbreak> rdf:type owl:Class ;
-                                                                                       
-                                                                                       rdfs:label "1924 los angeles pneumonic plague outbreak"^^xsd:string ;
-                                                                                       
-                                                                                       rdfs:subClassOf <http://purl.obolibrary.org/obo/WikipediaCategory#_1924_in_California> ,
-                                                                                                       <http://purl.obolibrary.org/obo/WikipediaCategory#_Health_disasters_in_the_United_States> ,
-                                                                                                       <http://purl.obolibrary.org/obo/WikipediaCategory#_Insect-borne_diseases> ,
-                                                                                                       <http://purl.obolibrary.org/obo/WikipediaCategory#_Zoonotic_bacterial_diseases> ,
-                                                                                                       <http://purl.obolibrary.org/obo/WikipediaCategory#_Plague_%2528disease%2529> ;
-                                                                                       
-                                                                                       <http://purl.obolibrary.org/obo/IAO_0000115> "The 1924 Los Angeles pneumonic plague outbreak began October 30, 1924, and was declared fully contained on November 13, 1924. It represented the first time plague had emerged in Southern California. Previously, plague outbreaks had arisen in San Francisco and nearby Oakland marking the first time plague had emerged in California. The Los Angeles outbreak began on October 30th, lasted two weeks, and killed 30 people. Public health officials credited the lessons learned from the San Francisco outbreak coupled with swiftly implemented measures, including hospitalization of the sick and all their contacts, a neighborhood quarantine, and a large-scale rat eradication program, with saving lives."^^xsd:string ;
-                                                                                       
-                                                                                       <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "Wikidata:Q17107868"^^xsd:string ;
-                                                                                       
-                                                                                       <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:1924_Los_Angeles_pneumonic_plague_outbreak"^^xsd:string ;
-                                                                                       
-                                                                                       <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "dbpedia"^^xsd:string ;
-                                                                                       
-                                                                                       <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "http://commons.wikimedia.org/wiki/Special:FilePath/Los_Angeles_Freeway_Map.png"^^xsd:string .
-[ rdf:type owl:Axiom ;
-  owl:annotatedTarget "The 1924 Los Angeles pneumonic plague outbreak began October 30, 1924, and was declared fully contained on November 13, 1924. It represented the first time plague had emerged in Southern California. Previously, plague outbreaks had arisen in San Francisco and nearby Oakland marking the first time plague had emerged in California. The Los Angeles outbreak began on October 30th, lasted two weeks, and killed 30 people. Public health officials credited the lessons learned from the San Francisco outbreak coupled with swiftly implemented measures, including hospitalization of the sick and all their contacts, a neighborhood quarantine, and a large-scale rat eradication program, with saving lives."^^xsd:string ;
-  <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "Wikipedia:1924_Los_Angeles_pneumonic_plague_outbreak"^^xsd:string ;
-  owl:annotatedProperty <http://purl.obolibrary.org/obo/IAO_0000115> ;
-  owl:annotatedSource <http://purl.obolibrary.org/obo/Wikipedia#_1924_Los_Angeles_pneumonic_plague_outbreak>
 ] .
 
 
@@ -17908,43 +17759,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
   <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "Wikipedia:Mitral_valve_dysplasia"^^xsd:string ;
   owl:annotatedProperty <http://purl.obolibrary.org/obo/IAO_0000115> ;
   owl:annotatedSource <http://purl.obolibrary.org/obo/Wikipedia#_Mitral_valve_dysplasia>
-] .
-
-
-
-###  http://purl.obolibrary.org/obo/Wikipedia#_Moredun_Research_Institute
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Moredun_Research_Institute> rdf:type owl:Class ;
-                                                                       
-                                                                       rdfs:label "moredun research institute"^^xsd:string ;
-                                                                       
-                                                                       rdfs:subClassOf <http://purl.obolibrary.org/obo/WikipediaCategory_Agronomy> ,
-                                                                                       <http://purl.obolibrary.org/obo/WikipediaCategory#_1920_establishments_in_Scotland> ,
-                                                                                       <http://purl.obolibrary.org/obo/WikipediaCategory#_Agricultural_research_institutes> ,
-                                                                                       <http://purl.obolibrary.org/obo/WikipediaCategory#_Agriculture_in_Scotland> ,
-                                                                                       <http://purl.obolibrary.org/obo/WikipediaCategory#_Animal_health_in_the_United_Kingdom> ,
-                                                                                       <http://purl.obolibrary.org/obo/WikipediaCategory#_Animal_husbandry> ,
-                                                                                       <http://purl.obolibrary.org/obo/WikipediaCategory#_Buildings_and_structures_in_Midlothian> ,
-                                                                                       <http://purl.obolibrary.org/obo/WikipediaCategory#_Organisations_based_in_Midlothian> ,
-                                                                                       <http://purl.obolibrary.org/obo/WikipediaCategory#_Organisations_supported_by_the_Scottish_Government> ,
-                                                                                       <http://purl.obolibrary.org/obo/WikipediaCategory#_Research_institutes_established_in_1920> ,
-                                                                                       <http://purl.obolibrary.org/obo/WikipediaCategory#_Research_institutes_in_Scotland> ,
-                                                                                       <http://purl.obolibrary.org/obo/WikipediaCategory#_Sheep_and_goat_diseases> ,
-                                                                                       <http://purl.obolibrary.org/obo/WikipediaCategory#_Veterinary_research_institutes> ,
-                                                                                       <http://purl.obolibrary.org/obo/WikipediaCategory#_Zoology_organizations> ;
-                                                                       
-                                                                       <http://purl.obolibrary.org/obo/IAO_0000115> "The Moredun Research Institute is a scientific research institution based at the Pentlands Science Park, in the Bush Estate area of Midlothian, Scotland. It conducts research into diseases of farm livestock and the promotion of animal health and welfare.Moredun employs over 200 vets, scientists and support staff, funded primarily by the Agriculture, Food and Rural Communities Directorate of the Scottish Government. The Institute received £7.1 million from the government in 2010-11."^^xsd:string ;
-                                                                       
-                                                                       <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "Wikidata:Q6911236"^^xsd:string ;
-                                                                       
-                                                                       <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Moredun_Research_Institute"^^xsd:string ;
-                                                                       
-                                                                       <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "dbpedia"^^xsd:string .
-[ rdf:type owl:Axiom ;
-  owl:annotatedTarget "The Moredun Research Institute is a scientific research institution based at the Pentlands Science Park, in the Bush Estate area of Midlothian, Scotland. It conducts research into diseases of farm livestock and the promotion of animal health and welfare.Moredun employs over 200 vets, scientists and support staff, funded primarily by the Agriculture, Food and Rural Communities Directorate of the Scottish Government. The Institute received £7.1 million from the government in 2010-11."^^xsd:string ;
-  <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "Wikipedia:Moredun_Research_Institute"^^xsd:string ;
-  owl:annotatedProperty <http://purl.obolibrary.org/obo/IAO_0000115> ;
-  owl:annotatedSource <http://purl.obolibrary.org/obo/Wikipedia#_Moredun_Research_Institute>
 ] .
 
 
@@ -19991,39 +19805,9 @@ rdfs:label rdf:type owl:AnnotationProperty .
 
 
 
-###  http://purl.obolibrary.org/obo/WikipediaCategory#_1920_establishments_in_Scotland
-
-<http://purl.obolibrary.org/obo/WikipediaCategory#_1920_establishments_in_Scotland> rdf:type owl:Class .
-
-
-
-###  http://purl.obolibrary.org/obo/WikipediaCategory#_1924_in_California
-
-<http://purl.obolibrary.org/obo/WikipediaCategory#_1924_in_California> rdf:type owl:Class .
-
-
-
-###  http://purl.obolibrary.org/obo/WikipediaCategory#_2000s_medical_outbreaks
-
-<http://purl.obolibrary.org/obo/WikipediaCategory#_2000s_medical_outbreaks> rdf:type owl:Class .
-
-
-
 ###  http://purl.obolibrary.org/obo/WikipediaCategory#_2003_in_Hong_Kong
 
 <http://purl.obolibrary.org/obo/WikipediaCategory#_2003_in_Hong_Kong> rdf:type owl:Class .
-
-
-
-###  http://purl.obolibrary.org/obo/WikipediaCategory#_2007_health_disasters
-
-<http://purl.obolibrary.org/obo/WikipediaCategory#_2007_health_disasters> rdf:type owl:Class .
-
-
-
-###  http://purl.obolibrary.org/obo/WikipediaCategory#_2007_in_Australia
-
-<http://purl.obolibrary.org/obo/WikipediaCategory#_2007_in_Australia> rdf:type owl:Class .
 
 
 
@@ -20069,18 +19853,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
 
 
 
-###  http://purl.obolibrary.org/obo/WikipediaCategory#_Agricultural_research_institutes
-
-<http://purl.obolibrary.org/obo/WikipediaCategory#_Agricultural_research_institutes> rdf:type owl:Class .
-
-
-
-###  http://purl.obolibrary.org/obo/WikipediaCategory#_Agriculture_in_Scotland
-
-<http://purl.obolibrary.org/obo/WikipediaCategory#_Agriculture_in_Scotland> rdf:type owl:Class .
-
-
-
 ###  http://purl.obolibrary.org/obo/WikipediaCategory#_Ailments_of_unknown_etiology
 
 <http://purl.obolibrary.org/obo/WikipediaCategory#_Ailments_of_unknown_etiology> rdf:type owl:Class .
@@ -20114,18 +19886,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
 ###  http://purl.obolibrary.org/obo/WikipediaCategory#_Animal_hair
 
 <http://purl.obolibrary.org/obo/WikipediaCategory#_Animal_hair> rdf:type owl:Class .
-
-
-
-###  http://purl.obolibrary.org/obo/WikipediaCategory#_Animal_health_in_the_United_Kingdom
-
-<http://purl.obolibrary.org/obo/WikipediaCategory#_Animal_health_in_the_United_Kingdom> rdf:type owl:Class .
-
-
-
-###  http://purl.obolibrary.org/obo/WikipediaCategory#_Animal_husbandry
-
-<http://purl.obolibrary.org/obo/WikipediaCategory#_Animal_husbandry> rdf:type owl:Class .
 
 
 
@@ -20402,12 +20162,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
 ###  http://purl.obolibrary.org/obo/WikipediaCategory#_Brain_tumor
 
 <http://purl.obolibrary.org/obo/WikipediaCategory#_Brain_tumor> rdf:type owl:Class .
-
-
-
-###  http://purl.obolibrary.org/obo/WikipediaCategory#_Buildings_and_structures_in_Midlothian
-
-<http://purl.obolibrary.org/obo/WikipediaCategory#_Buildings_and_structures_in_Midlothian> rdf:type owl:Class .
 
 
 
@@ -20693,12 +20447,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
 
 
 
-###  http://purl.obolibrary.org/obo/WikipediaCategory#_Food_and_Agriculture_Organization
-
-<http://purl.obolibrary.org/obo/WikipediaCategory#_Food_and_Agriculture_Organization> rdf:type owl:Class .
-
-
-
 ###  http://purl.obolibrary.org/obo/WikipediaCategory#_Foodborne_illnesses
 
 <http://purl.obolibrary.org/obo/WikipediaCategory#_Foodborne_illnesses> rdf:type owl:Class .
@@ -20777,24 +20525,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
 
 
 
-###  http://purl.obolibrary.org/obo/WikipediaCategory#_Health_disasters_in_the_United_States
-
-<http://purl.obolibrary.org/obo/WikipediaCategory#_Health_disasters_in_the_United_States> rdf:type owl:Class .
-
-
-
-###  http://purl.obolibrary.org/obo/WikipediaCategory#_Health_in_Australia
-
-<http://purl.obolibrary.org/obo/WikipediaCategory#_Health_in_Australia> rdf:type owl:Class .
-
-
-
-###  http://purl.obolibrary.org/obo/WikipediaCategory#_Health_in_Haiti
-
-<http://purl.obolibrary.org/obo/WikipediaCategory#_Health_in_Haiti> rdf:type owl:Class .
-
-
-
 ###  http://purl.obolibrary.org/obo/WikipediaCategory#_Health_in_Venezuela
 
 <http://purl.obolibrary.org/obo/WikipediaCategory#_Health_in_Venezuela> rdf:type owl:Class .
@@ -20864,12 +20594,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
 ###  http://purl.obolibrary.org/obo/WikipediaCategory#_Horse_management
 
 <http://purl.obolibrary.org/obo/WikipediaCategory#_Horse_management> rdf:type owl:Class .
-
-
-
-###  http://purl.obolibrary.org/obo/WikipediaCategory#_Horse_racing_in_Australia
-
-<http://purl.obolibrary.org/obo/WikipediaCategory#_Horse_racing_in_Australia> rdf:type owl:Class .
 
 
 
@@ -21071,18 +20795,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
 
 
 
-###  http://purl.obolibrary.org/obo/WikipediaCategory#_Organisations_based_in_Midlothian
-
-<http://purl.obolibrary.org/obo/WikipediaCategory#_Organisations_based_in_Midlothian> rdf:type owl:Class .
-
-
-
-###  http://purl.obolibrary.org/obo/WikipediaCategory#_Organisations_supported_by_the_Scottish_Government
-
-<http://purl.obolibrary.org/obo/WikipediaCategory#_Organisations_supported_by_the_Scottish_Government> rdf:type owl:Class .
-
-
-
 ###  http://purl.obolibrary.org/obo/WikipediaCategory#_Osseous_and_chondromatous_neoplasia
 
 <http://purl.obolibrary.org/obo/WikipediaCategory#_Osseous_and_chondromatous_neoplasia> rdf:type owl:Class .
@@ -21278,18 +20990,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
 ###  http://purl.obolibrary.org/obo/WikipediaCategory#_Rare_diseases
 
 <http://purl.obolibrary.org/obo/WikipediaCategory#_Rare_diseases> rdf:type owl:Class .
-
-
-
-###  http://purl.obolibrary.org/obo/WikipediaCategory#_Research_institutes_established_in_1920
-
-<http://purl.obolibrary.org/obo/WikipediaCategory#_Research_institutes_established_in_1920> rdf:type owl:Class .
-
-
-
-###  http://purl.obolibrary.org/obo/WikipediaCategory#_Research_institutes_in_Scotland
-
-<http://purl.obolibrary.org/obo/WikipediaCategory#_Research_institutes_in_Scotland> rdf:type owl:Class .
 
 
 
@@ -21491,12 +21191,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
 
 
 
-###  http://purl.obolibrary.org/obo/WikipediaCategory#_Veterinary_research_institutes
-
-<http://purl.obolibrary.org/obo/WikipediaCategory#_Veterinary_research_institutes> rdf:type owl:Class .
-
-
-
 ###  http://purl.obolibrary.org/obo/WikipediaCategory#_Viral_diseases
 
 <http://purl.obolibrary.org/obo/WikipediaCategory#_Viral_diseases> rdf:type owl:Class .
@@ -21569,12 +21263,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
 
 
 
-###  http://purl.obolibrary.org/obo/WikipediaCategory#_Zoology_organizations
-
-<http://purl.obolibrary.org/obo/WikipediaCategory#_Zoology_organizations> rdf:type owl:Class .
-
-
-
 ###  http://purl.obolibrary.org/obo/WikipediaCategory#_Zoonotic_bacterial_diseases
 
 <http://purl.obolibrary.org/obo/WikipediaCategory#_Zoonotic_bacterial_diseases> rdf:type owl:Class .
@@ -21626,175 +21314,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
 ###  http://purl.obolibrary.org/obo/WikipediaCategory#_Symptoms_and_signs%253A_Skin_and_subcutaneous_tissue
 
 <http://purl.obolibrary.org/obo/WikipediaCategory#_Symptoms_and_signs%253A_Skin_and_subcutaneous_tissue> rdf:type owl:Class .
-
-
-
-
-
-#################################################################
-#
-#    Annotations
-#
-#################################################################
-
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Pacheco%27s_disease> <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Pacheco's_disease"^^xsd:string .
-
-
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Viral_arthritis_%28poultry%29> <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Viral_arthritis_(poultry)"^^xsd:string .
-
-
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Impaction_%28animals%29> <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Impaction_(animals)"^^xsd:string .
-
-
-
-<http://purl.obolibrary.org/obo/Wikipedia#_External_bacterial_infection_%28fish%29> <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:External_bacterial_infection_(fish)"^^xsd:string .
-
-
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Cerebellar_hypoplasia_%28non-human%29> <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Cerebellar_hypoplasia_(non-human)"^^xsd:string .
-
-
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Thompsonia_%28barnacle%29> <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Thompsonia_(barnacle)"^^xsd:string .
-
-
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Hot_spot_%28veterinary_medicine%29> <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Hot_spot_(veterinary_medicine)"^^xsd:string .
-
-
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Ta%25C3%25AF_Forest_virus> <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Ta%C3%AF_Forest_virus"^^xsd:string .
-
-
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Subvalvular_aortic_stenosis_%28non-human%29> <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Subvalvular_aortic_stenosis_(non-human)"^^xsd:string .
-
-
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Severe_combined_immunodeficiency_%28non-human%29> <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Severe_combined_immunodeficiency_(non-human)"^^xsd:string .
-
-
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Addison%27s_disease_in_canines> <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Addison's_disease_in_canines"^^xsd:string .
-
-
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Blackleg_%28disease%29> <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Blackleg_(disease)"^^xsd:string .
-
-
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Bath_treatment_%28fishkeeping%29> <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Bath_treatment_(fishkeeping)"^^xsd:string .
-
-
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Blain_%28animal_disease%29> <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Blain_(animal_disease)"^^xsd:string .
-
-
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Hoose_%28disease%29> <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Hoose_(disease)"^^xsd:string .
-
-
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Lameness_%28equine%29> <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Lameness_(equine)"^^xsd:string .
-
-
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Dental_caries_%28non-human%29> <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Dental_caries_(non-human)"^^xsd:string .
-
-
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Bumblefoot_%28infection%29> <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Bumblefoot_(infection)"^^xsd:string .
-
-
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Velvet_%28fish_disease%29> <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Velvet_(fish_disease)"^^xsd:string .
-
-
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Choke_%28horse%29> <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Choke_(horse)"^^xsd:string .
-
-
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Junctional_epidermolysis_bullosa_%28veterinary_medicine%29> <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Junctional_epidermolysis_bullosa_(veterinary_medicine)"^^xsd:string .
-
-
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Derzsy%27s_disease> <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Derzsy's_disease"^^xsd:string .
-
-
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Hygroma_%28canine_disease%29> <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Hygroma_(canine_disease)"^^xsd:string .
-
-
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Ta%25C3%25AF_Forest_ebolavirus> <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Ta%C3%AF_Forest_ebolavirus"^^xsd:string .
-
-
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Sweating_sickness_%28cattle%29> <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Sweating_sickness_(cattle)"^^xsd:string .
-
-
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Vogt%25E2%2580%2593Koyanagi%25E2%2580%2593Harada_syndrome> <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Vogt%E2%80%93Koyanagi%E2%80%93Harada_syndrome"^^xsd:string .
-
-
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Marek%27s_disease> <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Marek's_disease"^^xsd:string .
-
-
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Pneumonia_%28non-human%29> <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Pneumonia_(non-human)"^^xsd:string .
-
-
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Verminous_haemorrhagic_dermatitis_%28cattle%29> <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Verminous_haemorrhagic_dermatitis_(cattle)"^^xsd:string .
-
-
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Ehrlichiosis_%28canine%29> <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Ehrlichiosis_(canine)"^^xsd:string .
-
-
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Ringtail_%28disease%29> <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Ringtail_(disease)"^^xsd:string .
-
-
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Histiocytoma_%28dog%29> <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Histiocytoma_(dog)"^^xsd:string .
-
-
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Hip_dysplasia_%28canine%29> <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Hip_dysplasia_(canine)"^^xsd:string .
-
-
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Downer_%28animal%29> <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Downer_(animal)"^^xsd:string .
-
-
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Tyzzer%27s_disease> <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Tyzzer's_disease"^^xsd:string .
-
-
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Plague_%28disease%29> <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Plague_(disease)"^^xsd:string .
-
-
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Bladder_stone_%28animal%29> <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Bladder_stone_(animal)"^^xsd:string .
-
-
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Legg%25E2%2580%2593Calv%25C3%25A9%25E2%2580%2593Perthes_syndrome> <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Legg%E2%80%93Calv%C3%A9%E2%80%93Perthes_syndrome"^^xsd:string .
-
-
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Swimmer%27s_itch> <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Swimmer's_itch"^^xsd:string .
-
-
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Orf_%28disease%29> <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Orf_(disease)"^^xsd:string .
 
 
 

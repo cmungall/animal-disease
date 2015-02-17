@@ -6,6 +6,8 @@ all: zoodi.owl zoodi.ttl zoodi.obo
 # DBPEDIA
 # ----------------------------------------
 
+# we download triples for each category individually
+
 CATEGORIES :=\
 Amphibian_diseases\
 Animal_diseases\
@@ -73,15 +75,19 @@ ont-%.obo: triples-%.pro
 zoodi-wp.obo: $(patsubst %, ont-cat_%.obo, $(CATEGORIES))
 	obo-cat.pl $^ --merge-support-ontologies > $@.tmp && owltools $@.tmp --set-ontology-id $(OBO)/zoodi.owl -o -f obo $@
 
+
 wikidata-xrefs.obo: zoodi-wp.obo
 	obo-filter-tags.pl -t id -t xref $< | perl -ne 'print unless /^xref: [^Wikidata]/' > $@
 
-zoodi.obo: zoodi-wp.obo 
-	obo-map-ids.pl --use-xref wikidata-xrefs.obo $< > $@
+zoodi-pre.obo: zoodi-wp.obo 
+	obo-map-ids.pl --use-xref wikidata-xrefs.obo $< > $@.tmp && grep -v ^owl-axioms $@.tmp > $@
+
+zoodi.obo: zoodi-pre.obo exclude.obo
+	obo-subtract.pl $^ > $@.tmp && mv $@.tmp $@
 
 zoodi.ttl: zoodi.obo
 	owltools $< -o -f ttl $@
 
-zoodi.owl: zoodi.obo
+zoodi.owl: zoodi.ttl
 	owltools $< -o $@
 
