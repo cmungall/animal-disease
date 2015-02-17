@@ -4972,34 +4972,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
 
 
 
-###  http://purl.obolibrary.org/obo/Wikidata_Q3048621
-
-<http://purl.obolibrary.org/obo/Wikidata_Q3048621> rdf:type owl:Class ;
-                                                   
-                                                   rdfs:label "list of diseases of the honey bee"^^xsd:string ;
-                                                   
-                                                   rdfs:subClassOf <http://purl.obolibrary.org/obo/WikipediaCategory_Beekeeping> ,
-                                                                   <http://purl.obolibrary.org/obo/WikipediaCategory#_Agricultural_pests> ,
-                                                                   <http://purl.obolibrary.org/obo/WikipediaCategory#_Insect_diseases> ;
-                                                   
-                                                   <http://purl.obolibrary.org/obo/IAO_0000115> "Diseases of the honey bee or abnormal hive conditions include:"^^xsd:string ;
-                                                   
-                                                   <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "Wikidata:Q3048621"^^xsd:string ;
-                                                   
-                                                   <http://www.geneontology.org/formats/oboInOwl#id> "Wikidata:Q3048621"^^xsd:string ;
-                                                   
-                                                   <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "dbpedia"^^xsd:string ;
-                                                   
-                                                   <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "http://commons.wikimedia.org/wiki/Special:FilePath/Varroa_on_larvae.jpg"^^xsd:string .
-[ rdf:type owl:Axiom ;
-  owl:annotatedTarget "Diseases of the honey bee or abnormal hive conditions include:"^^xsd:string ;
-  <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "Wikipedia:List_of_diseases_of_the_honey_bee"^^xsd:string ;
-  owl:annotatedProperty <http://purl.obolibrary.org/obo/IAO_0000115> ;
-  owl:annotatedSource <http://purl.obolibrary.org/obo/Wikidata_Q3048621>
-] .
-
-
-
 ###  http://purl.obolibrary.org/obo/Wikidata_Q3048738
 
 <http://purl.obolibrary.org/obo/Wikidata_Q3048738> rdf:type owl:Class ;
@@ -5217,35 +5189,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
   <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "Wikipedia:Pseudorabies"^^xsd:string ;
   owl:annotatedProperty <http://purl.obolibrary.org/obo/IAO_0000115> ;
   owl:annotatedSource <http://purl.obolibrary.org/obo/Wikidata_Q316180>
-] .
-
-
-
-###  http://purl.obolibrary.org/obo/Wikidata_Q319446
-
-<http://purl.obolibrary.org/obo/Wikidata_Q319446> rdf:type owl:Class ;
-                                                  
-                                                  rdfs:label "global spread of h5n1"^^xsd:string ;
-                                                  
-                                                  rdfs:subClassOf <http://purl.obolibrary.org/obo/WikipediaCategory_Epidemiology> ,
-                                                                  <http://purl.obolibrary.org/obo/WikipediaCategory#_Bird_diseases> ,
-                                                                  <http://purl.obolibrary.org/obo/WikipediaCategory#_Global_health> ,
-                                                                  <http://purl.obolibrary.org/obo/WikipediaCategory#_Influenza_A_virus_subtype_H5N1> ;
-                                                  
-                                                  <http://purl.obolibrary.org/obo/IAO_0000115> "The global spread of highly pathogenic H5N1 influenza in birds is considered a significant pandemic threat.While other H5N1 influenza strains are known, they are significantly different from a current, highly pathogenic H5N1 strain on a genetic level, making the global spread of this new strain unprecedented. The H5N1 strain is a fast-mutating, highly pathogenic avian influenza virus (HPAI) found in multiple bird species. It is both epizootic (an epidemic in non-humans) and panzootic (a disease affecting animals of many species especially over a wide area). Unless otherwise indicated, \"H5N1\" in this timeline refers to the recent highly pathogenic strain of H5N1.\"Since 1997, studies of H5N1 influenza indicate that these viruses continue to evolve, with changes in antigenicity and internal gene constellations; an expanded host range in avian species and the ability to infect felids; enhanced pathogenicity in experimentally infected mice and ferrets, in which they cause systemic infections; and increased environmental stability.\"Tens of millions of birds have died of H5N1 influenza and hundreds of millions of birds have been slaughtered and disposed of, to limit the spread of H5N1. Countries that have reported one or more major highly pathogenic H5N1 outbreaks in birds (causing at least thousands but in some cases millions of dead birds) are (in order of first outbreak occurrence): South Korea, Vietnam, Japan, Thailand, Cambodia, Laos, Indonesia, China, Malaysia, Russia, Kazakhstan, Mongolia, Turkey, Romania, Croatia, Ukraine, Cyprus, Iraq, Nigeria, Egypt, India, France, Niger, Bosnia, Azerbaijan, Albania, Cameroon, Myanmar, Afghanistan, Israel, Pakistan, Jordan, Burkina Faso, Germany, Sudan, Ivory Coast, Djibouti, Hungary, United Kingdom, Kuwait, Bangladesh, Saudi Arabia, Ghana, Czech Republic, Togo, Nepal, Bhutan.Highly pathogenic H5N1 has been found in birds in the wild in numerous other countries: Austria, Bulgaria, Denmark, Greece, Iran, Italy, Poland, Serbia and Montenegro, Slovakia, Slovenia, Spain, Sweden, Switzerland. Surveillance of H5N1 in humans, poultry, wild birds, cats and other animals remains very weak in many parts of Asia and Africa. Much remains unknown about the exact extent of its spread.H5N1 has low pathogenic varieties endemic in birds in North America. H5N1 has a highly pathogenic variety that is endemic in dozens of species of birds throughout south Asia and parts of Africa. So far, it is very difficult for humans to become infected with H5N1. The presence of highly pathogenic (deadly) H5N1 around the world in both birds in the wild (swans, magpies, ducks, geese, pigeons, eagles, etc.) and in chickens and turkeys on farms has been demonstrated in millions of cases with the virus isolate actually sequenced in hundreds of cases yielding definitive proof of the evolution of this strain of this subtype of the species Influenzavirus A (bird flu virus).According to Robert G. Webster:\"The epicenters of both the Asian influenza pandemic of 1957 and the Hong Kong influenza pandemic of 1968 were in Southeast Asia, and it is in this region that multiple clades of H5N1 influenza virus have already emerged. The Asian H5N1 virus was first detected in Guangdong Province, China, in 1996, when it killed some geese, but it received little attention until it spread through live-poultry markets in Hong Kong to humans in May 1997, killing 6 of 18 infected people. [...] From 1997 to May 2005, H5N1 viruses were largely confined to Southeast Asia, but after they had infected wild birds in Qinghai Lake, China, they rapidly spread westward. [...] The intermittent spread to humans will continue, and the virus will continue to evolve.\"MapAs of the July 25, 2008 FAO Avian Influenza Disease Emergency Situation Update, H5N1 pathogenicity is continuing to gradually rise in endemic areas but the avian influenza disease situation in farmed birds is being held in check by vaccination. Eleven outbreaks of H5N1 were reported worldwide in June 2008 in five countries (China, Egypt, Indonesia, Pakistan and Viet Nam) compared to 65 outbreaks in June 2006 and 55 in June 2007. The \"global HPAI situation can be said to haveimproved markedly in the first half of 2008 [but] cases of HPAI are still underestimated and underreported in many countries because of limitations in country disease surveillance systems\"."^^xsd:string ;
-                                                  
-                                                  <http://www.geneontology.org/formats/oboInOwl#id> "Wikidata:Q319446"^^xsd:string ;
-                                                  
-                                                  <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "Wikidata:Q319446"^^xsd:string ;
-                                                  
-                                                  <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "dbpedia"^^xsd:string ;
-                                                  
-                                                  <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "http://commons.wikimedia.org/wiki/Special:FilePath/H5N1_Global_Spread.png"^^xsd:string .
-[ rdf:type owl:Axiom ;
-  owl:annotatedTarget "The global spread of highly pathogenic H5N1 influenza in birds is considered a significant pandemic threat.While other H5N1 influenza strains are known, they are significantly different from a current, highly pathogenic H5N1 strain on a genetic level, making the global spread of this new strain unprecedented. The H5N1 strain is a fast-mutating, highly pathogenic avian influenza virus (HPAI) found in multiple bird species. It is both epizootic (an epidemic in non-humans) and panzootic (a disease affecting animals of many species especially over a wide area). Unless otherwise indicated, \"H5N1\" in this timeline refers to the recent highly pathogenic strain of H5N1.\"Since 1997, studies of H5N1 influenza indicate that these viruses continue to evolve, with changes in antigenicity and internal gene constellations; an expanded host range in avian species and the ability to infect felids; enhanced pathogenicity in experimentally infected mice and ferrets, in which they cause systemic infections; and increased environmental stability.\"Tens of millions of birds have died of H5N1 influenza and hundreds of millions of birds have been slaughtered and disposed of, to limit the spread of H5N1. Countries that have reported one or more major highly pathogenic H5N1 outbreaks in birds (causing at least thousands but in some cases millions of dead birds) are (in order of first outbreak occurrence): South Korea, Vietnam, Japan, Thailand, Cambodia, Laos, Indonesia, China, Malaysia, Russia, Kazakhstan, Mongolia, Turkey, Romania, Croatia, Ukraine, Cyprus, Iraq, Nigeria, Egypt, India, France, Niger, Bosnia, Azerbaijan, Albania, Cameroon, Myanmar, Afghanistan, Israel, Pakistan, Jordan, Burkina Faso, Germany, Sudan, Ivory Coast, Djibouti, Hungary, United Kingdom, Kuwait, Bangladesh, Saudi Arabia, Ghana, Czech Republic, Togo, Nepal, Bhutan.Highly pathogenic H5N1 has been found in birds in the wild in numerous other countries: Austria, Bulgaria, Denmark, Greece, Iran, Italy, Poland, Serbia and Montenegro, Slovakia, Slovenia, Spain, Sweden, Switzerland. Surveillance of H5N1 in humans, poultry, wild birds, cats and other animals remains very weak in many parts of Asia and Africa. Much remains unknown about the exact extent of its spread.H5N1 has low pathogenic varieties endemic in birds in North America. H5N1 has a highly pathogenic variety that is endemic in dozens of species of birds throughout south Asia and parts of Africa. So far, it is very difficult for humans to become infected with H5N1. The presence of highly pathogenic (deadly) H5N1 around the world in both birds in the wild (swans, magpies, ducks, geese, pigeons, eagles, etc.) and in chickens and turkeys on farms has been demonstrated in millions of cases with the virus isolate actually sequenced in hundreds of cases yielding definitive proof of the evolution of this strain of this subtype of the species Influenzavirus A (bird flu virus).According to Robert G. Webster:\"The epicenters of both the Asian influenza pandemic of 1957 and the Hong Kong influenza pandemic of 1968 were in Southeast Asia, and it is in this region that multiple clades of H5N1 influenza virus have already emerged. The Asian H5N1 virus was first detected in Guangdong Province, China, in 1996, when it killed some geese, but it received little attention until it spread through live-poultry markets in Hong Kong to humans in May 1997, killing 6 of 18 infected people. [...] From 1997 to May 2005, H5N1 viruses were largely confined to Southeast Asia, but after they had infected wild birds in Qinghai Lake, China, they rapidly spread westward. [...] The intermittent spread to humans will continue, and the virus will continue to evolve.\"MapAs of the July 25, 2008 FAO Avian Influenza Disease Emergency Situation Update, H5N1 pathogenicity is continuing to gradually rise in endemic areas but the avian influenza disease situation in farmed birds is being held in check by vaccination. Eleven outbreaks of H5N1 were reported worldwide in June 2008 in five countries (China, Egypt, Indonesia, Pakistan and Viet Nam) compared to 65 outbreaks in June 2006 and 55 in June 2007. The \"global HPAI situation can be said to haveimproved markedly in the first half of 2008 [but] cases of HPAI are still underestimated and underreported in many countries because of limitations in country disease surveillance systems\"."^^xsd:string ;
-  <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "Wikipedia:Global_spread_of_H5N1"^^xsd:string ;
-  owl:annotatedProperty <http://purl.obolibrary.org/obo/IAO_0000115> ;
-  owl:annotatedSource <http://purl.obolibrary.org/obo/Wikidata_Q319446>
 ] .
 
 
@@ -9092,32 +9035,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
 
 
 
-###  http://purl.obolibrary.org/obo/Wikidata_Q5412422
-
-<http://purl.obolibrary.org/obo/Wikidata_Q5412422> rdf:type owl:Class ;
-                                                   
-                                                   rdfs:label "european community reference laboratory for fish diseases"^^xsd:string ;
-                                                   
-                                                   rdfs:subClassOf <http://purl.obolibrary.org/obo/WikipediaCategory_Aquaculture> ,
-                                                                   <http://purl.obolibrary.org/obo/WikipediaCategory#_Agencies_of_the_European_Union> ,
-                                                                   <http://purl.obolibrary.org/obo/WikipediaCategory#_Fish_diseases> ;
-                                                   
-                                                   <http://purl.obolibrary.org/obo/IAO_0000115> "The European Community Reference Laboratory for Fish Diseases is located in Frederiksberg in Denmark at the National Veterinary Institute (a part of Technical University of Denmark).A main purpose of the CRL is to ensure the quality of diagnostics of fish diseases in EU Member States and to harmonise the procedures and methodologies applied. The work is mainly concerned with the exotic (Epizootic Haematopoietic Necrosis Virus and Epizootic Ulcerative Syndrome) and non-exotic (Viral hemorrhagic septicemia, Infectious hematopoietic necrosis virus, Koi herpes virus, and Infectious salmon anemia virus) diseases mentioned in Council Directive 2006/88/EC. The CRL co-ordinates those activities of the National Reference Laboratories (NRLs) for Fish diseases in EU that aim to harmonise diagnostic techniques and disseminate information of mutual interest. The work of the CRL also includes development of a database (Fishpathogens.eu) that aims to collect information on fish disease isolates and their sequences. Details of the work programme is decided at the Annual Meeting of the NRLs for Fish Diseases."^^xsd:string ;
-                                                   
-                                                   <http://www.geneontology.org/formats/oboInOwl#id> "Wikidata:Q5412422"^^xsd:string ;
-                                                   
-                                                   <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "Wikidata:Q5412422"^^xsd:string ;
-                                                   
-                                                   <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "dbpedia"^^xsd:string .
-[ rdf:type owl:Axiom ;
-  owl:annotatedTarget "The European Community Reference Laboratory for Fish Diseases is located in Frederiksberg in Denmark at the National Veterinary Institute (a part of Technical University of Denmark).A main purpose of the CRL is to ensure the quality of diagnostics of fish diseases in EU Member States and to harmonise the procedures and methodologies applied. The work is mainly concerned with the exotic (Epizootic Haematopoietic Necrosis Virus and Epizootic Ulcerative Syndrome) and non-exotic (Viral hemorrhagic septicemia, Infectious hematopoietic necrosis virus, Koi herpes virus, and Infectious salmon anemia virus) diseases mentioned in Council Directive 2006/88/EC. The CRL co-ordinates those activities of the National Reference Laboratories (NRLs) for Fish diseases in EU that aim to harmonise diagnostic techniques and disseminate information of mutual interest. The work of the CRL also includes development of a database (Fishpathogens.eu) that aims to collect information on fish disease isolates and their sequences. Details of the work programme is decided at the Annual Meeting of the NRLs for Fish Diseases."^^xsd:string ;
-  <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "Wikipedia:European_Community_Reference_Laboratory_for_Fish_Diseases"^^xsd:string ;
-  owl:annotatedProperty <http://purl.obolibrary.org/obo/IAO_0000115> ;
-  owl:annotatedSource <http://purl.obolibrary.org/obo/Wikidata_Q5412422>
-] .
-
-
-
 ###  http://purl.obolibrary.org/obo/Wikidata_Q541987
 
 <http://purl.obolibrary.org/obo/Wikidata_Q541987> rdf:type owl:Class ;
@@ -12237,34 +12154,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
 
 
 
-###  http://purl.obolibrary.org/obo/Wikidata_Q7269139
-
-<http://purl.obolibrary.org/obo/Wikidata_Q7269139> rdf:type owl:Class ;
-                                                   
-                                                   rdfs:label "quarantine tank"^^xsd:string ;
-                                                   
-                                                   rdfs:subClassOf <http://purl.obolibrary.org/obo/WikipediaCategory_Aquaria> ,
-                                                                   <http://purl.obolibrary.org/obo/WikipediaCategory_Fishkeeping> ,
-                                                                   <http://purl.obolibrary.org/obo/WikipediaCategory#_Animal_diseases> ,
-                                                                   <http://purl.obolibrary.org/obo/WikipediaCategory#_Aquatic_organisms> ,
-                                                                   <http://purl.obolibrary.org/obo/WikipediaCategory#_Coral_reefs> ;
-                                                   
-                                                   <http://purl.obolibrary.org/obo/IAO_0000115> "A quarantine tank is a tank that is used to quarantine new fish or other organisms that are later intended to be introduced into another, primary aquarium. Quarantine tanks can also serve as \"hospital tanks\", where sick or injured fish are taken from the main aquarium and given treatment. Quarantining a fish can help stop the spread of a contagious disease, such as Ichthyophthirius multifiliis."^^xsd:string ;
-                                                   
-                                                   <http://www.geneontology.org/formats/oboInOwl#id> "Wikidata:Q7269139"^^xsd:string ;
-                                                   
-                                                   <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "Wikidata:Q7269139"^^xsd:string ;
-                                                   
-                                                   <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "dbpedia"^^xsd:string .
-[ rdf:type owl:Axiom ;
-  owl:annotatedTarget "A quarantine tank is a tank that is used to quarantine new fish or other organisms that are later intended to be introduced into another, primary aquarium. Quarantine tanks can also serve as \"hospital tanks\", where sick or injured fish are taken from the main aquarium and given treatment. Quarantining a fish can help stop the spread of a contagious disease, such as Ichthyophthirius multifiliis."^^xsd:string ;
-  <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "Wikipedia:Quarantine_tank"^^xsd:string ;
-  owl:annotatedProperty <http://purl.obolibrary.org/obo/IAO_0000115> ;
-  owl:annotatedSource <http://purl.obolibrary.org/obo/Wikidata_Q7269139>
-] .
-
-
-
 ###  http://purl.obolibrary.org/obo/Wikidata_Q7272675
 
 <http://purl.obolibrary.org/obo/Wikidata_Q7272675> rdf:type owl:Class ;
@@ -13673,37 +13562,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
 
 
 
-###  http://purl.obolibrary.org/obo/Wikidata_Q8074198
-
-<http://purl.obolibrary.org/obo/Wikidata_Q8074198> rdf:type owl:Class ;
-                                                   
-                                                   rdfs:label "zoophilia and health"^^xsd:string ;
-                                                   
-                                                   rdfs:subClassOf <http://purl.obolibrary.org/obo/WikipediaCategory_Zoonoses> ,
-                                                                   <http://purl.obolibrary.org/obo/WikipediaCategory_Zoophilia> ,
-                                                                   <http://purl.obolibrary.org/obo/WikipediaCategory#_Animal_diseases> ,
-                                                                   <http://purl.obolibrary.org/obo/WikipediaCategory#_Sexually_transmitted_diseases_and_infections> ,
-                                                                   <http://purl.obolibrary.org/obo/WikipediaCategory#_Veterinary_medicine> ,
-                                                                   <http://purl.obolibrary.org/obo/WikipediaCategory#_Human%2525E2%252580%252593animal_interaction> ;
-                                                   
-                                                   <http://purl.obolibrary.org/obo/IAO_0000115> "Sexual contact with animals is associated with several significant health risks. Areas of possible concern are infection, physical injury and allergic reaction."^^xsd:string ;
-                                                   
-                                                   <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "Wikidata:Q8074198"^^xsd:string ;
-                                                   
-                                                   <http://www.geneontology.org/formats/oboInOwl#id> "Wikidata:Q8074198"^^xsd:string ;
-                                                   
-                                                   <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "dbpedia"^^xsd:string ;
-                                                   
-                                                   <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "http://commons.wikimedia.org/wiki/Special:FilePath/Avenger_-_Westphalian_horse.jpg"^^xsd:string .
-[ rdf:type owl:Axiom ;
-  owl:annotatedTarget "Sexual contact with animals is associated with several significant health risks. Areas of possible concern are infection, physical injury and allergic reaction."^^xsd:string ;
-  <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "Wikipedia:Zoophilia_and_health"^^xsd:string ;
-  owl:annotatedProperty <http://purl.obolibrary.org/obo/IAO_0000115> ;
-  owl:annotatedSource <http://purl.obolibrary.org/obo/Wikidata_Q8074198>
-] .
-
-
-
 ###  http://purl.obolibrary.org/obo/Wikidata_Q815753
 
 <http://purl.obolibrary.org/obo/Wikidata_Q815753> rdf:type owl:Class ;
@@ -14104,12 +13962,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
 
 
 
-###  http://purl.obolibrary.org/obo/WikipediaCategory_Alcohols
-
-<http://purl.obolibrary.org/obo/WikipediaCategory_Alcohols> rdf:type owl:Class .
-
-
-
 ###  http://purl.obolibrary.org/obo/WikipediaCategory_Alloherpesviridae
 
 <http://purl.obolibrary.org/obo/WikipediaCategory_Alloherpesviridae> rdf:type owl:Class .
@@ -14140,12 +13992,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
 
 
 
-###  http://purl.obolibrary.org/obo/WikipediaCategory_Amines
-
-<http://purl.obolibrary.org/obo/WikipediaCategory_Amines> rdf:type owl:Class .
-
-
-
 ###  http://purl.obolibrary.org/obo/WikipediaCategory_Anthrax
 
 <http://purl.obolibrary.org/obo/WikipediaCategory_Anthrax> rdf:type owl:Class .
@@ -14161,12 +14007,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
 ###  http://purl.obolibrary.org/obo/WikipediaCategory_Aquaculture
 
 <http://purl.obolibrary.org/obo/WikipediaCategory_Aquaculture> rdf:type owl:Class .
-
-
-
-###  http://purl.obolibrary.org/obo/WikipediaCategory_Aquaria
-
-<http://purl.obolibrary.org/obo/WikipediaCategory_Aquaria> rdf:type owl:Class .
 
 
 
@@ -14227,12 +14067,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
 ###  http://purl.obolibrary.org/obo/WikipediaCategory_Barnacles
 
 <http://purl.obolibrary.org/obo/WikipediaCategory_Barnacles> rdf:type owl:Class .
-
-
-
-###  http://purl.obolibrary.org/obo/WikipediaCategory_Beekeeping
-
-<http://purl.obolibrary.org/obo/WikipediaCategory_Beekeeping> rdf:type owl:Class .
 
 
 
@@ -14329,12 +14163,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
 ###  http://purl.obolibrary.org/obo/WikipediaCategory_Circoviridae
 
 <http://purl.obolibrary.org/obo/WikipediaCategory_Circoviridae> rdf:type owl:Class .
-
-
-
-###  http://purl.obolibrary.org/obo/WikipediaCategory_Coenzymes
-
-<http://purl.obolibrary.org/obo/WikipediaCategory_Coenzymes> rdf:type owl:Class .
 
 
 
@@ -14830,12 +14658,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
 
 
 
-###  http://purl.obolibrary.org/obo/WikipediaCategory_Organochlorides
-
-<http://purl.obolibrary.org/obo/WikipediaCategory_Organochlorides> rdf:type owl:Class .
-
-
-
 ###  http://purl.obolibrary.org/obo/WikipediaCategory_Orthobunyaviruses
 
 <http://purl.obolibrary.org/obo/WikipediaCategory_Orthobunyaviruses> rdf:type owl:Class .
@@ -14947,12 +14769,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
 ###  http://purl.obolibrary.org/obo/WikipediaCategory_Protozoa
 
 <http://purl.obolibrary.org/obo/WikipediaCategory_Protozoa> rdf:type owl:Class .
-
-
-
-###  http://purl.obolibrary.org/obo/WikipediaCategory_Pyrimidines
-
-<http://purl.obolibrary.org/obo/WikipediaCategory_Pyrimidines> rdf:type owl:Class .
 
 
 
@@ -15070,12 +14886,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
 
 
 
-###  http://purl.obolibrary.org/obo/WikipediaCategory_Thiazoles
-
-<http://purl.obolibrary.org/obo/WikipediaCategory_Thiazoles> rdf:type owl:Class .
-
-
-
 ###  http://purl.obolibrary.org/obo/WikipediaCategory_Thyroid
 
 <http://purl.obolibrary.org/obo/WikipediaCategory_Thyroid> rdf:type owl:Class .
@@ -15163,12 +14973,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
 ###  http://purl.obolibrary.org/obo/WikipediaCategory_Zoonoses
 
 <http://purl.obolibrary.org/obo/WikipediaCategory_Zoonoses> rdf:type owl:Class .
-
-
-
-###  http://purl.obolibrary.org/obo/WikipediaCategory_Zoophilia
-
-<http://purl.obolibrary.org/obo/WikipediaCategory_Zoophilia> rdf:type owl:Class .
 
 
 
@@ -15835,36 +15639,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
 
 
 
-###  http://purl.obolibrary.org/obo/Wikipedia_Ornidazole
-
-<http://purl.obolibrary.org/obo/Wikipedia_Ornidazole> rdf:type owl:Class ;
-                                                      
-                                                      rdfs:label "ornidazole"^^xsd:string ;
-                                                      
-                                                      rdfs:subClassOf <http://purl.obolibrary.org/obo/WikipediaCategory_Alcohols> ,
-                                                                      <http://purl.obolibrary.org/obo/WikipediaCategory_Organochlorides> ,
-                                                                      <http://purl.obolibrary.org/obo/WikipediaCategory#_Antiprotozoal_agents> ,
-                                                                      <http://purl.obolibrary.org/obo/WikipediaCategory#_Nitroimidazole_antibiotics> ,
-                                                                      <http://purl.obolibrary.org/obo/WikipediaCategory#_Poultry_diseases> ;
-                                                      
-                                                      <http://purl.obolibrary.org/obo/IAO_0000115> "Ornidazole is a drug that cures some protozoan infections.It has been investigated for use in Crohn's disease after bowel resection."^^xsd:string ;
-                                                      
-                                                      <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "Wikidata:Q2358146"^^xsd:string ;
-                                                      
-                                                      <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Ornidazole"^^xsd:string ;
-                                                      
-                                                      <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "dbpedia"^^xsd:string ;
-                                                      
-                                                      <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "http://commons.wikimedia.org/wiki/Special:FilePath/Ornidazole.svg"^^xsd:string .
-[ rdf:type owl:Axiom ;
-  owl:annotatedTarget "Ornidazole is a drug that cures some protozoan infections.It has been investigated for use in Crohn's disease after bowel resection."^^xsd:string ;
-  <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "Wikipedia:Ornidazole"^^xsd:string ;
-  owl:annotatedProperty <http://purl.obolibrary.org/obo/IAO_0000115> ;
-  owl:annotatedSource <http://purl.obolibrary.org/obo/Wikipedia_Ornidazole>
-] .
-
-
-
 ###  http://purl.obolibrary.org/obo/Wikipedia_Pasteurellosis
 
 <http://purl.obolibrary.org/obo/Wikipedia_Pasteurellosis> rdf:type owl:Class ;
@@ -16158,38 +15932,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
   <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "Wikipedia:Swinepox"^^xsd:string ;
   owl:annotatedProperty <http://purl.obolibrary.org/obo/IAO_0000115> ;
   owl:annotatedSource <http://purl.obolibrary.org/obo/Wikipedia_Swinepox>
-] .
-
-
-
-###  http://purl.obolibrary.org/obo/Wikipedia_Thiamine
-
-<http://purl.obolibrary.org/obo/Wikipedia_Thiamine> rdf:type owl:Class ;
-                                                    
-                                                    rdfs:label "thiamine"^^xsd:string ;
-                                                    
-                                                    rdfs:subClassOf <http://purl.obolibrary.org/obo/WikipediaCategory_Alcohols> ,
-                                                                    <http://purl.obolibrary.org/obo/WikipediaCategory_Amines> ,
-                                                                    <http://purl.obolibrary.org/obo/WikipediaCategory_Coenzymes> ,
-                                                                    <http://purl.obolibrary.org/obo/WikipediaCategory_Pyrimidines> ,
-                                                                    <http://purl.obolibrary.org/obo/WikipediaCategory_Thiazoles> ,
-                                                                    <http://purl.obolibrary.org/obo/WikipediaCategory#_B_vitamins> ,
-                                                                    <http://purl.obolibrary.org/obo/WikipediaCategory#_Poultry_diseases> ;
-                                                    
-                                                    <http://purl.obolibrary.org/obo/IAO_0000115> "Thiamine or thiamin or vitamin B1 (/ˈθaɪ.əmɨn/ THY-ə-min), named as the \"thio-vitamine\" (\"sulfur-containing vitamin\") is a water-soluble vitamin of the B complex. First named aneurin for the detrimental neurological effects if not present in the diet, it was eventually assigned the generic descriptor name vitamin B1. Its phosphate derivatives are involved in many cellular processes. The best-characterized form is thiamine pyrophosphate (TPP), a coenzyme in the catabolism of sugars and amino acids. Thiamine is used in the biosynthesis of the neurotransmitter acetylcholine and gamma-aminobutyric acid (GABA). In yeast, TPP is also required in the first step of alcoholic fermentation.All living organisms use thiamine, but it is synthesized only in bacteria, fungi, and plants. Animals must obtain it from their diet, and thus, for them, it is an essential nutrient. Insufficient intake in birds produces a characteristic polyneuritis. In mammals, deficiency results in Korsakoff's syndrome, optic neuropathy, and a disease called beriberi that affects the peripheral nervous system (polyneuritis) and/or the cardiovascular system. Thiamine deficiency has a potentially fatal outcome if it remains untreated. In less severe cases, nonspecific signs include malaise, weight loss, irritability and confusion.It is on the World Health Organization's List of Essential Medicines, a list of the most important medication needed in a basic health system."^^xsd:string ;
-                                                    
-                                                    <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "Wikidata:Q83187"^^xsd:string ;
-                                                    
-                                                    <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Thiamine"^^xsd:string ;
-                                                    
-                                                    <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "dbpedia"^^xsd:string ;
-                                                    
-                                                    <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "http://commons.wikimedia.org/wiki/Special:FilePath/Thiamin.svg"^^xsd:string .
-[ rdf:type owl:Axiom ;
-  owl:annotatedTarget "Thiamine or thiamin or vitamin B1 (/ˈθaɪ.əmɨn/ THY-ə-min), named as the \"thio-vitamine\" (\"sulfur-containing vitamin\") is a water-soluble vitamin of the B complex. First named aneurin for the detrimental neurological effects if not present in the diet, it was eventually assigned the generic descriptor name vitamin B1. Its phosphate derivatives are involved in many cellular processes. The best-characterized form is thiamine pyrophosphate (TPP), a coenzyme in the catabolism of sugars and amino acids. Thiamine is used in the biosynthesis of the neurotransmitter acetylcholine and gamma-aminobutyric acid (GABA). In yeast, TPP is also required in the first step of alcoholic fermentation.All living organisms use thiamine, but it is synthesized only in bacteria, fungi, and plants. Animals must obtain it from their diet, and thus, for them, it is an essential nutrient. Insufficient intake in birds produces a characteristic polyneuritis. In mammals, deficiency results in Korsakoff's syndrome, optic neuropathy, and a disease called beriberi that affects the peripheral nervous system (polyneuritis) and/or the cardiovascular system. Thiamine deficiency has a potentially fatal outcome if it remains untreated. In less severe cases, nonspecific signs include malaise, weight loss, irritability and confusion.It is on the World Health Organization's List of Essential Medicines, a list of the most important medication needed in a basic health system."^^xsd:string ;
-  <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "Wikipedia:Thiamine"^^xsd:string ;
-  owl:annotatedProperty <http://purl.obolibrary.org/obo/IAO_0000115> ;
-  owl:annotatedSource <http://purl.obolibrary.org/obo/Wikipedia_Thiamine>
 ] .
 
 
@@ -18677,59 +18419,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
 
 
 
-###  http://purl.obolibrary.org/obo/Wikipedia#_Risk_assessment_for_organic_swine_health
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Risk_assessment_for_organic_swine_health> rdf:type owl:Class ;
-                                                                                     
-                                                                                     rdfs:label "risk assessment for organic swine health"^^xsd:string ;
-                                                                                     
-                                                                                     rdfs:subClassOf <http://purl.obolibrary.org/obo/WikipediaCategory#_Pig_farming> ,
-                                                                                                     <http://purl.obolibrary.org/obo/WikipediaCategory#_Risk_management> ,
-                                                                                                     <http://purl.obolibrary.org/obo/WikipediaCategory#_Swine_diseases> ;
-                                                                                     
-                                                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "Given the variety of diseases prevalent in swine production, both in the United States and abroad, it is important to understand the risks associated with organic swine production. Overall numbers for certified organic livestock remain low compared to the overall U.S. swine numbers, with approximately 12,000 animals in 2011. However, since 1992, stocks have increased dramatically, with an annual growth rate of 20 percent in total U.S. organic stock. Additionally, there are thousands of non-certified organic swine herds which are not accounted in official statistics, but where farmers still use organic production practices. Consumer demand, stemming from the larger organic agriculture movement has helped spurred growth in this industry. The overall segment, although minuscule compared to the conventional national average, still represents a strong and growing segment in U.S. pork production. The definition of organic swine according to the USDA National Organic Program (NOP), is largely unchanged:"^^xsd:string ;
-                                                                                     
-                                                                                     <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "Wikidata:Q17163259"^^xsd:string ;
-                                                                                     
-                                                                                     <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Risk_assessment_for_organic_swine_health"^^xsd:string ;
-                                                                                     
-                                                                                     <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "dbpedia"^^xsd:string .
-[ rdf:type owl:Axiom ;
-  owl:annotatedTarget "Given the variety of diseases prevalent in swine production, both in the United States and abroad, it is important to understand the risks associated with organic swine production. Overall numbers for certified organic livestock remain low compared to the overall U.S. swine numbers, with approximately 12,000 animals in 2011. However, since 1992, stocks have increased dramatically, with an annual growth rate of 20 percent in total U.S. organic stock. Additionally, there are thousands of non-certified organic swine herds which are not accounted in official statistics, but where farmers still use organic production practices. Consumer demand, stemming from the larger organic agriculture movement has helped spurred growth in this industry. The overall segment, although minuscule compared to the conventional national average, still represents a strong and growing segment in U.S. pork production. The definition of organic swine according to the USDA National Organic Program (NOP), is largely unchanged:"^^xsd:string ;
-  <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "Wikipedia:Risk_assessment_for_organic_swine_health"^^xsd:string ;
-  owl:annotatedProperty <http://purl.obolibrary.org/obo/IAO_0000115> ;
-  owl:annotatedSource <http://purl.obolibrary.org/obo/Wikipedia#_Risk_assessment_for_organic_swine_health>
-] .
-
-
-
-###  http://purl.obolibrary.org/obo/Wikipedia#_Risk_of_Missed_PRRS_PCR_Detection
-
-<http://purl.obolibrary.org/obo/Wikipedia#_Risk_of_Missed_PRRS_PCR_Detection> rdf:type owl:Class ;
-                                                                              
-                                                                              rdfs:label "risk of missed prrs pcr detection"^^xsd:string ;
-                                                                              
-                                                                              rdfs:subClassOf <http://purl.obolibrary.org/obo/WikipediaCategory#_Pig_farming> ,
-                                                                                              <http://purl.obolibrary.org/obo/WikipediaCategory#_Swine_diseases> ;
-                                                                              
-                                                                              <http://purl.obolibrary.org/obo/IAO_0000115> "Porcine reproductive and respiratory syndrome virus (PRRSV) is an RNA virus that causes reproductive and respiratory disease in swine. PRRS was first recognized in midwestern United States in the late 1980s. Pork producers and veterinarians use vaccination, test-and-removal, and other farm-management practices as strategies to control spread of the virus. Although clinical signs of PRRSV infection are now well known, a number of other common respiratory and reproductive diseases may appear clinically similar which has made laboratory diagnostic testing important. Testing populations of pigs for presence of the virus requires taking blood or oral fluid samples and sending them to a diagnostic lab. Oral fluids collection kits are commercially available."^^xsd:string ;
-                                                                              
-                                                                              <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "Wikidata:Q7336290"^^xsd:string ;
-                                                                              
-                                                                              <http://www.geneontology.org/formats/oboInOwl#id> "Wikipedia:Risk_of_Missed_PRRS_PCR_Detection"^^xsd:string ;
-                                                                              
-                                                                              <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "dbpedia"^^xsd:string ;
-                                                                              
-                                                                              <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "http://commons.wikimedia.org/wiki/Special:FilePath/Virus_Replication_large.svg"^^xsd:string .
-[ rdf:type owl:Axiom ;
-  owl:annotatedTarget "Porcine reproductive and respiratory syndrome virus (PRRSV) is an RNA virus that causes reproductive and respiratory disease in swine. PRRS was first recognized in midwestern United States in the late 1980s. Pork producers and veterinarians use vaccination, test-and-removal, and other farm-management practices as strategies to control spread of the virus. Although clinical signs of PRRSV infection are now well known, a number of other common respiratory and reproductive diseases may appear clinically similar which has made laboratory diagnostic testing important. Testing populations of pigs for presence of the virus requires taking blood or oral fluid samples and sending them to a diagnostic lab. Oral fluids collection kits are commercially available."^^xsd:string ;
-  <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "Wikipedia:Risk_of_Missed_PRRS_PCR_Detection"^^xsd:string ;
-  owl:annotatedProperty <http://purl.obolibrary.org/obo/IAO_0000115> ;
-  owl:annotatedSource <http://purl.obolibrary.org/obo/Wikipedia#_Risk_of_Missed_PRRS_PCR_Detection>
-] .
-
-
-
 ###  http://purl.obolibrary.org/obo/Wikipedia#_Rockport_virus
 
 <http://purl.obolibrary.org/obo/Wikipedia#_Rockport_virus> rdf:type owl:Class ;
@@ -19829,12 +19518,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
 
 
 
-###  http://purl.obolibrary.org/obo/WikipediaCategory#_Agencies_of_the_European_Union
-
-<http://purl.obolibrary.org/obo/WikipediaCategory#_Agencies_of_the_European_Union> rdf:type owl:Class .
-
-
-
 ###  http://purl.obolibrary.org/obo/WikipediaCategory#_Agricultural_health_and_safety
 
 <http://purl.obolibrary.org/obo/WikipediaCategory#_Agricultural_health_and_safety> rdf:type owl:Class .
@@ -19844,12 +19527,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
 ###  http://purl.obolibrary.org/obo/WikipediaCategory#_Agricultural_pest_mites
 
 <http://purl.obolibrary.org/obo/WikipediaCategory#_Agricultural_pest_mites> rdf:type owl:Class .
-
-
-
-###  http://purl.obolibrary.org/obo/WikipediaCategory#_Agricultural_pests
-
-<http://purl.obolibrary.org/obo/WikipediaCategory#_Agricultural_pests> rdf:type owl:Class .
 
 
 
@@ -19997,21 +19674,9 @@ rdfs:label rdf:type owl:AnnotationProperty .
 
 
 
-###  http://purl.obolibrary.org/obo/WikipediaCategory#_Antiprotozoal_agents
-
-<http://purl.obolibrary.org/obo/WikipediaCategory#_Antiprotozoal_agents> rdf:type owl:Class .
-
-
-
 ###  http://purl.obolibrary.org/obo/WikipediaCategory#_Anxiety_disorders
 
 <http://purl.obolibrary.org/obo/WikipediaCategory#_Anxiety_disorders> rdf:type owl:Class .
-
-
-
-###  http://purl.obolibrary.org/obo/WikipediaCategory#_Aquatic_organisms
-
-<http://purl.obolibrary.org/obo/WikipediaCategory#_Aquatic_organisms> rdf:type owl:Class .
 
 
 
@@ -20066,12 +19731,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
 ###  http://purl.obolibrary.org/obo/WikipediaCategory#_Avian_influenza
 
 <http://purl.obolibrary.org/obo/WikipediaCategory#_Avian_influenza> rdf:type owl:Class .
-
-
-
-###  http://purl.obolibrary.org/obo/WikipediaCategory#_B_vitamins
-
-<http://purl.obolibrary.org/obo/WikipediaCategory#_B_vitamins> rdf:type owl:Class .
 
 
 
@@ -20495,12 +20154,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
 
 
 
-###  http://purl.obolibrary.org/obo/WikipediaCategory#_Global_health
-
-<http://purl.obolibrary.org/obo/WikipediaCategory#_Global_health> rdf:type owl:Class .
-
-
-
 ###  http://purl.obolibrary.org/obo/WikipediaCategory#_Gram-negative_bacteria
 
 <http://purl.obolibrary.org/obo/WikipediaCategory#_Gram-negative_bacteria> rdf:type owl:Class .
@@ -20771,12 +20424,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
 
 
 
-###  http://purl.obolibrary.org/obo/WikipediaCategory#_Nitroimidazole_antibiotics
-
-<http://purl.obolibrary.org/obo/WikipediaCategory#_Nitroimidazole_antibiotics> rdf:type owl:Class .
-
-
-
 ###  http://purl.obolibrary.org/obo/WikipediaCategory#_Nontuberculous_mycobacteria
 
 <http://purl.obolibrary.org/obo/WikipediaCategory#_Nontuberculous_mycobacteria> rdf:type owl:Class .
@@ -20909,12 +20556,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
 
 
 
-###  http://purl.obolibrary.org/obo/WikipediaCategory#_Pig_farming
-
-<http://purl.obolibrary.org/obo/WikipediaCategory#_Pig_farming> rdf:type owl:Class .
-
-
-
 ###  http://purl.obolibrary.org/obo/WikipediaCategory#_Plant_pathogens_and_diseases
 
 <http://purl.obolibrary.org/obo/WikipediaCategory#_Plant_pathogens_and_diseases> rdf:type owl:Class .
@@ -21002,12 +20643,6 @@ rdfs:label rdf:type owl:AnnotationProperty .
 ###  http://purl.obolibrary.org/obo/WikipediaCategory#_Respiratory_diseases
 
 <http://purl.obolibrary.org/obo/WikipediaCategory#_Respiratory_diseases> rdf:type owl:Class .
-
-
-
-###  http://purl.obolibrary.org/obo/WikipediaCategory#_Risk_management
-
-<http://purl.obolibrary.org/obo/WikipediaCategory#_Risk_management> rdf:type owl:Class .
 
 
 

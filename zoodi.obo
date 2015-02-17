@@ -3111,18 +3111,6 @@ is_a: WikipediaCategory:Horse_health
 is_a: WikipediaCategory:Zoonotic_bacterial_diseases
 
 [Term]
-id: Wikidata:Q319446
-name: global spread of h5n1
-namespace: dbpedia
-def: "The global spread of highly pathogenic H5N1 influenza in birds is considered a significant pandemic threat.While other H5N1 influenza strains are known, they are significantly different from a current, highly pathogenic H5N1 strain on a genetic level, making the global spread of this new strain unprecedented. The H5N1 strain is a fast-mutating, highly pathogenic avian influenza virus (HPAI) found in multiple bird species. It is both epizootic (an epidemic in non-humans) and panzootic (a disease affecting animals of many species especially over a wide area). Unless otherwise indicated, \"H5N1\" in this timeline refers to the recent highly pathogenic strain of H5N1.\"Since 1997, studies of H5N1 influenza indicate that these viruses continue to evolve, with changes in antigenicity and internal gene constellations; an expanded host range in avian species and the ability to infect felids; enhanced pathogenicity in experimentally infected mice and ferrets, in which they cause systemic infections; and increased environmental stability.\"Tens of millions of birds have died of H5N1 influenza and hundreds of millions of birds have been slaughtered and disposed of, to limit the spread of H5N1. Countries that have reported one or more major highly pathogenic H5N1 outbreaks in birds (causing at least thousands but in some cases millions of dead birds) are (in order of first outbreak occurrence): South Korea, Vietnam, Japan, Thailand, Cambodia, Laos, Indonesia, China, Malaysia, Russia, Kazakhstan, Mongolia, Turkey, Romania, Croatia, Ukraine, Cyprus, Iraq, Nigeria, Egypt, India, France, Niger, Bosnia, Azerbaijan, Albania, Cameroon, Myanmar, Afghanistan, Israel, Pakistan, Jordan, Burkina Faso, Germany, Sudan, Ivory Coast, Djibouti, Hungary, United Kingdom, Kuwait, Bangladesh, Saudi Arabia, Ghana, Czech Republic, Togo, Nepal, Bhutan.Highly pathogenic H5N1 has been found in birds in the wild in numerous other countries: Austria, Bulgaria, Denmark, Greece, Iran, Italy, Poland, Serbia and Montenegro, Slovakia, Slovenia, Spain, Sweden, Switzerland. Surveillance of H5N1 in humans, poultry, wild birds, cats and other animals remains very weak in many parts of Asia and Africa. Much remains unknown about the exact extent of its spread.H5N1 has low pathogenic varieties endemic in birds in North America. H5N1 has a highly pathogenic variety that is endemic in dozens of species of birds throughout south Asia and parts of Africa. So far, it is very difficult for humans to become infected with H5N1. The presence of highly pathogenic (deadly) H5N1 around the world in both birds in the wild (swans, magpies, ducks, geese, pigeons, eagles, etc.) and in chickens and turkeys on farms has been demonstrated in millions of cases with the virus isolate actually sequenced in hundreds of cases yielding definitive proof of the evolution of this strain of this subtype of the species Influenzavirus A (bird flu virus).According to Robert G. Webster:\"The epicenters of both the Asian influenza pandemic of 1957 and the Hong Kong influenza pandemic of 1968 were in Southeast Asia, and it is in this region that multiple clades of H5N1 influenza virus have already emerged. The Asian H5N1 virus was first detected in Guangdong Province, China, in 1996, when it killed some geese, but it received little attention until it spread through live-poultry markets in Hong Kong to humans in May 1997, killing 6 of 18 infected people. [...] From 1997 to May 2005, H5N1 viruses were largely confined to Southeast Asia, but after they had infected wild birds in Qinghai Lake, China, they rapidly spread westward. [...] The intermittent spread to humans will continue, and the virus will continue to evolve.\"MapAs of the July 25, 2008 FAO Avian Influenza Disease Emergency Situation Update, H5N1 pathogenicity is continuing to gradually rise in endemic areas but the avian influenza disease situation in farmed birds is being held in check by vaccination. Eleven outbreaks of H5N1 were reported worldwide in June 2008 in five countries (China, Egypt, Indonesia, Pakistan and Viet Nam) compared to 65 outbreaks in June 2006 and 55 in June 2007. The \"global HPAI situation can be said to haveimproved markedly in the first half of 2008 [but] cases of HPAI are still underestimated and underreported in many countries because of limitations in country disease surveillance systems\"." [Wikipedia:Global_spread_of_H5N1]
-xref: http://commons.wikimedia.org/wiki/Special\:FilePath/H5N1_Global_Spread.png
-xref: Wikidata:Q319446
-is_a: WikipediaCategory:Bird_diseases
-is_a: WikipediaCategory:Epidemiology
-is_a: WikipediaCategory:Global_health
-is_a: WikipediaCategory:Influenza_A_virus_subtype_H5N1
-
-[Term]
 id: Wikidata:Q5572603
 name: glycogen-branching enzyme deficiency
 namespace: dbpedia
@@ -4801,19 +4789,6 @@ is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Poxviruses
 is_a: WikipediaCategory:Sheep_and_goat_diseases
 is_a: WikipediaCategory:Virus-related_cutaneous_conditions
-
-[Term]
-id: Wikipedia:Ornidazole
-name: ornidazole
-namespace: dbpedia
-def: "Ornidazole is a drug that cures some protozoan infections.It has been investigated for use in Crohn's disease after bowel resection." [Wikipedia:Ornidazole]
-xref: http://commons.wikimedia.org/wiki/Special\:FilePath/Ornidazole.svg
-xref: Wikidata:Q2358146
-is_a: WikipediaCategory:Alcohols
-is_a: WikipediaCategory:Antiprotozoal_agents
-is_a: WikipediaCategory:Nitroimidazole_antibiotics
-is_a: WikipediaCategory:Organochlorides
-is_a: WikipediaCategory:Poultry_diseases
 
 [Term]
 id: Wikipedia:Ornithobacterium_rhinotracheale
