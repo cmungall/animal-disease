@@ -508,6 +508,7 @@ intersection_of: in_taxon NCBITaxon:6101 ! Anthozoa
 [Term]
 id: WikipediaCategory:Coral_reefs
 name: Coral reefs
+subset: exclude
 
 [Term]
 id: WikipediaCategory:Coronaviridae
@@ -519,15 +520,20 @@ name: Corynebacterineae
 
 [Term]
 id: WikipediaCategory:Crayfish
-name: Crayfish
+name: Crayfish diseases
+intersection_of: DOID:4 ! disease
+intersection_of: in_taxon NCBITaxon:6724 ! Astacoidea
 
 [Term]
 id: WikipediaCategory:Crickets
 name: Crickets
+intersection_of: DOID:4 ! disease
+intersection_of: in_taxon  NCBITaxon:6994 ! Ensifera <crickets>
 
 [Term]
 id: WikipediaCategory:Cruelty_to_animals
 name: Cruelty to animals
+subset: exclude
 
 [Term]
 id: WikipediaCategory:Crustaceans_of_the_Atlantic_Ocean
@@ -556,6 +562,7 @@ name: Cymothoida
 [Term]
 id: WikipediaCategory:Cytoskeletal_defects
 name: Cytoskeletal defects
+relationship: affects GO:0005856 ! cytoskeleton
 
 [Term]
 id: WikipediaCategory:DNA_viruses
@@ -564,6 +571,7 @@ name: DNA viruses
 [Term]
 id: WikipediaCategory:Dairy_farming
 name: Dairy farming
+subset: exclude
 
 [Term]
 id: WikipediaCategory:Deforming_dorsopathies
@@ -614,6 +622,8 @@ intersection_of: in_taxon NCBITaxon:6657 ! Crustacea
 [Term]
 id: WikipediaCategory:Diseases_of_the_eye_and_adnexa
 name: Diseases of the eye and adnexa
+intersection_of: DOID:4 ! disease
+intersection_of: affects UBERON:0000019 ! camera-type eye
 
 [Term]
 id: WikipediaCategory:Diseases_of_the_ruminants
@@ -624,30 +634,44 @@ intersection_of: in_taxon NCBITaxon:9845 ! Ruminantia
 [Term]
 id: WikipediaCategory:Disorders_of_conjunctiva
 name: Disorders of conjunctiva
+intersection_of: DOID:4 ! disease
+intersection_of: affects UBERON:0001811 ! conjunctiva
 
 [Term]
 id: WikipediaCategory:Disorders_of_eyelid%2C_lacrimal_system_and_orbit
 name: Disorders of eyelid%2C lacrimal system and orbit
+intersection_of: DOID:4 ! disease
+intersection_of: affects UBERON:0001750 ! lacrimal apparatus
 
 [Term]
 id: WikipediaCategory:Disorders_of_iris_and_ciliary_body
 name: Disorders of iris and ciliary body
+intersection_of: DOID:4 ! disease
+intersection_of: affects UBERON:0011892 ! anterior uvea
 
 [Term]
 id: WikipediaCategory:Disorders_of_lens
 name: Disorders of lens
+intersection_of: DOID:4 ! disease
+intersection_of: affects UBERON:0000965 ! lens of camera-type eye
 
 [Term]
 id: WikipediaCategory:Disorders_of_ocular_muscles%2C_binocular_movement%2C_accommodation_and_refraction
-name: Disorders of ocular muscles%2C binocular movement%2C accommodation and refraction
+name: Disorders of ocular muscles
+intersection_of: DOID:4 ! disease
+intersection_of: affects UBERON:0004277 ! eye muscle
 
 [Term]
 id: WikipediaCategory:Disorders_of_sclera_and_cornea
 name: Disorders of sclera and cornea
+intersection_of: DOID:4 ! disease
+intersection_of: affects UBERON:0001773 ! sclera
 
 [Term]
 id: WikipediaCategory:Disturbances_of_human_pigmentation
 name: Disturbances of human pigmentation
+intersection_of: DOID:4 ! disease
+intersection_of: affects GO:0043473 ! pigmentation
 
 [Term]
 id: WikipediaCategory:Dog_anatomy
@@ -667,6 +691,7 @@ relationship: in_taxon NCBITaxon:9608 ! Canidae
 [Term]
 id: WikipediaCategory:Dogs
 name: Dogs
+subset: exclude
 
 [Term]
 id: WikipediaCategory:Drosophila
@@ -683,6 +708,8 @@ name: Ebolaviruses
 [Term]
 id: WikipediaCategory:Echinoidea
 name: Echinoidea
+intersection_of: DOID:4 ! disease
+intersection_of: in_taxon NCBITaxon:7625 ! Echinoidea
 
 [Term]
 id: WikipediaCategory:Ecology
@@ -695,6 +722,8 @@ name: Ectoparasites
 [Term]
 id: WikipediaCategory:Elephants
 name: Elephants
+intersection_of: DOID:4 ! disease
+intersection_of: in_taxon NCBITaxon:9779 ! Proboscidea <mammal>
 
 [Term]
 id: WikipediaCategory:Encephalitis
@@ -751,6 +780,8 @@ name: Escherichia coli
 [Term]
 id: WikipediaCategory:Esophagus_disorders
 name: Esophagus disorders
+intersection_of: DOID:4 ! disease
+intersection_of: affects UBERON:0001043 ! esophagus
 
 [Term]
 id: WikipediaCategory:Ethology
@@ -779,14 +810,18 @@ name: Fasciolidae
 [Term]
 id: WikipediaCategory:Fauna_of_India
 name: Fauna of India
+subset: exclude
 
 [Term]
 id: WikipediaCategory:Fauna_of_the_Cayman_Islands
 name: Fauna of the Cayman Islands
+subset: exclude
 
 [Term]
 id: WikipediaCategory:Feathers
 name: Feathers
+intersection_of: DOID:4 ! disease
+intersection_of: affects UBERON:0000022 ! feather
 
 [Term]
 id: WikipediaCategory:Filoviridae
@@ -809,6 +844,7 @@ name: Fisheries science
 [Term]
 id: WikipediaCategory:Fishkeeping
 name: Fishkeeping
+subset: exclude
 
 [Term]
 id: WikipediaCategory:Flaviviruses
@@ -825,6 +861,7 @@ name: Fungal diseases
 [Term]
 id: WikipediaCategory:Fungi_described_in_1833
 name: Fungi described in 1833
+subset: exclude
 
 [Term]
 id: WikipediaCategory:Fusarium
@@ -833,6 +870,8 @@ name: Fusarium
 [Term]
 id: WikipediaCategory:GI_tract_disorders
 name: GI tract disorders
+intersection_of: DOID:4 ! disease
+intersection_of: affects UBERON:0005409 ! gastrointestinal system
 
 [Term]
 id: WikipediaCategory:Gadidae
@@ -857,6 +896,8 @@ name: Gangrene
 [Term]
 id: WikipediaCategory:Gastropods
 name: Gastropods
+intersection_of: DOID:4 ! disease
+intersection_of: in_taxon NCBITaxon:6448 ! Gastropoda
 
 [Term]
 id: WikipediaCategory:Genetic_animal_diseases
@@ -865,18 +906,18 @@ name: Genetic animal diseases
 [Term]
 id: WikipediaCategory:Genetic_disorders
 name: Genetic disorders
+intersection_of: DOID:630 ! genetic disease
+intersection_of: in_taxon NCBITaxon:33208 ! Metazoa
 
 [Term]
 id: WikipediaCategory:Genetic_disorders_by_system
 name: Genetic disorders by system
+subset: exclude
 
 [Term]
 id: WikipediaCategory:Genetic_disorders_with_no_OMIM
 name: Genetic disorders with no OMIM
-
-[Term]
-id: WikipediaCategory:Global_health
-name: Global health
+subset: exclude
 
 [Term]
 id: WikipediaCategory:Goldfish
@@ -901,18 +942,22 @@ name: Hantaviruses
 [Term]
 id: WikipediaCategory:Health_disasters
 name: Health disasters
+subset: exclude
 
 [Term]
 id: WikipediaCategory:Health_in_Venezuela
 name: Health in Venezuela
+subset: exclude
 
 [Term]
 id: WikipediaCategory:Health_issues_in_pregnancy
 name: Health issues in pregnancy
+subset: exclude
 
 [Term]
 id: WikipediaCategory:Healthcare-associated_infections
 name: Healthcare-associated infections
+subset: exclude
 
 [Term]
 id: WikipediaCategory:Hedgehogs
@@ -953,26 +998,33 @@ name: Histiocytosis
 [Term]
 id: WikipediaCategory:History_of_Hong_Kong
 name: History of Hong Kong
+subset: exclude
 
 [Term]
 id: WikipediaCategory:History_of_medicine
 name: History of medicine
+subset: exclude
 
 [Term]
 id: WikipediaCategory:History_of_medieval_medicine
 name: History of medieval medicine
+subset: exclude
 
 [Term]
 id: WikipediaCategory:Horse_anatomy
 name: Horse anatomy
+subset: exclude
 
 [Term]
 id: WikipediaCategory:Horse_breeding_and_studs
 name: Horse breeding and studs
+subset: exclude
 
 [Term]
 id: WikipediaCategory:Horse_diseases
 name: Horse diseases
+intersection_of: DOID:4 ! disease
+intersection_of: in_taxon NCBITaxon:9788 ! Equidae
 
 [Term]
 id: WikipediaCategory:Horse_health
@@ -981,14 +1033,17 @@ name: Horse health
 [Term]
 id: WikipediaCategory:Horse_management
 name: Horse management
+subset: exclude
 
 [Term]
 id: WikipediaCategory:Horse_racing_in_the_United_States
 name: Horse racing in the United States
+subset: exclude
 
 [Term]
 id: WikipediaCategory:Human%25E2%2580%2593animal_interaction
 name: Human%25E2%2580%2593animal interaction
+subset: exclude
 
 [Term]
 id: WikipediaCategory:Ichthyology
@@ -1021,6 +1076,8 @@ name: Insect-borne diseases
 [Term]
 id: WikipediaCategory:Insect_diseases
 name: Insect diseases
+intersection_of: DOID:4 ! disease
+intersection_of: in_taxon NCBITaxon:50557 ! Insecta
 
 [Term]
 id: WikipediaCategory:Integumentary_neoplasia
@@ -1041,6 +1098,7 @@ name: Kidney diseases
 [Term]
 id: WikipediaCategory:Laboratory_mouse_breeds
 name: Laboratory mouse breeds
+subset: exclude
 
 [Term]
 id: WikipediaCategory:Lactobacillales
@@ -1061,14 +1119,17 @@ name: Lice
 [Term]
 id: WikipediaCategory:Lists_of_diseases
 name: Lists of diseases
+subset: exclude
 
 [Term]
 id: WikipediaCategory:Lists_of_dogs
 name: Lists of dogs
+subset: exclude
 
 [Term]
 id: WikipediaCategory:Livestock
 name: Livestock
+subset: exclude
 
 [Term]
 id: WikipediaCategory:Lymphatic_vessel_diseases
@@ -1129,10 +1190,12 @@ name: Mineral deficiencies
 [Term]
 id: WikipediaCategory:Model_organisms
 name: Model organisms
+subset: exclude
 
 [Term]
 id: WikipediaCategory:Molecular_biology
 name: Molecular biology
+subset: exclude
 
 [Term]
 id: WikipediaCategory:Mollicutes
@@ -1185,6 +1248,7 @@ name: Neglected diseases
 [Term]
 id: WikipediaCategory:Nematodes_with_sequenced_genomes
 name: Nematodes with sequenced genomes
+subset: exclude
 
 [Term]
 id: WikipediaCategory:Neurodegenerative_disorders
@@ -1213,10 +1277,7 @@ name: Nutritional anemias
 [Term]
 id: WikipediaCategory:Occupational_diseases
 name: Occupational diseases
-
-[Term]
-id: WikipediaCategory:Organochlorides
-name: Organochlorides
+subset: ignore
 
 [Term]
 id: WikipediaCategory:Orthobunyaviruses
@@ -1253,26 +1314,32 @@ name: Paramyxoviridae
 [Term]
 id: WikipediaCategory:Parasites_of_birds
 name: Parasites of birds
+relationship: parasite_of NCBITaxon:8782 ! Aves
 
 [Term]
 id: WikipediaCategory:Parasites_of_cats
 name: Parasites of cats
+relationship: parasite_of NCBITaxon:9681 ! Felidae
 
 [Term]
 id: WikipediaCategory:Parasites_of_dogs
 name: Parasites of dogs
+relationship: parasite_of NCBITaxon:9608 ! Canidae
 
 [Term]
 id: WikipediaCategory:Parasites_of_equines
 name: Parasites of equines
+relationship: parasite_of NCBITaxon:9788 ! Equidae
 
 [Term]
 id: WikipediaCategory:Parasites_of_mammals
 name: Parasites of mammals
+relationship: parasite_of NCBITaxon:40674 ! Mammalia
 
 [Term]
 id: WikipediaCategory:Parasites_of_rodents
 name: Parasites of rodents
+relationship: parasite_of NCBITaxon:9989 ! Rodentia
 
 [Term]
 id: WikipediaCategory:Parasitic_acari
@@ -1281,30 +1348,37 @@ name: Parasitic acari
 [Term]
 id: WikipediaCategory:Parasitic_animals
 name: Parasitic animals
+relationship: parasite_of NCBITaxon:2759 ! Eukaryota
 
 [Term]
 id: WikipediaCategory:Parasitic_crustaceans
 name: Parasitic crustaceans
+relationship: parasite_of NCBITaxon:2759 ! Eukaryota
 
 [Term]
 id: WikipediaCategory:Parasitic_diseases
 name: Parasitic diseases
+relationship: parasite_of NCBITaxon:2759 ! Eukaryota
 
 [Term]
 id: WikipediaCategory:Parasitic_fungi
 name: Parasitic fungi
+relationship: parasite_of NCBITaxon:2759 ! Eukaryota
 
 [Term]
 id: WikipediaCategory:Parasitic_infestations%2C_stings%2C_and_bites_of_the_skin
 name: Parasitic infestations%2C stings%2C and bites of the skin
+relationship: parasite_of NCBITaxon:2759 ! Eukaryota
 
 [Term]
 id: WikipediaCategory:Parasitic_nematodes
 name: Parasitic nematodes
+relationship: parasite_of NCBITaxon:2759 ! Eukaryota
 
 [Term]
 id: WikipediaCategory:Parasitic_protists
 name: Parasitic protists
+relationship: parasite_of NCBITaxon:2759 ! Eukaryota
 
 [Term]
 id: WikipediaCategory:Parasitism
@@ -1321,10 +1395,12 @@ name: Parvovirinae
 [Term]
 id: WikipediaCategory:Patella
 name: Patella
+relationship: affects UBERON:0002446 ! patella
 
 [Term]
 id: WikipediaCategory:Pathogenic_bacteria
 name: Pathogenic bacteria
+relationship: parasite_of NCBITaxon:2759 ! Eukaryota
 
 [Term]
 id: WikipediaCategory:Pediatrics
@@ -1353,6 +1429,7 @@ name: Plague %28disease%29
 [Term]
 id: WikipediaCategory:Plant_pathogens_and_diseases
 name: Plant pathogens and diseases
+relationship: parasite_of NCBITaxon:33090 ! Viridiplantae
 
 [Term]
 id: WikipediaCategory:Plasmodium
@@ -1369,6 +1446,8 @@ name: Population ecology
 [Term]
 id: WikipediaCategory:Poultry_diseases
 name: Poultry diseases
+intersection_of: DOID:4 ! disease
+intersection_of: in_taxon NCBITaxon:9030 ! Gallus
 
 [Term]
 id: WikipediaCategory:Poultry_farming
@@ -1381,6 +1460,8 @@ name: Poxviruses
 [Term]
 id: WikipediaCategory:Primate_diseases
 name: Primate diseases
+intersection_of: DOID:4 ! disease
+intersection_of: in_taxon NCBITaxon:9443 ! Primates
 
 [Term]
 id: WikipediaCategory:Proteobacteria
@@ -1397,6 +1478,7 @@ name: Protista
 [Term]
 id: WikipediaCategory:Protists_described_in_1908
 name: Protists described in 1908
+subset: exclude
 
 [Term]
 id: WikipediaCategory:Protostomes
@@ -1421,10 +1503,14 @@ name: RNA viruses
 [Term]
 id: WikipediaCategory:Rabbit_diseases
 name: Rabbit diseases
+intersection_of: DOID:4 ! disease
+intersection_of: in_taxon NCBITaxon:9984 ! Oryctolagus
 
 [Term]
 id: WikipediaCategory:Rabbits_and_hares
 name: Rabbits and hares
+intersection_of: DOID:4 ! disease
+intersection_of: in_taxon NCBITaxon:9975 ! Lagomorpha
 
 [Term]
 id: WikipediaCategory:Rabies
@@ -1469,6 +1555,8 @@ name: Rocky Mountains
 [Term]
 id: WikipediaCategory:Rodent-carried_diseases
 name: Rodent-carried diseases
+intersection_of: DOID:4 ! disease
+intersection_of: has_host NCBITaxon:9989 ! Rodentia
 
 [Term]
 id: WikipediaCategory:Rodent_diseases
@@ -1479,6 +1567,7 @@ intersection_of: in_taxon NCBITaxon:9989 ! Rodentia
 [Term]
 id: WikipediaCategory:Rodents
 name: Rodents
+subset: exclude
 
 [Term]
 id: WikipediaCategory:Salmonellosis
@@ -1503,10 +1592,14 @@ name: Sexually transmitted diseases and infections
 [Term]
 id: WikipediaCategory:Sheep_and_goat_diseases
 name: Sheep and goat diseases
+intersection_of: DOID:4 ! disease
+intersection_of: in_taxon NCBITaxon:9963 ! Caprinae
 
 [Term]
 id: WikipediaCategory:Sheep_diseases
 name: Sheep diseases
+intersection_of: DOID:4 ! disease
+intersection_of: in_taxon NCBITaxon:9935 ! Ovis
 
 [Term]
 id: WikipediaCategory:Simplexviruses
@@ -1535,6 +1628,7 @@ name: Smallpox vaccines
 [Term]
 id: WikipediaCategory:Species_described_in_1972
 name: Species described in 1972
+subset: exclude
 
 [Term]
 id: WikipediaCategory:Speleology
@@ -1577,6 +1671,7 @@ intersection_of: in_taxon NCBITaxon:35497 ! Suina
 [Term]
 id: WikipediaCategory:Symptoms
 name: Symptoms
+subset: exclude
 
 [Term]
 id: WikipediaCategory:Symptoms_and_signs%3A_Skin_and_subcutaneous_tissue
@@ -1585,14 +1680,11 @@ name: Symptoms and signs%3A Skin and subcutaneous tissue
 [Term]
 id: WikipediaCategory:Syndromes
 name: Syndromes
+subset: exclude
 
 [Term]
 id: WikipediaCategory:Systemic_connective_tissue_disorders
 name: Systemic connective tissue disorders
-
-[Term]
-id: WikipediaCategory:Thiazoles
-name: Thiazoles
 
 [Term]
 id: WikipediaCategory:Thyroid
@@ -1605,6 +1697,8 @@ name: Thyroid disease
 [Term]
 id: WikipediaCategory:Tick-borne_diseases
 name: Tick-borne diseases
+intersection_of: DOID:4 ! disease
+intersection_of: has_host NCBITaxon:6935 ! Ixodida
 
 [Term]
 id: WikipediaCategory:Torovirinae
@@ -1681,6 +1775,7 @@ name: Veterinary parasitology
 [Term]
 id: WikipediaCategory:Veterinary_professions
 name: Veterinary professions
+subset: exclude
 
 [Term]
 id: WikipediaCategory:Veterinary_protozoology
@@ -1731,10 +1826,6 @@ id: WikipediaCategory:Vision
 name: Vision
 
 [Term]
-id: WikipediaCategory:Vitamin_C
-name: Vitamin C
-
-[Term]
 id: WikipediaCategory:Vitamin_deficiencies
 name: Vitamin deficiencies
 
@@ -1757,6 +1848,9 @@ name: Wildlife diseases
 [Term]
 id: WikipediaCategory:Zoonoses
 name: Zoonoses
+intersection_of: DOID:4 ! disease
+intersection_of: has_host NCBITaxon:33208 ! Metazoa
+intersection_of: infects NCBITaxon:9606 ! Homo sapiens
 
 [Term]
 id: WikipediaCategory:Zoonotic_bacterial_diseases

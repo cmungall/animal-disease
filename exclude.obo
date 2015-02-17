@@ -48,3 +48,15 @@ name: risk of missed prrs pcr detection
 [Term]
 id: Wikipedia:Thiamine
 name: thiamine
+
+[Term]
+id: Wikidata:Q7269139
+name: quarantine tank
+
+[Term]
+id: Wikidata:Q319446
+name: global spread of h5n1
+
+[Term]
+id: Wikipedia:Ornidazole
+name: ornidazole

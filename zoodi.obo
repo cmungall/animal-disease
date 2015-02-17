@@ -5374,18 +5374,6 @@ is_a: WikipediaCategory:Rodent-carried_diseases
 is_a: WikipediaCategory:Zoonoses
 
 [Term]
-id: Wikidata:Q7269139
-name: quarantine tank
-namespace: dbpedia
-def: "A quarantine tank is a tank that is used to quarantine new fish or other organisms that are later intended to be introduced into another, primary aquarium. Quarantine tanks can also serve as \"hospital tanks\", where sick or injured fish are taken from the main aquarium and given treatment. Quarantining a fish can help stop the spread of a contagious disease, such as Ichthyophthirius multifiliis." [Wikipedia:Quarantine_tank]
-xref: Wikidata:Q7269139
-is_a: WikipediaCategory:Animal_diseases
-is_a: WikipediaCategory:Aquaria
-is_a: WikipediaCategory:Aquatic_organisms
-is_a: WikipediaCategory:Coral_reefs
-is_a: WikipediaCategory:Fishkeeping
-
-[Term]
 id: Wikidata:Q7272675
 name: quittor
 namespace: dbpedia
@@ -6494,21 +6482,6 @@ is_a: WikipediaCategory:Dog_diseases
 is_a: WikipediaCategory:Helminthiases
 is_a: WikipediaCategory:Spirurida
 is_a: WikipediaCategory:Veterinary_helminthology
-
-[Term]
-id: Wikipedia:Thiamine
-name: thiamine
-namespace: dbpedia
-def: "Thiamine or thiamin or vitamin B1 (/ˈθaɪ.əmɨn/ THY-ə-min), named as the \"thio-vitamine\" (\"sulfur-containing vitamin\") is a water-soluble vitamin of the B complex. First named aneurin for the detrimental neurological effects if not present in the diet, it was eventually assigned the generic descriptor name vitamin B1. Its phosphate derivatives are involved in many cellular processes. The best-characterized form is thiamine pyrophosphate (TPP), a coenzyme in the catabolism of sugars and amino acids. Thiamine is used in the biosynthesis of the neurotransmitter acetylcholine and gamma-aminobutyric acid (GABA). In yeast, TPP is also required in the first step of alcoholic fermentation.All living organisms use thiamine, but it is synthesized only in bacteria, fungi, and plants. Animals must obtain it from their diet, and thus, for them, it is an essential nutrient. Insufficient intake in birds produces a characteristic polyneuritis. In mammals, deficiency results in Korsakoff's syndrome, optic neuropathy, and a disease called beriberi that affects the peripheral nervous system (polyneuritis) and/or the cardiovascular system. Thiamine deficiency has a potentially fatal outcome if it remains untreated. In less severe cases, nonspecific signs include malaise, weight loss, irritability and confusion.It is on the World Health Organization's List of Essential Medicines, a list of the most important medication needed in a basic health system." [Wikipedia:Thiamine]
-xref: http://commons.wikimedia.org/wiki/Special\:FilePath/Thiamin.svg
-xref: Wikidata:Q83187
-is_a: WikipediaCategory:Alcohols
-is_a: WikipediaCategory:Amines
-is_a: WikipediaCategory:B_vitamins
-is_a: WikipediaCategory:Coenzymes
-is_a: WikipediaCategory:Poultry_diseases
-is_a: WikipediaCategory:Pyrimidines
-is_a: WikipediaCategory:Thiazoles
 
 [Term]
 id: Wikidata:Q6549399
