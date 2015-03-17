@@ -1,15 +1,16 @@
 
 [Term]
 id: WikipediaCategory:Abnormal_behaviour_in_animals
-name: Abnormal_behaviour_in_animals
+name: Abnormal behaviour in animals
 
 [Term]
 id: WikipediaCategory:Acid_fast_bacilli
-name: Acid_fast_bacilli
+name: Acid fast bacilli
 
 [Term]
 id: WikipediaCategory:Acquired_tooth_disorders
-name: Acquired_tooth_disorders
+name: Acquired tooth disorders
+xref: DOID:1091 ! tooth disease
 
 [Term]
 id: WikipediaCategory:Adenoviridae
@@ -17,15 +18,15 @@ name: Adenoviridae
 
 [Term]
 id: WikipediaCategory:Agricultural_health_and_safety
-name: Agricultural_health_and_safety
+name: Agricultural health and safety
 
 [Term]
 id: WikipediaCategory:Agricultural_pest_mites
-name: Agricultural_pest_mites
+name: Agricultural pest mites
 
 [Term]
 id: WikipediaCategory:Ailments_of_unknown_etiology
-name: Ailments_of_unknown_etiology
+name: Ailments of unknown etiology
 
 [Term]
 id: WikipediaCategory:Alloherpesviridae
@@ -49,47 +50,47 @@ name: Alphaviruses
 
 [Term]
 id: WikipediaCategory:American_Quarter_Horses
-name: American_Quarter_Horses
+name: American Quarter Horses
 
 [Term]
 id: WikipediaCategory:Amphibian_diseases
-name: Amphibian_diseases
+name: Amphibian diseases
+relationship: infects NCBITaxon:8292 ! Amphibia
 
 [Term]
 id: WikipediaCategory:Animal_care_occupations
-name: Animal_care_occupations
+name: Animal care occupations
 
 [Term]
 id: WikipediaCategory:Animal_diseases
-name: Animal_diseases
-
-[Term]
-id: WikipediaCategory:Animal_hair
-name: Animal_hair
+name: Animal diseases
+relationship: infects NCBITaxon:33208 ! Metazoa
 
 [Term]
 id: WikipediaCategory:Animal_physiology
-name: Animal_physiology
+name: Animal physiology
 
 [Term]
 id: WikipediaCategory:Animal_vaccines
-name: Animal_vaccines
+name: Animal vaccines
 
 [Term]
 id: WikipediaCategory:Animal_virology
-name: Animal_virology
+name: Animal virology
 
 [Term]
 id: WikipediaCategory:Animal_welfare
-name: Animal_welfare
+name: Animal welfare
 
 [Term]
 id: WikipediaCategory:Anthrax
 name: Anthrax
+xref: DOID:7427 ! anthrax disease
 
 [Term]
 id: WikipediaCategory:Anxiety_disorders
-name: Anxiety_disorders
+name: Anxiety disorders
+xref: DOID:2030 ! anxiety disorder
 
 [Term]
 id: WikipediaCategory:Apicomplexa
@@ -98,10 +99,6 @@ name: Apicomplexa
 [Term]
 id: WikipediaCategory:Aquaculture
 name: Aquaculture
-
-[Term]
-id: WikipediaCategory:Arabian_and_part-Arabian_horses
-name: Arabian_and_part-Arabian_horses
 
 [Term]
 id: WikipediaCategory:Arenaviridae
@@ -113,23 +110,12 @@ name: Arteriviridae
 
 [Term]
 id: WikipediaCategory:Arthropod-borne_viral_fevers_and_viral_haemorrhagic_fevers
-name: Arthropod-borne_viral_fevers_and_viral_haemorrhagic_fevers
+name: Arthropod-borne viral fevers and viral haemorrhagic fevers
 
 [Term]
 id: WikipediaCategory:Arthropod_infestations
-name: Arthropod_infestations
-
-[Term]
-id: WikipediaCategory:Articles_created_via_the_Article_Wizard
-name: Articles_created_via_the_Article_Wizard
-
-[Term]
-id: WikipediaCategory:Articles_with_images_not_understandable_by_color_blind_users
-name: Articles_with_images_not_understandable_by_color_blind_users
-
-[Term]
-id: WikipediaCategory:Articles_with_inconsistent_citation_formats
-name: Articles_with_inconsistent_citation_formats
+name: Arthropod infestations
+relationship: caused_by NCBITaxon:6656 ! Arthropoda
 
 [Term]
 id: WikipediaCategory:Ascaridida
@@ -142,18 +128,21 @@ name: Asteroidea
 [Term]
 id: WikipediaCategory:Asthma
 name: Asthma
+xref: DOID:2841 ! asthma
 
 [Term]
 id: WikipediaCategory:Autoimmune_diseases
-name: Autoimmune_diseases
+name: Autoimmune diseases
+xref: DOID:417 ! hypersensitivity reaction type II disease
 
 [Term]
 id: WikipediaCategory:Autosomal_dominant_disorders
-name: Autosomal_dominant_disorders
+name: Autosomal dominant disorders
 
 [Term]
 id: WikipediaCategory:Avian_influenza
-name: Avian_influenza
+name: Avian influenza
+xref: DOID:4492 ! avian influenza
 
 [Term]
 id: WikipediaCategory:Avulaviruses
@@ -165,7 +154,7 @@ name: Bacteria
 
 [Term]
 id: WikipediaCategory:Bacterial_diseases
-name: Bacterial_diseases
+name: Bacterial diseases
 
 [Term]
 id: WikipediaCategory:Bacteriology
@@ -173,7 +162,7 @@ name: Bacteriology
 
 [Term]
 id: WikipediaCategory:Bacterium-related_cutaneous_conditions
-name: Bacterium-related_cutaneous_conditions
+name: Bacterium-related cutaneous conditions
 
 [Term]
 id: WikipediaCategory:Bacteroidetes
@@ -185,11 +174,13 @@ name: Barnacles
 
 [Term]
 id: WikipediaCategory:Bat-borne_viruses
-name: Bat-borne_viruses
+name: Bat-borne viruses
+relationship: transmitted_by NCBITaxon:9397 ! Chiroptera
 
 [Term]
 id: WikipediaCategory:Bat_diseases
-name: Bat_diseases
+name: Bat diseases
+relationship: affects NCBITaxon:9397 ! Chiroptera
 
 [Term]
 id: WikipediaCategory:Betacoronaviruses
@@ -205,27 +196,31 @@ name: Betaretroviruses
 
 [Term]
 id: WikipediaCategory:Biological_hazards
-name: Biological_hazards
+name: Biological hazards
 
 [Term]
 id: WikipediaCategory:Biological_weapons
-name: Biological_weapons
+name: Biological weapons
 
 [Term]
 id: WikipediaCategory:Bird_behavior
-name: Bird_behavior
+name: Bird behavior
+relationship: affects NCBITaxon:8782 ! Aves
+relationship: affects GO:0007610 ! behavior
 
 [Term]
 id: WikipediaCategory:Bird_diseases
-name: Bird_diseases
+name: Bird diseases
+relationship: affects NCBITaxon:8782 ! Aves
 
 [Term]
 id: WikipediaCategory:Bird_health
-name: Bird_health
+name: Bird health
 
 [Term]
 id: WikipediaCategory:Bladder_cancer
-name: Bladder_cancer
+name: Bladder cancer
+xref: DOID:11054 ! urinary bladder cancer
 
 [Term]
 id: WikipediaCategory:Bombycidae
@@ -238,18 +233,21 @@ name: Bornaviruses
 [Term]
 id: WikipediaCategory:Botulism
 name: Botulism
+xref: DOID:11976 ! botulism
 
 [Term]
 id: WikipediaCategory:Bovine_diseases
-name: Bovine_diseases
+name: Bovine diseases
+relationship: affects NCBITaxon:9895 ! Bovidae
 
 [Term]
 id: WikipediaCategory:Bovine_health
-name: Bovine_health
+name: Bovine health
 
 [Term]
 id: WikipediaCategory:Brain_tumor
-name: Brain_tumor
+name: Brain tumor
+xref: DOID:1319 ! brain cancer
 
 [Term]
 id: WikipediaCategory:Burkholderiales
@@ -261,39 +259,42 @@ name: Camels
 
 [Term]
 id: WikipediaCategory:Cancer_in_cats
-name: Cancer_in_cats
+name: Cancer in cats
+intersection_of: DOID:162 ! cancer
+intersection_of: affects NCBITaxon:9681 ! Felidae
 
 [Term]
 id: WikipediaCategory:Cancer_in_cats_and_dogs
-name: Cancer_in_cats_and_dogs
+name: Cancer in cats and dogs
 
 [Term]
 id: WikipediaCategory:Cancer_in_dogs
-name: Cancer_in_dogs
+name: Cancer in dogs
+intersection_of: DOID:162 ! cancer
+intersection_of: affects NCBITaxon:9608 ! Canidae
 
 [Term]
 id: WikipediaCategory:Cardiogenetic_disorders
-name: Cardiogenetic_disorders
+name: Cardiogenetic disorders
+relationship: DOID:1287 ! cardiovascular system disease
 
 [Term]
 id: WikipediaCategory:Cardiomyopathy
 name: Cardiomyopathy
+xref: DOID:0050700 ! cardiomyopathy
 
 [Term]
 id: WikipediaCategory:Cat_diseases
-name: Cat_diseases
+name: Cat diseases
+relationship: affects NCBITaxon:9681 ! Felidae
 
 [Term]
 id: WikipediaCategory:Cat_health
-name: Cat_health
+name: Cat health
 
 [Term]
 id: WikipediaCategory:Causes_of_death
-name: Causes_of_death
-
-[Term]
-id: WikipediaCategory:Central_Valley_%28California%29
-name: Central_Valley_%28California%29
+name: Causes of death
 
 [Term]
 id: WikipediaCategory:Cestoda
@@ -302,6 +303,7 @@ name: Cestoda
 [Term]
 id: WikipediaCategory:Channelopathy
 name: Channelopathy
+relationship: affects GO:0034702 ! ion channel complex
 
 [Term]
 id: WikipediaCategory:Chlamydiae
@@ -310,6 +312,7 @@ name: Chlamydiae
 [Term]
 id: WikipediaCategory:Chondropathies
 name: Chondropathies
+relationship: affects UBERON:0002418 ! cartilage tissue
 
 [Term]
 id: WikipediaCategory:Cichlidae
@@ -325,31 +328,35 @@ name: Circoviridae
 
 [Term]
 id: WikipediaCategory:Clonally_transmissible_cancers
-name: Clonally_transmissible_cancers
+name: Clonally transmissible cancers
 
 [Term]
 id: WikipediaCategory:Combined_T_and_B%25E2%2580%2593cell_immunode%25EF%25AC%2581ciencies
-name: Combined_T_and_B%25E2%2580%2593cell_immunode%25EF%25AC%2581ciencies
+name: Combined T and B%25E2%2580%2593cell immunode%25EF%25AC%2581ciencies
 
 [Term]
 id: WikipediaCategory:Conditions_diagnosed_by_stool_test
-name: Conditions_diagnosed_by_stool_test
+name: Conditions diagnosed by stool test
 
 [Term]
 id: WikipediaCategory:Conditions_of_the_skin_appendages
-name: Conditions_of_the_skin_appendages
+name: Conditions of the skin appendages
+xref: DOID:37 ! skin disease
 
 [Term]
 id: WikipediaCategory:Congenital_disorders_of_eyes
-name: Congenital_disorders_of_eyes
+name: Congenital disorders of eyes
+relationship: affects UBERON:0000019 ! camera-type eye
 
 [Term]
 id: WikipediaCategory:Congenital_disorders_of_nervous_system
-name: Congenital_disorders_of_nervous_system
+name: Congenital disorders of nervous system
+relationship: affects UBERON:0001016 ! nervous system
 
 [Term]
 id: WikipediaCategory:Connective_and_soft_tissue_neoplasms
-name: Connective_and_soft_tissue_neoplasms
+name: Connective and soft tissue neoplasms
+xref: DOID:1115 ! sarcoma
 
 [Term]
 id: WikipediaCategory:Copper
@@ -357,11 +364,12 @@ name: Copper
 
 [Term]
 id: WikipediaCategory:Coral_diseases
-name: Coral_diseases
+name: Coral diseases
+relationship: affects NCBITaxon:6101 ! Anthozoa
 
 [Term]
 id: WikipediaCategory:Coral_reefs
-name: Coral_reefs
+name: Coral reefs
 
 [Term]
 id: WikipediaCategory:Coronaviridae
@@ -381,15 +389,12 @@ name: Crickets
 
 [Term]
 id: WikipediaCategory:Cruelty_to_animals
-name: Cruelty_to_animals
-
-[Term]
-id: WikipediaCategory:Crustaceans_of_the_Atlantic_Ocean
-name: Crustaceans_of_the_Atlantic_Ocean
+name: Cruelty to animals
 
 [Term]
 id: WikipediaCategory:Cryptosporidiosis
 name: Cryptosporidiosis
+xref: DOID:1733 ! cryptosporidiosis
 
 [Term]
 id: WikipediaCategory:Curses
@@ -397,7 +402,7 @@ name: Curses
 
 [Term]
 id: WikipediaCategory:Cutaneous_conditions
-name: Cutaneous_conditions
+name: Cutaneous conditions
 
 [Term]
 id: WikipediaCategory:Cycads
@@ -409,19 +414,20 @@ name: Cymothoida
 
 [Term]
 id: WikipediaCategory:Cytoskeletal_defects
-name: Cytoskeletal_defects
+name: Cytoskeletal defects
+relationship: affects GO:0005856 ! cytoskeleton
 
 [Term]
 id: WikipediaCategory:DNA_viruses
-name: DNA_viruses
+name: DNA viruses
 
 [Term]
 id: WikipediaCategory:Dairy_farming
-name: Dairy_farming
+name: Dairy farming
 
 [Term]
 id: WikipediaCategory:Deforming_dorsopathies
-name: Deforming_dorsopathies
+name: Deforming dorsopathies
 
 [Term]
 id: WikipediaCategory:Deltaretroviruses
@@ -433,7 +439,7 @@ name: Dendrobranchiata
 
 [Term]
 id: WikipediaCategory:Dermal_and_subcutaneous_growths
-name: Dermal_and_subcutaneous_growths
+name: Dermal and subcutaneous growths
 
 [Term]
 id: WikipediaCategory:Deuteromycota
@@ -446,6 +452,7 @@ name: Diabetes
 [Term]
 id: WikipediaCategory:Diarrhea
 name: Diarrhea
+xref: DOID:13250 ! diarrhea
 
 [Term]
 id: WikipediaCategory:Dicistroviridae
@@ -461,55 +468,60 @@ name: Dinoflagellates
 
 [Term]
 id: WikipediaCategory:Diseases_and_parasites_of_crustaceans
-name: Diseases_and_parasites_of_crustaceans
+name: Diseases and parasites of crustaceans
+relationship: affects NCBITaxon:6657 ! Crustacea
 
 [Term]
 id: WikipediaCategory:Diseases_of_the_eye_and_adnexa
-name: Diseases_of_the_eye_and_adnexa
+name: Diseases of the eye and adnexa
+xref: DOID:1492 ! eye and adnexa disease
 
 [Term]
 id: WikipediaCategory:Diseases_of_the_ruminants
-name: Diseases_of_the_ruminants
+name: Diseases of the ruminants
+relationship: affects NCBITaxon:9845 ! Ruminantia
 
 [Term]
 id: WikipediaCategory:Disorders_of_conjunctiva
-name: Disorders_of_conjunctiva
+name: Disorders of conjunctiva
 
 [Term]
 id: WikipediaCategory:Disorders_of_eyelid%2C_lacrimal_system_and_orbit
-name: Disorders_of_eyelid%2C_lacrimal_system_and_orbit
+name: Disorders of eyelid%2C lacrimal system and orbit
 
 [Term]
 id: WikipediaCategory:Disorders_of_iris_and_ciliary_body
-name: Disorders_of_iris_and_ciliary_body
+name: Disorders of iris and ciliary body
 
 [Term]
 id: WikipediaCategory:Disorders_of_lens
-name: Disorders_of_lens
+name: Disorders of lens
+xref: DOID:110 ! lens disease
 
 [Term]
 id: WikipediaCategory:Disorders_of_ocular_muscles%2C_binocular_movement%2C_accommodation_and_refraction
-name: Disorders_of_ocular_muscles%2C_binocular_movement%2C_accommodation_and_refraction
+name: Disorders of ocular muscles%2C binocular movement%2C accommodation and refraction
 
 [Term]
 id: WikipediaCategory:Disorders_of_sclera_and_cornea
-name: Disorders_of_sclera_and_cornea
+name: Disorders of sclera and cornea
 
 [Term]
 id: WikipediaCategory:Disturbances_of_human_pigmentation
-name: Disturbances_of_human_pigmentation
+name: Disturbances of human pigmentation
 
 [Term]
 id: WikipediaCategory:Dog_anatomy
-name: Dog_anatomy
+name: Dog anatomy
 
 [Term]
 id: WikipediaCategory:Dog_diseases
-name: Dog_diseases
+name: Dog diseases
+relationship: affects NCBITaxon:9608 ! Canidae
 
 [Term]
 id: WikipediaCategory:Dog_health
-name: Dog_health
+name: Dog health
 
 [Term]
 id: WikipediaCategory:Dogs
@@ -521,7 +533,7 @@ name: Drosophila
 
 [Term]
 id: WikipediaCategory:Eating_behaviors
-name: Eating_behaviors
+name: Eating behaviors
 
 [Term]
 id: WikipediaCategory:Ebolaviruses
@@ -538,6 +550,7 @@ name: Ecology
 [Term]
 id: WikipediaCategory:Ectoparasites
 name: Ectoparasites
+xref: DOID:4110 ! parasitic ectoparasitic infectious disease
 
 [Term]
 id: WikipediaCategory:Elephants
@@ -546,10 +559,11 @@ name: Elephants
 [Term]
 id: WikipediaCategory:Encephalitis
 name: Encephalitis
+xref: DOID:9588 ! encephalitis
 
 [Term]
 id: WikipediaCategory:Endocrine-related_cutaneous_conditions
-name: Endocrine-related_cutaneous_conditions
+name: Endocrine-related cutaneous conditions
 
 [Term]
 id: WikipediaCategory:Enoplia
@@ -561,7 +575,7 @@ name: Enteroviruses
 
 [Term]
 id: WikipediaCategory:Eosinophilic_cutaneous_conditions
-name: Eosinophilic_cutaneous_conditions
+name: Eosinophilic cutaneous conditions
 
 [Term]
 id: WikipediaCategory:Epidemics
@@ -574,6 +588,7 @@ name: Epidemiology
 [Term]
 id: WikipediaCategory:Epilepsy
 name: Epilepsy
+xref: DOID:1826 ! epilepsy syndrome
 
 [Term]
 id: WikipediaCategory:Epsilonretroviruses
@@ -581,23 +596,23 @@ name: Epsilonretroviruses
 
 [Term]
 id: WikipediaCategory:Equine_hoof
-name: Equine_hoof
+name: Equine hoof
 
 [Term]
 id: WikipediaCategory:Equine_injury_and_lameness
-name: Equine_injury_and_lameness
+name: Equine injury and lameness
 
 [Term]
 id: WikipediaCategory:Eradicated_diseases
-name: Eradicated_diseases
+name: Eradicated diseases
 
 [Term]
 id: WikipediaCategory:Escherichia_coli
-name: Escherichia_coli
+name: Escherichia coli
 
 [Term]
 id: WikipediaCategory:Esophagus_disorders
-name: Esophagus_disorders
+name: Esophagus disorders
 
 [Term]
 id: WikipediaCategory:Ethology
@@ -624,16 +639,9 @@ id: WikipediaCategory:Fasciolidae
 name: Fasciolidae
 
 [Term]
-id: WikipediaCategory:Fauna_of_India
-name: Fauna_of_India
-
-[Term]
-id: WikipediaCategory:Fauna_of_the_Cayman_Islands
-name: Fauna_of_the_Cayman_Islands
-
-[Term]
 id: WikipediaCategory:Feathers
 name: Feathers
+relationship: affects UBERON:0000022 ! feather
 
 [Term]
 id: WikipediaCategory:Filoviridae
@@ -641,15 +649,15 @@ name: Filoviridae
 
 [Term]
 id: WikipediaCategory:Fish_diseases
-name: Fish_diseases
+name: Fish diseases
 
 [Term]
 id: WikipediaCategory:Fish_health
-name: Fish_health
+name: Fish health
 
 [Term]
 id: WikipediaCategory:Fisheries_science
-name: Fisheries_science
+name: Fisheries science
 
 [Term]
 id: WikipediaCategory:Fishkeeping
@@ -661,11 +669,12 @@ name: Flaviviruses
 
 [Term]
 id: WikipediaCategory:Foodborne_illnesses
-name: Foodborne_illnesses
+name: Foodborne illnesses
 
 [Term]
 id: WikipediaCategory:Fungal_diseases
-name: Fungal_diseases
+name: Fungal diseases
+relationship: caused_by NCBITaxon:4751 ! Fungi
 
 [Term]
 id: WikipediaCategory:Fusarium
@@ -673,7 +682,7 @@ name: Fusarium
 
 [Term]
 id: WikipediaCategory:GI_tract_disorders
-name: GI_tract_disorders
+name: GI tract disorders
 
 [Term]
 id: WikipediaCategory:Gadidae
@@ -701,19 +710,19 @@ name: Gastropods
 
 [Term]
 id: WikipediaCategory:Genetic_animal_diseases
-name: Genetic_animal_diseases
+name: Genetic animal diseases
 
 [Term]
 id: WikipediaCategory:Genetic_disorders
-name: Genetic_disorders
+name: Genetic disorders
 
 [Term]
 id: WikipediaCategory:Genetic_disorders_by_system
-name: Genetic_disorders_by_system
+name: Genetic disorders by system
 
 [Term]
 id: WikipediaCategory:Genetic_disorders_with_no_OMIM
-name: Genetic_disorders_with_no_OMIM
+name: Genetic disorders with no OMIM
 
 [Term]
 id: WikipediaCategory:Goldfish
@@ -721,15 +730,15 @@ name: Goldfish
 
 [Term]
 id: WikipediaCategory:Gram-negative_bacteria
-name: Gram-negative_bacteria
+name: Gram-negative bacteria
 
 [Term]
 id: WikipediaCategory:Gram-positive_bacteria
-name: Gram-positive_bacteria
+name: Gram-positive bacteria
 
 [Term]
 id: WikipediaCategory:Gut_flora_bacteria
-name: Gut_flora_bacteria
+name: Gut flora bacteria
 
 [Term]
 id: WikipediaCategory:Hantaviruses
@@ -737,19 +746,15 @@ name: Hantaviruses
 
 [Term]
 id: WikipediaCategory:Health_disasters
-name: Health_disasters
-
-[Term]
-id: WikipediaCategory:Health_in_Venezuela
-name: Health_in_Venezuela
+name: Health disasters
 
 [Term]
 id: WikipediaCategory:Health_issues_in_pregnancy
-name: Health_issues_in_pregnancy
+name: Health issues in pregnancy
 
 [Term]
 id: WikipediaCategory:Healthcare-associated_infections
-name: Healthcare-associated_infections
+name: Healthcare-associated infections
 
 [Term]
 id: WikipediaCategory:Hedgehogs
@@ -765,7 +770,7 @@ name: Hematology
 
 [Term]
 id: WikipediaCategory:Hemorrhagic_fevers
-name: Hemorrhagic_fevers
+name: Hemorrhagic fevers
 
 [Term]
 id: WikipediaCategory:Hepaciviruses
@@ -786,46 +791,32 @@ name: Herpesviridae
 [Term]
 id: WikipediaCategory:Histiocytosis
 name: Histiocytosis
-
-[Term]
-id: WikipediaCategory:History_of_Hong_Kong
-name: History_of_Hong_Kong
-
-[Term]
-id: WikipediaCategory:History_of_medicine
-name: History_of_medicine
-
-[Term]
-id: WikipediaCategory:History_of_medieval_medicine
-name: History_of_medieval_medicine
+xref: DOID:3405 ! histiocytosis
 
 [Term]
 id: WikipediaCategory:Horse_anatomy
-name: Horse_anatomy
+name: Horse anatomy
 
 [Term]
 id: WikipediaCategory:Horse_breeding_and_studs
-name: Horse_breeding_and_studs
+name: Horse breeding and studs
 
 [Term]
 id: WikipediaCategory:Horse_diseases
-name: Horse_diseases
+name: Horse diseases
+relationship: affects NCBITaxon:9788 ! Equidae
 
 [Term]
 id: WikipediaCategory:Horse_health
-name: Horse_health
+name: Horse health
 
 [Term]
 id: WikipediaCategory:Horse_management
-name: Horse_management
-
-[Term]
-id: WikipediaCategory:Horse_racing_in_the_United_States
-name: Horse_racing_in_the_United_States
+name: Horse management
 
 [Term]
 id: WikipediaCategory:Human%25E2%2580%2593animal_interaction
-name: Human%25E2%2580%2593animal_interaction
+name: Human%25E2%2580%2593animal interaction
 
 [Term]
 id: WikipediaCategory:Ichthyology
@@ -833,7 +824,8 @@ name: Ichthyology
 
 [Term]
 id: WikipediaCategory:Infectious_diseases
-name: Infectious_diseases
+name: Infectious diseases
+xref: DOID:0050117 ! disease by infectious agent
 
 [Term]
 id: WikipediaCategory:Inflammations
@@ -841,31 +833,34 @@ name: Inflammations
 
 [Term]
 id: WikipediaCategory:Inflammatory_diseases_of_female_pelvic_organs
-name: Inflammatory_diseases_of_female_pelvic_organs
+name: Inflammatory diseases of female pelvic organs
 
 [Term]
 id: WikipediaCategory:Influenza
 name: Influenza
+xref: DOID:8469 ! influenza
 
 [Term]
 id: WikipediaCategory:Influenza_A_virus_subtype_H5N1
-name: Influenza_A_virus_subtype_H5N1
+name: Influenza A virus subtype H5N1
 
 [Term]
 id: WikipediaCategory:Insect-borne_diseases
-name: Insect-borne_diseases
+name: Insect-borne diseases
+relationship: transmitted_by NCBITaxon:50557 ! Insecta
 
 [Term]
 id: WikipediaCategory:Insect_diseases
-name: Insect_diseases
+name: Insect diseases
+relationship: affects NCBITaxon:50557 ! Insecta
 
 [Term]
 id: WikipediaCategory:Integumentary_neoplasia
-name: Integumentary_neoplasia
+name: Integumentary neoplasia
 
 [Term]
 id: WikipediaCategory:Intersex_and_medicine
-name: Intersex_and_medicine
+name: Intersex and medicine
 
 [Term]
 id: WikipediaCategory:Iridoviridae
@@ -873,11 +868,12 @@ name: Iridoviridae
 
 [Term]
 id: WikipediaCategory:Kidney_diseases
-name: Kidney_diseases
+name: Kidney diseases
+xref: DOID:557 ! kidney disease
 
 [Term]
 id: WikipediaCategory:Laboratory_mouse_breeds
-name: Laboratory_mouse_breeds
+name: Laboratory mouse breeds
 
 [Term]
 id: WikipediaCategory:Lactobacillales
@@ -890,18 +886,11 @@ name: Lentiviruses
 [Term]
 id: WikipediaCategory:Leprosy
 name: Leprosy
+xref: DOID:1024 ! leprosy
 
 [Term]
 id: WikipediaCategory:Lice
 name: Lice
-
-[Term]
-id: WikipediaCategory:Lists_of_diseases
-name: Lists_of_diseases
-
-[Term]
-id: WikipediaCategory:Lists_of_dogs
-name: Lists_of_dogs
 
 [Term]
 id: WikipediaCategory:Livestock
@@ -909,15 +898,16 @@ name: Livestock
 
 [Term]
 id: WikipediaCategory:Lymphatic_vessel_diseases
-name: Lymphatic_vessel_diseases
+name: Lymphatic vessel diseases
 
 [Term]
 id: WikipediaCategory:Lymphoid-related_cutaneous_conditions
-name: Lymphoid-related_cutaneous_conditions
+name: Lymphoid-related cutaneous conditions
 
 [Term]
 id: WikipediaCategory:Lymphoma
 name: Lymphoma
+xref: DOID:0060058 ! lymphoma
 
 [Term]
 id: WikipediaCategory:Lyssaviruses
@@ -929,19 +919,20 @@ name: Marburgviruses
 
 [Term]
 id: WikipediaCategory:Marine_biology
-name: Marine_biology
+name: Marine biology
 
 [Term]
 id: WikipediaCategory:Medical_controversies
-name: Medical_controversies
+name: Medical controversies
 
 [Term]
 id: WikipediaCategory:Medical_signs
-name: Medical_signs
+name: Medical signs
 
 [Term]
 id: WikipediaCategory:Meningitis
 name: Meningitis
+xref: DOID:9471 ! meningitis
 
 [Term]
 id: WikipediaCategory:Mesomycetozoea
@@ -957,19 +948,20 @@ name: Metamonads
 
 [Term]
 id: WikipediaCategory:Mind-altering_parasites
-name: Mind-altering_parasites
+name: Mind-altering parasites
+relationship: affects GO:0050890 ! cognition
 
 [Term]
 id: WikipediaCategory:Mineral_deficiencies
-name: Mineral_deficiencies
+name: Mineral deficiencies
 
 [Term]
 id: WikipediaCategory:Model_organisms
-name: Model_organisms
+name: Model organisms
 
 [Term]
 id: WikipediaCategory:Molecular_biology
-name: Molecular_biology
+name: Molecular biology
 
 [Term]
 id: WikipediaCategory:Mollicutes
@@ -985,11 +977,11 @@ name: Monopisthocotylea
 
 [Term]
 id: WikipediaCategory:Monotypic_animal_genera
-name: Monotypic_animal_genera
+name: Monotypic animal genera
 
 [Term]
 id: WikipediaCategory:Monotypic_genera
-name: Monotypic_genera
+name: Monotypic genera
 
 [Term]
 id: WikipediaCategory:Moraxellaceae
@@ -1005,11 +997,11 @@ name: Mycobacteria
 
 [Term]
 id: WikipediaCategory:Mycosis-related_cutaneous_conditions
-name: Mycosis-related_cutaneous_conditions
+name: Mycosis-related cutaneous conditions
 
 [Term]
 id: WikipediaCategory:Myoneural_junction_and_neuromuscular_diseases
-name: Myoneural_junction_and_neuromuscular_diseases
+name: Myoneural junction and neuromuscular diseases
 
 [Term]
 id: WikipediaCategory:Myxozoa
@@ -1017,23 +1009,23 @@ name: Myxozoa
 
 [Term]
 id: WikipediaCategory:Neglected_diseases
-name: Neglected_diseases
+name: Neglected diseases
 
 [Term]
 id: WikipediaCategory:Nematodes_with_sequenced_genomes
-name: Nematodes_with_sequenced_genomes
+name: Nematodes with sequenced genomes
 
 [Term]
 id: WikipediaCategory:Neurodegenerative_disorders
-name: Neurodegenerative_disorders
+name: Neurodegenerative disorders
 
 [Term]
 id: WikipediaCategory:Neurological_disorders
-name: Neurological_disorders
+name: Neurological disorders
 
 [Term]
 id: WikipediaCategory:Nontuberculous_mycobacteria
-name: Nontuberculous_mycobacteria
+name: Nontuberculous mycobacteria
 
 [Term]
 id: WikipediaCategory:Novirhabdoviruses
@@ -1041,11 +1033,11 @@ name: Novirhabdoviruses
 
 [Term]
 id: WikipediaCategory:Nutritional_anemias
-name: Nutritional_anemias
+name: Nutritional anemias
 
 [Term]
 id: WikipediaCategory:Occupational_diseases
-name: Occupational_diseases
+name: Occupational diseases
 
 [Term]
 id: WikipediaCategory:Orthobunyaviruses
@@ -1057,19 +1049,20 @@ name: Orthomyxoviridae
 
 [Term]
 id: WikipediaCategory:Osseous_and_chondromatous_neoplasia
-name: Osseous_and_chondromatous_neoplasia
+name: Osseous and chondromatous neoplasia
 
 [Term]
 id: WikipediaCategory:Osteonecrosis
 name: Osteonecrosis
+xref: DOID:10159 ! osteonecrosis
 
 [Term]
 id: WikipediaCategory:Overuse_injuries
-name: Overuse_injuries
+name: Overuse injuries
 
 [Term]
 id: WikipediaCategory:Pancreas_disorders
-name: Pancreas_disorders
+name: Pancreas disorders
 
 [Term]
 id: WikipediaCategory:Papillomavirus
@@ -1081,59 +1074,65 @@ name: Paramyxoviridae
 
 [Term]
 id: WikipediaCategory:Parasites_of_birds
-name: Parasites_of_birds
+name: Parasites of birds
+relationships: parasite_of NCBITaxon:8782 ! Aves
 
 [Term]
 id: WikipediaCategory:Parasites_of_cats
-name: Parasites_of_cats
+name: Parasites of cats
+relationships: parasite_of NCBITaxon:9681 ! Felidae
 
 [Term]
 id: WikipediaCategory:Parasites_of_dogs
-name: Parasites_of_dogs
+name: Parasites of dogs
+relationships: parasite_of NCBITaxon:9608 ! Canidae
 
 [Term]
 id: WikipediaCategory:Parasites_of_equines
-name: Parasites_of_equines
+name: Parasites of equines
+relationships: parasite_of NCBITaxon:9788 ! Equidae
 
 [Term]
 id: WikipediaCategory:Parasites_of_mammals
-name: Parasites_of_mammals
+name: Parasites of mammals
+relationships: parasite_of NCBITaxon:40674 ! Mammalia
 
 [Term]
 id: WikipediaCategory:Parasites_of_rodents
-name: Parasites_of_rodents
+name: Parasites of rodents
+relationships: parasite_of NCBITaxon:9989 ! Rodentia
 
 [Term]
 id: WikipediaCategory:Parasitic_acari
-name: Parasitic_acari
+name: Parasitic acari
 
 [Term]
 id: WikipediaCategory:Parasitic_animals
-name: Parasitic_animals
+name: Parasitic animals
 
 [Term]
 id: WikipediaCategory:Parasitic_crustaceans
-name: Parasitic_crustaceans
+name: Parasitic crustaceans
 
 [Term]
 id: WikipediaCategory:Parasitic_diseases
-name: Parasitic_diseases
+name: Parasitic diseases
 
 [Term]
 id: WikipediaCategory:Parasitic_fungi
-name: Parasitic_fungi
+name: Parasitic fungi
 
 [Term]
 id: WikipediaCategory:Parasitic_infestations%2C_stings%2C_and_bites_of_the_skin
-name: Parasitic_infestations%2C_stings%2C_and_bites_of_the_skin
+name: Parasitic infestations%2C stings%2C and bites of the skin
 
 [Term]
 id: WikipediaCategory:Parasitic_nematodes
-name: Parasitic_nematodes
+name: Parasitic nematodes
 
 [Term]
 id: WikipediaCategory:Parasitic_protists
-name: Parasitic_protists
+name: Parasitic protists
 
 [Term]
 id: WikipediaCategory:Parasitism
@@ -1153,7 +1152,7 @@ name: Patella
 
 [Term]
 id: WikipediaCategory:Pathogenic_bacteria
-name: Pathogenic_bacteria
+name: Pathogenic bacteria
 
 [Term]
 id: WikipediaCategory:Pediatrics
@@ -1161,11 +1160,11 @@ name: Pediatrics
 
 [Term]
 id: WikipediaCategory:Penis_disorders
-name: Penis_disorders
+name: Penis disorders
 
 [Term]
 id: WikipediaCategory:Periodontal_disorders
-name: Periodontal_disorders
+name: Periodontal disorders
 
 [Term]
 id: WikipediaCategory:Phleboviruses
@@ -1177,11 +1176,12 @@ name: Picornaviridae
 
 [Term]
 id: WikipediaCategory:Plague_%28disease%29
-name: Plague_%28disease%29
+name: Plague %28disease%29
 
 [Term]
 id: WikipediaCategory:Plant_pathogens_and_diseases
-name: Plant_pathogens_and_diseases
+name: Plant pathogens and diseases
+relationship: affects NCBITaxon:33090 ! Viridiplantae
 
 [Term]
 id: WikipediaCategory:Plasmodium
@@ -1190,18 +1190,19 @@ name: Plasmodium
 [Term]
 id: WikipediaCategory:Pneumonia
 name: Pneumonia
+xref: DOID:552 ! pneumonia
 
 [Term]
 id: WikipediaCategory:Population_ecology
-name: Population_ecology
+name: Population ecology
 
 [Term]
 id: WikipediaCategory:Poultry_diseases
-name: Poultry_diseases
+name: Poultry diseases
 
 [Term]
 id: WikipediaCategory:Poultry_farming
-name: Poultry_farming
+name: Poultry farming
 
 [Term]
 id: WikipediaCategory:Poxviruses
@@ -1209,7 +1210,7 @@ name: Poxviruses
 
 [Term]
 id: WikipediaCategory:Primate_diseases
-name: Primate_diseases
+name: Primate diseases
 
 [Term]
 id: WikipediaCategory:Proteobacteria
@@ -1217,15 +1218,11 @@ name: Proteobacteria
 
 [Term]
 id: WikipediaCategory:Protist_genera
-name: Protist_genera
+name: Protist genera
 
 [Term]
 id: WikipediaCategory:Protista
 name: Protista
-
-[Term]
-id: WikipediaCategory:Protists_described_in_1908
-name: Protists_described_in_1908
 
 [Term]
 id: WikipediaCategory:Protostomes
@@ -1237,31 +1234,33 @@ name: Protozoa
 
 [Term]
 id: WikipediaCategory:Protozoal_diseases
-name: Protozoal_diseases
+name: Protozoal diseases
 
 [Term]
 id: WikipediaCategory:RNA_viruses
-name: RNA_viruses
+name: RNA viruses
 
 [Term]
 id: WikipediaCategory:Rabbit_diseases
-name: Rabbit_diseases
+name: Rabbit diseases
+relationship: affects NCBITaxon:9975 ! Lagomorpha
 
 [Term]
 id: WikipediaCategory:Rabbits_and_hares
-name: Rabbits_and_hares
+name: Rabbits and hares
 
 [Term]
 id: WikipediaCategory:Rabies
 name: Rabies
+xref: DOID:11260 ! rabies
 
 [Term]
 id: WikipediaCategory:Rare_cancers
-name: Rare_cancers
+name: Rare cancers
 
 [Term]
 id: WikipediaCategory:Rare_diseases
-name: Rare_diseases
+name: Rare diseases
 
 [Term]
 id: WikipediaCategory:Reoviruses
@@ -1269,11 +1268,11 @@ name: Reoviruses
 
 [Term]
 id: WikipediaCategory:Respiratory_and_cardiovascular_disorders_specific_to_the_perinatal_period
-name: Respiratory_and_cardiovascular_disorders_specific_to_the_perinatal_period
+name: Respiratory and cardiovascular disorders specific to the perinatal period
 
 [Term]
 id: WikipediaCategory:Respiratory_diseases
-name: Respiratory_diseases
+name: Respiratory diseases
 
 [Term]
 id: WikipediaCategory:Rhizobiales
@@ -1289,15 +1288,17 @@ name: Rickettsioses
 
 [Term]
 id: WikipediaCategory:Rocky_Mountains
-name: Rocky_Mountains
+name: Rocky Mountains
 
 [Term]
 id: WikipediaCategory:Rodent-carried_diseases
-name: Rodent-carried_diseases
+name: Rodent-carried diseases
+relationship: transmitted_by NCBITaxon:9989 ! Rodentia
 
 [Term]
 id: WikipediaCategory:Rodent_diseases
-name: Rodent_diseases
+name: Rodent diseases
+relationship: affects NCBITaxon:9989 ! Rodentia
 
 [Term]
 id: WikipediaCategory:Rodents
@@ -1314,22 +1315,27 @@ name: Salmonidae
 [Term]
 id: WikipediaCategory:Sarcoma
 name: Sarcoma
+xref: DOID:1115 ! sarcoma
 
 [Term]
 id: WikipediaCategory:Severe_acute_respiratory_syndrome
-name: Severe_acute_respiratory_syndrome
+name: Severe acute respiratory syndrome
+xref: DOID:2945 ! severe acute respiratory syndrome
 
 [Term]
 id: WikipediaCategory:Sexually_transmitted_diseases_and_infections
-name: Sexually_transmitted_diseases_and_infections
+name: Sexually transmitted diseases and infections
+relationship: transmitted_by GO:0007620 ! copulation
 
 [Term]
 id: WikipediaCategory:Sheep_and_goat_diseases
-name: Sheep_and_goat_diseases
+name: Sheep and goat diseases
+relationship: affects NCBITaxon:9963 ! Caprinae
 
 [Term]
 id: WikipediaCategory:Sheep_diseases
-name: Sheep_diseases
+name: Sheep diseases
+relationship: affects NCBITaxon:9935 ! Ovis
 
 [Term]
 id: WikipediaCategory:Simplexviruses
@@ -1341,23 +1347,20 @@ name: Siphonostomatoida
 
 [Term]
 id: WikipediaCategory:Skeletal_disorders
-name: Skeletal_disorders
+name: Skeletal disorders
 
 [Term]
 id: WikipediaCategory:Skin_conditions_resulting_from_physical_factors
-name: Skin_conditions_resulting_from_physical_factors
+name: Skin conditions resulting from physical factors
 
 [Term]
 id: WikipediaCategory:Smallpox
 name: Smallpox
+xref: DOID:8736 ! smallpox
 
 [Term]
 id: WikipediaCategory:Smallpox_vaccines
-name: Smallpox_vaccines
-
-[Term]
-id: WikipediaCategory:Species_described_in_1972
-name: Species_described_in_1972
+name: Smallpox vaccines
 
 [Term]
 id: WikipediaCategory:Speleology
@@ -1373,7 +1376,7 @@ name: Spirurida
 
 [Term]
 id: WikipediaCategory:Steatorrhea-related_diseases
-name: Steatorrhea-related_diseases
+name: Steatorrhea-related diseases
 
 [Term]
 id: WikipediaCategory:Streptococcaceae
@@ -1385,15 +1388,16 @@ name: Strongylida
 
 [Term]
 id: WikipediaCategory:Subtypes_of_Influenza_A_virus
-name: Subtypes_of_Influenza_A_virus
+name: Subtypes of Influenza A virus
 
 [Term]
 id: WikipediaCategory:Suicide-inducing_parasitism
-name: Suicide-inducing_parasitism
+name: Suicide-inducing parasitism
 
 [Term]
 id: WikipediaCategory:Swine_diseases
-name: Swine_diseases
+name: Swine diseases
+relationship: affects NCBITaxon:9822 ! Sus
 
 [Term]
 id: WikipediaCategory:Symptoms
@@ -1401,27 +1405,30 @@ name: Symptoms
 
 [Term]
 id: WikipediaCategory:Symptoms_and_signs%3A_Skin_and_subcutaneous_tissue
-name: Symptoms_and_signs%3A_Skin_and_subcutaneous_tissue
+name: Symptoms and signs%3A Skin and subcutaneous tissue
 
 [Term]
 id: WikipediaCategory:Syndromes
 name: Syndromes
+xref: DOID:225 ! syndrome
 
 [Term]
 id: WikipediaCategory:Systemic_connective_tissue_disorders
-name: Systemic_connective_tissue_disorders
+name: Systemic connective tissue disorders
 
 [Term]
 id: WikipediaCategory:Thyroid
 name: Thyroid
+xref: DOID:7166 ! thyroiditis
 
 [Term]
 id: WikipediaCategory:Thyroid_disease
-name: Thyroid_disease
+name: Thyroid disease
 
 [Term]
 id: WikipediaCategory:Tick-borne_diseases
-name: Tick-borne_diseases
+name: Tick-borne diseases
+relationship: transmitted_by NCBITaxon:6935 ! Ixodida
 
 [Term]
 id: WikipediaCategory:Torovirinae
@@ -1429,7 +1436,8 @@ name: Torovirinae
 
 [Term]
 id: WikipediaCategory:Transmissible_spongiform_encephalopathies
-name: Transmissible_spongiform_encephalopathies
+name: Transmissible spongiform encephalopathies
+xref: DOID:649 ! prion disease
 
 [Term]
 id: WikipediaCategory:Trematoda
@@ -1441,23 +1449,25 @@ name: Trombidiformes
 
 [Term]
 id: WikipediaCategory:Tropical_diseases
-name: Tropical_diseases
+name: Tropical diseases
 
 [Term]
 id: WikipediaCategory:Tuberculosis
 name: Tuberculosis
+xref: DOID:399 ! tuberculosis
 
 [Term]
 id: WikipediaCategory:Types_of_animal_cancers
-name: Types_of_animal_cancers
+name: Types of animal cancers
 
 [Term]
 id: WikipediaCategory:Typhus
 name: Typhus
+xref: DOID:11256 ! typhus
 
 [Term]
 id: WikipediaCategory:Valvular_heart_disease
-name: Valvular_heart_disease
+name: Valvular heart disease
 
 [Term]
 id: WikipediaCategory:Varicelloviruses
@@ -1465,7 +1475,7 @@ name: Varicelloviruses
 
 [Term]
 id: WikipediaCategory:Vascular_neoplasia
-name: Vascular_neoplasia
+name: Vascular neoplasia
 
 [Term]
 id: WikipediaCategory:Vesiculoviruses
@@ -1477,31 +1487,31 @@ name: Vesiviruses
 
 [Term]
 id: WikipediaCategory:Veterinary_entomology
-name: Veterinary_entomology
+name: Veterinary entomology
 
 [Term]
 id: WikipediaCategory:Veterinary_helminthology
-name: Veterinary_helminthology
+name: Veterinary helminthology
 
 [Term]
 id: WikipediaCategory:Veterinary_medicine
-name: Veterinary_medicine
+name: Veterinary medicine
 
 [Term]
 id: WikipediaCategory:Veterinary_medicine_articles_needing_attention
-name: Veterinary_medicine_articles_needing_attention
+name: Veterinary medicine articles needing attention
 
 [Term]
 id: WikipediaCategory:Veterinary_parasitology
-name: Veterinary_parasitology
+name: Veterinary parasitology
 
 [Term]
 id: WikipediaCategory:Veterinary_professions
-name: Veterinary_professions
+name: Veterinary professions
 
 [Term]
 id: WikipediaCategory:Veterinary_protozoology
-name: Veterinary_protozoology
+name: Veterinary protozoology
 
 [Term]
 id: WikipediaCategory:Vibrionales
@@ -1509,23 +1519,32 @@ name: Vibrionales
 
 [Term]
 id: WikipediaCategory:Viral_diseases
-name: Viral_diseases
+name: Viral diseases
+relationship: caused_by NCBITaxon:10239 ! Viruses
+xref: DOID:934 ! viral infectious disease
 
 [Term]
 id: WikipediaCategory:Viral_encephalitis
-name: Viral_encephalitis
+name: Viral encephalitis
+xref: DOID:646 ! viral encephalitis
 
 [Term]
 id: WikipediaCategory:Viral_infections_of_the_central_nervous_system
-name: Viral_infections_of_the_central_nervous_system
+name: Viral infections of the central nervous system
+relationship: affects UBERON:0001017 ! central nervous system
+relationship: caused_by NCBITaxon:10239 ! Viruses
 
 [Term]
 id: WikipediaCategory:Viral_plant_pathogens_and_diseases
-name: Viral_plant_pathogens_and_diseases
+name: Viral plant pathogens and diseases
+relationship: affects NCBITaxon:33090 ! Viridiplantae
+relationship: caused_by NCBITaxon:10239 ! Viruses
 
 [Term]
 id: WikipediaCategory:Viral_respiratory_tract_infection
-name: Viral_respiratory_tract_infection
+name: Viral respiratory tract infection
+relationship: affects UBERON:0000065 ! respiratory tract
+relationship: caused_by NCBITaxon:10239 ! Viruses
 
 [Term]
 id: WikipediaCategory:Virotherapy
@@ -1533,7 +1552,7 @@ name: Virotherapy
 
 [Term]
 id: WikipediaCategory:Virus-related_cutaneous_conditions
-name: Virus-related_cutaneous_conditions
+name: Virus-related cutaneous conditions
 
 [Term]
 id: WikipediaCategory:Viruses
@@ -1541,7 +1560,7 @@ name: Viruses
 
 [Term]
 id: WikipediaCategory:Viruses_with_sequenced_genomes
-name: Viruses_with_sequenced_genomes
+name: Viruses with sequenced genomes
 
 [Term]
 id: WikipediaCategory:Vision
@@ -1549,19 +1568,20 @@ name: Vision
 
 [Term]
 id: WikipediaCategory:Vitamin_C
-name: Vitamin_C
+name: Vitamin C
 
 [Term]
 id: WikipediaCategory:Vitamin_deficiencies
-name: Vitamin_deficiencies
+name: Vitamin deficiencies
 
 [Term]
 id: WikipediaCategory:Water_moulds
-name: Water_moulds
+name: Water moulds
 
 [Term]
 id: WikipediaCategory:Waterborne_diseases
-name: Waterborne_diseases
+name: Waterborne diseases
+relationship: transmitted_by ENVO:00000012 ! hydrographic feature
 
 [Term]
 id: WikipediaCategory:Wildlife
@@ -1569,7 +1589,7 @@ name: Wildlife
 
 [Term]
 id: WikipediaCategory:Wildlife_diseases
-name: Wildlife_diseases
+name: Wildlife diseases
 
 [Term]
 id: WikipediaCategory:Zoonoses
@@ -1577,7 +1597,7 @@ name: Zoonoses
 
 [Term]
 id: WikipediaCategory:Zoonotic_bacterial_diseases
-name: Zoonotic_bacterial_diseases
+name: Zoonotic bacterial diseases
 
 [Term]
 id: WikipediaCategory:Zygomycota
