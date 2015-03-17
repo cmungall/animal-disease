@@ -13,6 +13,7 @@ xref: Wikidata:Q4666726
 is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Gammaretroviruses
 is_a: WikipediaCategory:Rodent_diseases
+xref: NCBITaxon:11788 ! Abelson murine leukemia virus
 
 [Term]
 id: Wikidata:Q3646463
@@ -29,6 +30,7 @@ namespace: dbpedia
 def: "Actinobacillosis is a zoonotic disease caused by Actinobacillus.It is more commonly associated with animals than with humans.One of the most commons form seen by veterinarians is the mouth actinobacillosis of cattle, due to Actinobacillus lignieresii. The most prominent symptom is the swelling of the tongue that comes out of the mouth and is very hard at palpation (wooden tongue).Actinobacillus suis is an important disease of pigs of all ages and can lead to severe morbidity and sudden death." [Wikipedia:Actinobacillosis]
 xref: Wikidata:Q3270160
 is_a: WikipediaCategory:Zoonoses
+xref: DOID:4974 ! actinobacillosis
 
 [Term]
 id: Wikipedia:Actinobacillus_suis
@@ -38,6 +40,7 @@ def: "Actinobacillus suis is a beta-haemolytic, Gram-negative bacterium of the P
 xref: http://commons.wikimedia.org/wiki/Special\:FilePath/Actinobacillus_suis.jpg
 xref: Wikidata:Q4676910
 is_a: WikipediaCategory:Swine_diseases
+xref: NCBITaxon:716 ! Actinobacillus suis
 
 [Term]
 id: Wikidata:Q12052726
@@ -75,6 +78,7 @@ xref: Wikidata:Q2697755
 is_a: WikipediaCategory:Bacterial_diseases
 is_a: WikipediaCategory:Fish_diseases
 is_a: WikipediaCategory:Proteobacteria
+xref: NCBITaxon:644 ! Aeromonas hydrophila
 
 [Term]
 id: Wikidata:Q4688338
@@ -85,6 +89,8 @@ xref: http://commons.wikimedia.org/wiki/Special\:FilePath/ASalmonicida.png
 xref: Wikidata:Q4688338
 is_a: WikipediaCategory:Fish_diseases
 is_a: WikipediaCategory:Proteobacteria
+xref: NCBITaxon:29491 ! Aeromonas salmonicida subsp. salmonicida
+xref: NCBITaxon:645 ! Aeromonas salmonicida
 
 [Term]
 id: Wikidata:Q386408
@@ -106,6 +112,7 @@ xref: Wikidata:Q195760
 is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:DNA_viruses
 is_a: WikipediaCategory:Swine_diseases
+xref: NCBITaxon:10497 ! African swine fever virus
 
 [Term]
 id: Wikidata:Q413749
@@ -116,6 +123,7 @@ xref: Wikidata:Q413749
 is_a: WikipediaCategory:Bovine_diseases
 is_a: WikipediaCategory:Orthobunyaviruses
 is_a: WikipediaCategory:Sheep_and_goat_diseases
+xref: NCBITaxon:70566 ! Akabane virus
 
 [Term]
 id: Wikidata:Q4712990
@@ -126,6 +134,7 @@ xref: http://commons.wikimedia.org/wiki/Special\:FilePath/Ah2_nih.PNG
 xref: Wikidata:Q4712990
 is_a: WikipediaCategory:Animal_diseases
 is_a: WikipediaCategory:Gammaherpesvirinae
+xref: NCBITaxon:138184 ! Alcelaphine herpesvirus 2
 
 [Term]
 id: Wikidata:Q2348506
@@ -227,6 +236,7 @@ is_a: WikipediaCategory:Animals_described_in_1782
 is_a: WikipediaCategory:Cestoda
 is_a: WikipediaCategory:Horse_diseases
 is_a: WikipediaCategory:Parasites_of_equines
+xref: NCBITaxon:218192 ! Anoplocephala perfoliata
 
 [Term]
 id: Wikidata:Q129104
@@ -244,6 +254,7 @@ is_a: WikipediaCategory:Livestock
 is_a: WikipediaCategory:Occupational_diseases
 is_a: WikipediaCategory:Zoonoses
 is_a: WikipediaCategory:Zoonotic_bacterial_diseases
+xref: NCBITaxon:1392 ! Bacillus anthracis
 
 [Term]
 id: Wikidata:Q1049711
@@ -269,6 +280,7 @@ name: aphanomyces astaci
 namespace: dbpedia
 def: "." [Wikipedia:Aphanomyces_astaci]
 is_a: WikipediaCategory:Diseases_and_parasites_of_crustaceans
+xref: NCBITaxon:112090 ! Aphanomyces astaci
 
 [Term]
 id: Wikipedia:Ascaridia_galli
@@ -281,6 +293,7 @@ is_a: WikipediaCategory:Ascaridida
 is_a: WikipediaCategory:Parasitic_nematodes
 is_a: WikipediaCategory:Poultry_diseases
 is_a: WikipediaCategory:Veterinary_helminthology
+xref: NCBITaxon:46685 ! Ascaridia galli
 
 [Term]
 id: Wikipedia:Ascaris_suum
@@ -294,6 +307,7 @@ is_a: WikipediaCategory:Ascaridida
 is_a: WikipediaCategory:Nematodes_with_sequenced_genomes
 is_a: WikipediaCategory:Swine_diseases
 is_a: WikipediaCategory:Veterinary_helminthology
+xref: NCBITaxon:6253 ! Ascaris suum
 
 [Term]
 id: Wikipedia:Aspergillosis
@@ -305,6 +319,7 @@ xref: Wikidata:Q259626
 is_a: WikipediaCategory:Fungal_diseases
 is_a: WikipediaCategory:Mycosis-related_cutaneous_conditions
 is_a: WikipediaCategory:Poultry_diseases
+xref: DOID:13564 ! aspergillosis
 
 [Term]
 id: Wikidata:Q4810762
@@ -336,6 +351,7 @@ def: "In 2008, by pyrosequencing of cDNA from the brains of several parrots suff
 xref: Wikidata:Q4828540
 is_a: WikipediaCategory:Bird_diseases
 is_a: WikipediaCategory:Bornaviruses
+xref: NCBITaxon:675389 ! Avian bornavirus
 
 [Term]
 id: Wikidata:Q2874269
@@ -347,6 +363,7 @@ is_a: WikipediaCategory:Adenoviridae
 is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Bird_diseases
 is_a: WikipediaCategory:Poultry_diseases
+xref: NCBITaxon:10555 ! avian adenovirus
 
 [Term]
 id: Wikipedia:Avian_botulism
@@ -366,6 +383,7 @@ is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Bird_diseases
 is_a: WikipediaCategory:Picornaviridae
 is_a: WikipediaCategory:Viral_diseases
+xref: NCBITaxon:70796 ! Avian encephalomyelitis virus
 
 [Term]
 id: Wikipedia:Avian_infectious_bronchitis
@@ -386,6 +404,7 @@ is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Gammacoronaviruses
 is_a: WikipediaCategory:Poultry_diseases
 is_a: WikipediaCategory:Viral_respiratory_tract_infection
+xref: NCBITaxon:11120 ! Infectious bronchitis virus
 
 [Term]
 id: Wikidata:Q43987
@@ -398,6 +417,7 @@ is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Avian_influenza
 is_a: WikipediaCategory:Bird_diseases
 is_a: WikipediaCategory:Poultry_diseases
+xref: DOID:4492 ! avian influenza
 
 [Term]
 id: Wikidata:Q17115844
@@ -437,6 +457,7 @@ is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Bird_diseases
 is_a: WikipediaCategory:Paramyxoviridae
 is_a: WikipediaCategory:Viral_respiratory_tract_infection
+xref: NCBITaxon:38525 ! Avian metapneumovirus
 
 [Term]
 id: Wikipedia:Avian_reovirus
@@ -447,6 +468,7 @@ xref: Wikidata:Q4828565
 is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Poultry_diseases
 is_a: WikipediaCategory:Reoviruses
+xref: NCBITaxon:38170 ! Avian orthoreovirus
 
 [Term]
 id: Wikidata:Q145931
@@ -488,6 +510,7 @@ xref: Wikidata:Q4828931
 is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Bird_diseases
 is_a: WikipediaCategory:Poxviruses
+xref: NCBITaxon:10260 ! Avipoxvirus
 
 [Term]
 id: Wikidata:Q1002578
@@ -500,6 +523,7 @@ is_a: WikipediaCategory:Bovine_diseases
 is_a: WikipediaCategory:Parasites_of_mammals
 is_a: WikipediaCategory:Parasitic_protists
 is_a: WikipediaCategory:Veterinary_protozoology
+xref: NCBITaxon:32595 ! Babesia divergens
 
 [Term]
 id: Wikidata:Q1722736
@@ -529,6 +553,7 @@ xref: http://commons.wikimedia.org/wiki/Special\:FilePath/Balanitis_on_an_intact
 xref: Wikidata:Q3270174
 is_a: WikipediaCategory:Animal_diseases
 is_a: WikipediaCategory:Penis_disorders
+xref: DOID:13031 ! balanoposthitis
 
 [Term]
 id: Wikidata:Q4850362
@@ -574,6 +599,7 @@ xref: http://commons.wikimedia.org/wiki/Special\:FilePath/Vacuoles_in_retina_of_
 xref: Wikidata:Q16975146
 is_a: WikipediaCategory:Fish_diseases
 is_a: WikipediaCategory:RNA_viruses
+xref: NCBITaxon:143919 ! Betanodavirus
 
 [Term]
 id: Wikidata:Q4907794
@@ -693,6 +719,7 @@ xref: http://commons.wikimedia.org/wiki/Special\:FilePath/Bordetella_bronchisept
 xref: Wikidata:Q137446
 is_a: WikipediaCategory:Burkholderiales
 is_a: WikipediaCategory:Rabbit_diseases
+xref: NCBITaxon:518 ! Bordetella bronchiseptica
 
 [Term]
 id: Wikipedia:Bordetella_holmesii
@@ -702,6 +729,7 @@ def: "Bordetella holmesii is a Gram-negative, rod-shaped bacterium of the genus 
 xref: Wikidata:Q16844637
 is_a: WikipediaCategory:Burkholderiales
 is_a: WikipediaCategory:Rabbit_diseases
+xref: NCBITaxon:35814 ! Bordetella holmesii
 
 [Term]
 id: Wikipedia:Borrelia_anserina
@@ -711,6 +739,7 @@ def: "Borrelia anserina is a helical filiform spirochete bacteria with dimension
 xref: http://commons.wikimedia.org/wiki/Special\:FilePath/Argastick.jpg
 xref: Wikidata:Q2911336
 is_a: WikipediaCategory:Poultry_diseases
+xref: NCBITaxon:143 ! Borrelia anserina
 
 [Term]
 id: Wikipedia:Botulism
@@ -725,6 +754,7 @@ is_a: WikipediaCategory:Conditions_diagnosed_by_stool_test
 is_a: WikipediaCategory:Foodborne_illnesses
 is_a: WikipediaCategory:Myoneural_junction_and_neuromuscular_diseases
 is_a: WikipediaCategory:Poultry_diseases
+xref: DOID:11976 ! botulism
 
 [Term]
 id: Wikidata:Q9178224
@@ -734,6 +764,7 @@ def: "Bovicola bovis (also called Damalinia bovis and the red louse) is a cattle
 xref: Wikidata:Q9178224
 is_a: WikipediaCategory:Bovine_diseases
 is_a: WikipediaCategory:Lice
+xref: NCBITaxon:160097 ! Bovicola bovis
 
 [Term]
 id: Wikidata:Q5028749
@@ -754,6 +785,7 @@ is_a: WikipediaCategory:Adenoviridae
 is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Bovine_diseases
 is_a: WikipediaCategory:Viral_diseases
+xref: NCBITaxon:389483 ! Ovine adenovirus B
 
 [Term]
 id: Wikidata:Q4950554
@@ -765,6 +797,7 @@ is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Betacoronaviruses
 is_a: WikipediaCategory:Bovine_diseases
 is_a: WikipediaCategory:Viral_diseases
+xref: NCBITaxon:11128 ! Bovine coronavirus
 
 [Term]
 id: Wikipedia:Bovine_enterovirus
@@ -775,6 +808,7 @@ xref: http://commons.wikimedia.org/wiki/Special\:FilePath/BEV_Structure.jpg
 is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Bovine_diseases
 is_a: WikipediaCategory:Enteroviruses
+xref: NCBITaxon:12064 ! Bovine enterovirus
 
 [Term]
 id: Wikidata:Q4950557
@@ -796,6 +830,7 @@ is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Bovine_diseases
 is_a: WikipediaCategory:Pneumonia
 is_a: WikipediaCategory:Varicelloviruses
+xref: NCBITaxon:10320 ! Bovine herpesvirus 1
 
 [Term]
 id: Wikidata:Q4950560
@@ -806,6 +841,7 @@ xref: Wikidata:Q4950560
 is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Bovine_diseases
 is_a: WikipediaCategory:Simplexviruses
+xref: NCBITaxon:10295 ! Bovine herpesvirus 2
 
 [Term]
 id: Wikidata:Q4950561
@@ -817,6 +853,7 @@ is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Bovine_diseases
 is_a: WikipediaCategory:Gammaherpesvirinae
 is_a: WikipediaCategory:Viral_diseases
+xref: NCBITaxon:10385 ! Bovine herpesvirus 4
 
 [Term]
 id: Wikidata:Q4950564
@@ -827,6 +864,7 @@ xref: Wikidata:Q4950564
 is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Bovine_diseases
 is_a: WikipediaCategory:Varicelloviruses
+xref: NCBITaxon:35244 ! Bovine herpesvirus 5
 
 [Term]
 id: Wikidata:Q895365
@@ -837,6 +875,7 @@ xref: Wikidata:Q895365
 is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Bovine_diseases
 is_a: WikipediaCategory:Deltaretroviruses
+xref: NCBITaxon:11901 ! Bovine leukemia virus
 
 [Term]
 id: Wikidata:Q552330
@@ -859,6 +898,7 @@ is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Bovine_diseases
 is_a: WikipediaCategory:Horse_diseases
 is_a: WikipediaCategory:Papillomavirus
+xref: NCBITaxon:10571 ! Bovine papillomavirus
 
 [Term]
 id: Wikidata:Q4950566
@@ -881,6 +921,7 @@ is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Bovine_diseases
 is_a: WikipediaCategory:Parvovirinae
 is_a: WikipediaCategory:Viral_diseases
+xref: NCBITaxon:10784 ! Bovine parvovirus
 
 [Term]
 id: Wikidata:Q154666
@@ -893,6 +934,7 @@ is_a: WikipediaCategory:Bovine_diseases
 is_a: WikipediaCategory:Foodborne_illnesses
 is_a: WikipediaCategory:Health_disasters
 is_a: WikipediaCategory:Transmissible_spongiform_encephalopathies
+xref: DOID:5435 ! variant Creutzfeldt-Jakob disease
 
 [Term]
 id: Wikidata:Q797128
@@ -931,6 +973,7 @@ xref: Wikidata:Q4953571
 is_a: WikipediaCategory:Bacteria
 is_a: WikipediaCategory:Bovine_diseases
 is_a: WikipediaCategory:Spirochaetes
+xref: NCBITaxon:52584 ! Brachyspira pilosicoli
 
 [Term]
 id: Wikipedia:Braxy
@@ -958,6 +1001,7 @@ xref: Wikidata:Q4978547
 is_a: WikipediaCategory:Dog_diseases
 is_a: WikipediaCategory:Dog_health
 is_a: WikipediaCategory:Rhizobiales
+xref: NCBITaxon:36855 ! Brucella canis
 
 [Term]
 id: Wikidata:Q156050
@@ -973,6 +1017,7 @@ is_a: WikipediaCategory:Dog_diseases
 is_a: WikipediaCategory:Occupational_diseases
 is_a: WikipediaCategory:Zoonoses
 is_a: WikipediaCategory:Zoonotic_bacterial_diseases
+xref: DOID:11077 ! brucellosis
 
 [Term]
 id: Wikipedia:Bubonic_plague
@@ -986,6 +1031,7 @@ is_a: WikipediaCategory:Plague_%28disease%29
 is_a: WikipediaCategory:Rabbit_diseases
 is_a: WikipediaCategory:Rodent-carried_diseases
 is_a: WikipediaCategory:Zoonotic_bacterial_diseases
+xref: DOID:10773 ! bubonic plague
 
 [Term]
 id: Wikidata:Q4985933
@@ -1040,6 +1086,7 @@ is_a: WikipediaCategory:Bacterial_diseases
 is_a: WikipediaCategory:Foodborne_illnesses
 is_a: WikipediaCategory:GI_tract_disorders
 is_a: WikipediaCategory:Poultry_diseases
+xref: DOID:13622 ! campylobacteriosis
 
 [Term]
 id: Wikidata:Q2936179
@@ -1171,6 +1218,7 @@ is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Dog_diseases
 is_a: WikipediaCategory:Dog_health
 is_a: WikipediaCategory:Varicelloviruses
+xref: NCBITaxon:170325 ! Canid herpesvirus 1
 
 [Term]
 id: Wikidata:Q5032410
@@ -1228,6 +1276,7 @@ xref: Wikidata:Q1553609
 is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Dog_diseases
 is_a: WikipediaCategory:Parvovirinae
+xref: NCBITaxon:10788 ! Canine parvovirus
 
 [Term]
 id: Wikidata:Q1779250
@@ -1290,6 +1339,7 @@ xref: Wikidata:Q639776
 is_a: WikipediaCategory:Bacterium-related_cutaneous_conditions
 is_a: WikipediaCategory:Zoonoses
 is_a: WikipediaCategory:Zoonotic_bacterial_diseases
+xref: DOID:11258 ! cat-scratch disease
 
 [Term]
 id: Wikidata:Q5051108
@@ -1309,6 +1359,7 @@ xref: Wikidata:Q17071989
 is_a: WikipediaCategory:Fish_diseases
 is_a: WikipediaCategory:Myxozoa
 is_a: WikipediaCategory:Veterinary_parasitology
+xref: NCBITaxon:60662 ! Ceratomyxa shasta
 
 [Term]
 id: Wikidata:Q191554
@@ -1342,6 +1393,7 @@ is_a: WikipediaCategory:Alloherpesviridae
 is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Fish_diseases
 is_a: WikipediaCategory:Viral_diseases
+xref: NCBITaxon:10401 ! Ictalurid herpesvirus 1
 
 [Term]
 id: Wikidata:Q928925
@@ -1363,6 +1415,7 @@ is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Circoviridae
 is_a: WikipediaCategory:Poultry_diseases
 is_a: WikipediaCategory:Viral_diseases
+xref: NCBITaxon:12618 ! Chicken anemia virus
 
 [Term]
 id: Wikidata:Q2705361
@@ -1372,6 +1425,7 @@ def: "Chlamydophila abortus is a species in Chlamydiae that causes abortion and 
 xref: Wikidata:Q2705361
 is_a: WikipediaCategory:Animal_diseases
 is_a: WikipediaCategory:Chlamydiae
+xref: NCBITaxon:83555 ! Chlamydophila abortus
 
 [Term]
 id: Wikidata:Q5102723
@@ -1381,6 +1435,7 @@ def: "Chlamydophila felis is a bacterium endemic among domestic cats worldwide, 
 xref: Wikidata:Q5102723
 is_a: WikipediaCategory:Cat_diseases
 is_a: WikipediaCategory:Chlamydiae
+xref: NCBITaxon:83556 ! Chlamydophila felis
 
 [Term]
 id: Wikidata:Q5104194
@@ -1418,6 +1473,7 @@ xref: Wikidata:Q1087811
 is_a: WikipediaCategory:Animal_diseases
 is_a: WikipediaCategory:Transmissible_spongiform_encephalopathies
 is_a: WikipediaCategory:Wildlife_diseases
+xref: DOID:3530 ! chronic wasting disease
 
 [Term]
 id: Wikidata:Q5114948
@@ -1432,6 +1488,7 @@ is_a: WikipediaCategory:Eurotiomycetes
 is_a: WikipediaCategory:Fungal_diseases
 is_a: WikipediaCategory:Fungi_described_in_1833
 is_a: WikipediaCategory:Mycosis-related_cutaneous_conditions
+xref: NCBITaxon:40411 ! Chrysosporium
 
 [Term]
 id: Wikidata:Q1090290
@@ -1465,6 +1522,7 @@ is_a: WikipediaCategory:Cat_diseases
 is_a: WikipediaCategory:Dog_diseases
 is_a: WikipediaCategory:Parasitic_protists
 is_a: WikipediaCategory:Veterinary_protozoology
+xref: NCBITaxon:5796 ! Coccidia
 
 [Term]
 id: Wikipedia:Coccidiosis
@@ -1474,6 +1532,7 @@ def: "Coccidiosis is a parasitic disease of the intestinal tract of animals caus
 xref: Wikidata:Q487837
 is_a: WikipediaCategory:Parasitic_diseases
 is_a: WikipediaCategory:Poultry_diseases
+xref: DOID:2113 ! coccidiosis
 
 [Term]
 id: Wikidata:Q221547
@@ -1484,6 +1543,7 @@ xref: http://commons.wikimedia.org/wiki/Special\:FilePath/Coenurus.jpg
 xref: Wikidata:Q221547
 is_a: WikipediaCategory:Diseases_of_the_ruminants
 is_a: WikipediaCategory:Zoonoses
+xref: DOID:0050251 ! coenurosis
 
 [Term]
 id: Wikidata:Q5145774
@@ -1626,6 +1686,7 @@ is_a: WikipediaCategory:Smallpox_vaccines
 is_a: WikipediaCategory:Viral_diseases
 is_a: WikipediaCategory:Virus-related_cutaneous_conditions
 is_a: WikipediaCategory:Zoonoses
+xref: DOID:8956 ! cowpox
 
 [Term]
 id: Wikidata:Q1786494
@@ -1657,6 +1718,7 @@ is_a: WikipediaCategory:Dicistroviridae
 is_a: WikipediaCategory:Epidemics
 is_a: WikipediaCategory:Insect_diseases
 is_a: WikipediaCategory:Viral_diseases
+xref: NCBITaxon:12136 ! Cricket paralysis virus
 
 [Term]
 id: Wikidata:Q4355890
@@ -1667,6 +1729,7 @@ xref: Wikidata:Q4355890
 is_a: WikipediaCategory:Ciliates
 is_a: WikipediaCategory:Fish_diseases
 is_a: WikipediaCategory:Veterinary_protozoology
+xref: NCBITaxon:153250 ! Cryptocaryon
 
 [Term]
 id: Wikidata:Q133078
@@ -1678,6 +1741,7 @@ xref: Wikidata:Q133078
 is_a: WikipediaCategory:Apicomplexa
 is_a: WikipediaCategory:Bovine_diseases
 is_a: WikipediaCategory:Cryptosporidiosis
+xref: NCBITaxon:5806 ! Cryptosporidium
 
 [Term]
 id: Wikidata:Q3388882
@@ -1688,6 +1752,7 @@ xref: Wikidata:Q3388882
 is_a: WikipediaCategory:Fish_diseases
 is_a: WikipediaCategory:Monopisthocotylea
 is_a: WikipediaCategory:Parasitic_animals
+xref: NCBITaxon:231341 ! Dactylogyrus vastator
 
 [Term]
 id: Wikidata:Q5251780
@@ -1719,6 +1784,7 @@ xref: Wikidata:Q5255923
 is_a: WikipediaCategory:Animals_described_in_2003
 is_a: WikipediaCategory:Dog_diseases
 is_a: WikipediaCategory:Trombidiformes
+xref: NCBITaxon:1191121 ! Demodex injai
 
 [Term]
 id: Wikidata:Q1030785
@@ -1739,6 +1805,7 @@ synonym: "dental caries" RELATED []
 xref: Wikidata:Q5259411
 is_a: WikipediaCategory:Acquired_tooth_disorders
 is_a: WikipediaCategory:Dog_diseases
+xref: DOID:216 ! dental caries
 
 [Term]
 id: Wikipedia:Dermanyssus_gallinae
@@ -1755,6 +1822,7 @@ is_a: WikipediaCategory:Parasites_of_birds
 is_a: WikipediaCategory:Parasitic_acari
 is_a: WikipediaCategory:Poultry_diseases
 is_a: WikipediaCategory:Veterinary_entomology
+xref: NCBITaxon:34641 ! Dermanyssus gallinae
 
 [Term]
 id: Wikidata:Q1200231
@@ -1816,6 +1884,7 @@ is_a: WikipediaCategory:Digenea
 is_a: WikipediaCategory:Parasitic_animals
 is_a: WikipediaCategory:Suicide-inducing_parasitism
 is_a: WikipediaCategory:Veterinary_helminthology
+xref: NCBITaxon:57078 ! Dicrocoelium dendriticum
 
 [Term]
 id: Wikidata:Q957759
@@ -1827,6 +1896,7 @@ is_a: WikipediaCategory:Diseases_of_the_ruminants
 is_a: WikipediaCategory:Parasites_of_equines
 is_a: WikipediaCategory:Strongylida
 is_a: WikipediaCategory:Veterinary_helminthology
+xref: NCBITaxon:29171 ! Dictyocaulus
 
 [Term]
 id: Wikidata:Q1346576
@@ -1875,6 +1945,7 @@ xref: http://commons.wikimedia.org/wiki/Special\:FilePath/Canine_distichiae.JPG
 xref: Wikidata:Q1229478
 is_a: WikipediaCategory:Congenital_disorders_of_eyes
 is_a: WikipediaCategory:Dog_diseases
+xref: NCBITaxon:46320 ! Distichia
 
 [Term]
 id: Wikidata:Q16989309
@@ -1915,6 +1986,7 @@ is_a: WikipediaCategory:Animals_described_in_1968
 is_a: WikipediaCategory:Diseases_and_parasites_of_crustaceans
 is_a: WikipediaCategory:Drosophila
 is_a: WikipediaCategory:Fauna_of_the_Cayman_Islands
+xref: NCBITaxon:508692 ! Drosophila endobranchia
 
 [Term]
 id: Wikipedia:Duck_hepatitis_virus
@@ -1959,6 +2031,7 @@ is_a: WikipediaCategory:Bird_diseases
 is_a: WikipediaCategory:Horse_diseases
 is_a: WikipediaCategory:Viral_encephalitis
 is_a: WikipediaCategory:Viral_infections_of_the_central_nervous_system
+xref: NCBITaxon:11021 ! Eastern equine encephalitis virus
 
 [Term]
 id: Wikipedia:Ebola_virus
@@ -1978,6 +2051,8 @@ is_a: WikipediaCategory:Viral_diseases
 is_a: WikipediaCategory:Virus-related_cutaneous_conditions
 is_a: WikipediaCategory:Viruses_with_sequenced_genomes
 is_a: WikipediaCategory:Zoonoses
+xref: NCBITaxon:186536 ! Ebolavirus
+xref: Wikidata:Q5331908 ! ebolavirus
 
 [Term]
 id: Wikidata:Q5331908
@@ -1995,6 +2070,8 @@ is_a: WikipediaCategory:Tropical_diseases
 is_a: WikipediaCategory:Viral_diseases
 is_a: WikipediaCategory:Virus-related_cutaneous_conditions
 is_a: WikipediaCategory:Zoonoses
+xref: NCBITaxon:186536 ! Ebolavirus
+xref: Wikipedia:Ebola_virus ! ebola virus
 
 [Term]
 id: Wikidata:Q777087
@@ -2007,6 +2084,7 @@ is_a: WikipediaCategory:Dog_diseases
 is_a: WikipediaCategory:Helminthiases
 is_a: WikipediaCategory:Parasitic_infestations%2C_stings%2C_and_bites_of_the_skin
 is_a: WikipediaCategory:Zoonoses
+xref: DOID:1496 ! echinococcosis
 
 [Term]
 id: Wikidata:Q630200
@@ -2021,6 +2099,7 @@ is_a: WikipediaCategory:Dog_health
 is_a: WikipediaCategory:Parasites_of_dogs
 is_a: WikipediaCategory:Parasitic_animals
 is_a: WikipediaCategory:Veterinary_helminthology
+xref: NCBITaxon:6210 ! Echinococcus granulosus
 
 [Term]
 id: Wikidata:Q1827028
@@ -2043,6 +2122,7 @@ xref: Wikidata:Q1323732
 is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Poxviruses
 is_a: WikipediaCategory:Rodent_diseases
+xref: NCBITaxon:12643 ! Ectromelia virus
 
 [Term]
 id: Wikidata:Q662298
@@ -2054,6 +2134,7 @@ xref: Wikidata:Q662298
 is_a: WikipediaCategory:Congenital_disorders_of_eyes
 is_a: WikipediaCategory:Disorders_of_eyelid%2C_lacrimal_system_and_orbit
 is_a: WikipediaCategory:Dog_diseases
+xref: DOID:1570 ! ectropion
 
 [Term]
 id: Wikidata:Q5346148
@@ -2063,6 +2144,7 @@ def: "Edwardsiella ictaluri (also known as Enteric Septicaemia of Catfish, Hole 
 xref: Wikidata:Q5346148
 is_a: WikipediaCategory:Bacterial_diseases
 is_a: WikipediaCategory:Fish_diseases
+xref: NCBITaxon:67780 ! Edwardsiella ictaluri
 
 [Term]
 id: Wikidata:Q3048738
@@ -2072,6 +2154,7 @@ def: "Edwardsiella tarda is a member of the Enterobacteriaceae family. The bacte
 xref: Wikidata:Q3048738
 is_a: WikipediaCategory:Bacterial_diseases
 is_a: WikipediaCategory:Fish_diseases
+xref: NCBITaxon:636 ! Edwardsiella tarda
 
 [Term]
 id: Wikidata:Q622914
@@ -2092,6 +2175,7 @@ xref: Wikidata:Q1118366
 is_a: WikipediaCategory:Bacteriology
 is_a: WikipediaCategory:Diseases_of_the_ruminants
 is_a: WikipediaCategory:Rickettsiales
+xref: NCBITaxon:779 ! Ehrlichia ruminantium
 
 [Term]
 id: Wikidata:Q1033316
@@ -2102,6 +2186,7 @@ synonym: "ehrlichiosis" RELATED []
 xref: Wikidata:Q1033316
 is_a: WikipediaCategory:Bacterial_diseases
 is_a: WikipediaCategory:Dog_diseases
+xref: DOID:10242 ! ehrlichiosis
 
 [Term]
 id: Wikipedia:Eimeria
@@ -2115,6 +2200,7 @@ is_a: WikipediaCategory:Parasites_of_birds
 is_a: WikipediaCategory:Parasites_of_equines
 is_a: WikipediaCategory:Poultry_diseases
 is_a: WikipediaCategory:Veterinary_protozoology
+xref: NCBITaxon:5800 ! Eimeria
 
 [Term]
 id: Wikidata:Q5353124
@@ -2210,6 +2296,7 @@ xref: Wikidata:Q1428492
 is_a: WikipediaCategory:Insect_diseases
 is_a: WikipediaCategory:Parasitic_fungi
 is_a: WikipediaCategory:Zygomycota
+xref: NCBITaxon:34485 ! Entomophthora muscae
 
 [Term]
 id: Wikidata:Q1327273
@@ -2221,6 +2308,7 @@ xref: Wikidata:Q1327273
 is_a: WikipediaCategory:Congenital_disorders_of_eyes
 is_a: WikipediaCategory:Disorders_of_eyelid%2C_lacrimal_system_and_orbit
 is_a: WikipediaCategory:Dog_diseases
+xref: DOID:12397 ! entropion
 
 [Term]
 id: Wikidata:Q655982
@@ -2333,6 +2421,7 @@ namespace: dbpedia
 def: "Equine herpesvirus is a group of viruses of the family Herpesviridae that affect horses.Equine herpesvirus 1 of the subfamily Alphaherpesvirinae and genus VaricellovirusEquine herpesvirus 2 of the subfamily Gammaherpesvirinae and genus RhadinovirusEquine herpesvirus 3 of the subfamily Alphaherpesvirinae and genus VaricellovirusEquine herpesvirus 4 of the subfamily Alphaherpesvirinae and genus VaricellovirusEquine herpesvirus 5 of the subfamily Gammaherpesvirinae and genus Rhadinovirus" [Wikipedia:Equine_herpesvirus]
 xref: Wikidata:Q883829
 is_a: WikipediaCategory:Horse_diseases
+xref: NCBITaxon:48410 ! Equine herpesvirus sp.
 
 [Term]
 id: Wikidata:Q5384503
@@ -2343,6 +2432,7 @@ xref: Wikidata:Q5384503
 is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Horse_diseases
 is_a: WikipediaCategory:Varicelloviruses
+xref: NCBITaxon:10326 ! Equid herpesvirus 1
 
 [Term]
 id: Wikidata:Q5384504
@@ -2353,6 +2443,7 @@ xref: Wikidata:Q5384504
 is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Gammaherpesvirinae
 is_a: WikipediaCategory:Horse_diseases
+xref: NCBITaxon:12657 ! Equid herpesvirus 2
 
 [Term]
 id: Wikidata:Q5384505
@@ -2363,6 +2454,7 @@ xref: Wikidata:Q5384505
 is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Horse_diseases
 is_a: WikipediaCategory:Varicelloviruses
+xref: NCBITaxon:80341 ! Equid herpesvirus 3
 
 [Term]
 id: Wikidata:Q5977522
@@ -2373,6 +2465,7 @@ xref: Wikidata:Q5977522
 is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Horse_diseases
 is_a: WikipediaCategory:Varicelloviruses
+xref: NCBITaxon:10331 ! Equid herpesvirus 4
 
 [Term]
 id: Wikidata:Q15991450
@@ -2382,6 +2475,7 @@ def: "Equine herpesvirus 5 is thought to be the cause of a chronic lung disease 
 xref: Wikidata:Q15991450
 is_a: WikipediaCategory:Herpesviridae
 is_a: WikipediaCategory:Horse_diseases
+xref: NCBITaxon:10371 ! Equid herpesvirus 5
 
 [Term]
 id: Wikidata:Q570260
@@ -2468,6 +2562,7 @@ xref: Wikidata:Q5385174
 is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Horse_diseases
 is_a: WikipediaCategory:Picornaviridae
+xref: NCBITaxon:194961 ! Erbovirus
 
 [Term]
 id: Wikipedia:Erysipelas
@@ -2479,6 +2574,7 @@ xref: Wikidata:Q207092
 is_a: WikipediaCategory:Bacterial_diseases
 is_a: WikipediaCategory:Bacterium-related_cutaneous_conditions
 is_a: WikipediaCategory:Poultry_diseases
+xref: DOID:11330 ! erysipelas
 
 [Term]
 id: Wikipedia:Erysipeloid
@@ -2489,6 +2585,7 @@ xref: http://commons.wikimedia.org/wiki/Special\:FilePath/Diseases_of_Swine_31-1
 xref: Wikidata:Q1607983
 is_a: WikipediaCategory:Bacterium-related_cutaneous_conditions
 is_a: WikipediaCategory:Zoonotic_bacterial_diseases
+xref: DOID:0050061 ! erysipeloid
 
 [Term]
 id: Wikipedia:Escherichia_coli
@@ -2502,6 +2599,7 @@ is_a: WikipediaCategory:Escherichia_coli
 is_a: WikipediaCategory:Gut_flora_bacteria
 is_a: WikipediaCategory:Model_organisms
 is_a: WikipediaCategory:Rabbit_diseases
+xref: NCBITaxon:562 ! Escherichia coli
 
 [Term]
 id: Wikidata:Q5404126
@@ -2528,6 +2626,7 @@ xref: Wikidata:Q641605
 is_a: WikipediaCategory:Dog_diseases
 is_a: WikipediaCategory:Pancreas_disorders
 is_a: WikipediaCategory:Steatorrhea-related_diseases
+xref: DOID:13316 ! exocrine pancreatic insufficiency
 
 [Term]
 id: Wikidata:Q684383
@@ -2538,6 +2637,7 @@ xref: http://commons.wikimedia.org/wiki/Special\:FilePath/406907P-PA-OCULAR.jpg
 xref: Wikidata:Q684383
 is_a: WikipediaCategory:Disorders_of_eyelid%2C_lacrimal_system_and_orbit
 is_a: WikipediaCategory:Dog_diseases
+xref: DOID:9370 ! exophthalmos
 
 [Term]
 id: Wikidata:Q5422016
@@ -2576,6 +2676,7 @@ xref: Wikidata:Q16981961
 is_a: WikipediaCategory:Adenoviridae
 is_a: WikipediaCategory:Bird_diseases
 is_a: WikipediaCategory:Falcons
+xref: NCBITaxon:692069 ! Falcon adenovirus A
 
 [Term]
 id: Wikidata:Q5432948
@@ -2595,6 +2696,7 @@ xref: Wikidata:Q2566614
 is_a: WikipediaCategory:Animal_diseases
 is_a: WikipediaCategory:Fasciola
 is_a: WikipediaCategory:Veterinary_helminthology
+xref: NCBITaxon:46835 ! Fasciola gigantica
 
 [Term]
 id: Wikidata:Q334149
@@ -2607,6 +2709,7 @@ is_a: WikipediaCategory:Animal_diseases
 is_a: WikipediaCategory:Animals_described_in_1758
 is_a: WikipediaCategory:Fasciola
 is_a: WikipediaCategory:Veterinary_helminthology
+xref: NCBITaxon:6192 ! Fasciola hepatica
 
 [Term]
 id: Wikidata:Q3376138
@@ -2618,6 +2721,7 @@ xref: Wikidata:Q3376138
 is_a: WikipediaCategory:Diseases_of_the_ruminants
 is_a: WikipediaCategory:Fasciolidae
 is_a: WikipediaCategory:Veterinary_helminthology
+xref: NCBITaxon:394415 ! Fascioloides magna
 
 [Term]
 id: Wikidata:Q719656
@@ -2688,6 +2792,7 @@ xref: Wikidata:Q13499373
 is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Cat_diseases
 is_a: WikipediaCategory:Vesiviruses
+xref: NCBITaxon:11978 ! Feline calicivirus
 
 [Term]
 id: Wikidata:Q454829
@@ -2699,6 +2804,7 @@ xref: Wikidata:Q454829
 is_a: WikipediaCategory:Alphacoronaviruses
 is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Cat_diseases
+xref: NCBITaxon:12663 ! Feline coronavirus
 
 [Term]
 id: Wikidata:Q5441911
@@ -2742,6 +2848,7 @@ xref: Wikidata:Q1129598
 is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Cat_diseases
 is_a: WikipediaCategory:Lentiviruses
+xref: NCBITaxon:11673 ! Feline immunodeficiency virus
 
 [Term]
 id: Wikidata:Q5441910
@@ -2772,6 +2879,7 @@ is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Cat_diseases
 is_a: WikipediaCategory:Gammaretroviruses
 is_a: WikipediaCategory:Viral_diseases
+xref: NCBITaxon:11768 ! Feline leukemia virus
 
 [Term]
 id: Wikidata:Q538309
@@ -2818,6 +2926,7 @@ xref: http://commons.wikimedia.org/wiki/Special\:FilePath/Katzenschnupfen_Herpes
 xref: Wikidata:Q11752015
 is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Cat_diseases
+xref: DOID:0050084 ! rhinotracheitis
 
 [Term]
 id: Wikidata:Q1362453
@@ -2831,6 +2940,7 @@ is_a: WikipediaCategory:Connective_and_soft_tissue_neoplasms
 is_a: WikipediaCategory:Dog_diseases
 is_a: WikipediaCategory:Osseous_and_chondromatous_neoplasia
 is_a: WikipediaCategory:Sarcoma
+xref: DOID:3355 ! fibrosarcoma
 
 [Term]
 id: Wikidata:Q815753
@@ -2845,6 +2955,7 @@ is_a: WikipediaCategory:Insect-borne_diseases
 is_a: WikipediaCategory:Neglected_diseases
 is_a: WikipediaCategory:Tropical_diseases
 is_a: WikipediaCategory:Veterinary_helminthology
+xref: DOID:1080 ! filariasis
 
 [Term]
 id: Wikidata:Q5448436
@@ -2871,6 +2982,7 @@ is_a: WikipediaCategory:Tropical_diseases
 is_a: WikipediaCategory:Viral_diseases
 is_a: WikipediaCategory:Virus-related_cutaneous_conditions
 is_a: WikipediaCategory:Zoonoses
+xref: NCBITaxon:11266 ! Filoviridae
 
 [Term]
 id: Wikidata:Q5449327
@@ -2956,6 +3068,7 @@ def: "Flavobacterium is a genus of Gram-negative, non-motile and motile, rod-sha
 xref: Wikidata:Q140572
 is_a: WikipediaCategory:Bacteroidetes
 is_a: WikipediaCategory:Fish_diseases
+xref: NCBITaxon:237 ! Flavobacterium
 
 [Term]
 id: Wikidata:Q656339
@@ -3045,6 +3158,7 @@ xref: Wikidata:Q131672
 is_a: WikipediaCategory:Animal_diseases
 is_a: WikipediaCategory:Fusarium
 is_a: WikipediaCategory:Plant_pathogens_and_diseases
+xref: NCBITaxon:5506 ! Fusarium
 
 [Term]
 id: Wikidata:Q5516751
@@ -3065,6 +3179,7 @@ is_a: WikipediaCategory:Alphaherpesvirinae
 is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Bird_diseases
 is_a: WikipediaCategory:Poultry_diseases
+xref: NCBITaxon:10386 ! Gallid herpesvirus 1
 
 [Term]
 id: Wikipedia:Gapeworm
@@ -3077,6 +3192,7 @@ is_a: WikipediaCategory:Parasites_of_birds
 is_a: WikipediaCategory:Poultry_diseases
 is_a: WikipediaCategory:Strongylida
 is_a: WikipediaCategory:Veterinary_helminthology
+xref: NCBITaxon:70241 ! Syngamus trachea
 
 [Term]
 id: Wikidata:Q547932
@@ -3109,6 +3225,7 @@ is_a: WikipediaCategory:Biological_weapons
 is_a: WikipediaCategory:Horse_diseases
 is_a: WikipediaCategory:Horse_health
 is_a: WikipediaCategory:Zoonotic_bacterial_diseases
+xref: DOID:13444 ! glanders
 
 [Term]
 id: Wikidata:Q5572603
@@ -3156,6 +3273,7 @@ is_a: WikipediaCategory:Parasitic_nematodes
 is_a: WikipediaCategory:Sheep_and_goat_diseases
 is_a: WikipediaCategory:Strongylida
 is_a: WikipediaCategory:Veterinary_helminthology
+xref: NCBITaxon:6289 ! Haemonchus contortus
 
 [Term]
 id: Wikipedia:Haemoproteus
@@ -3167,6 +3285,7 @@ xref: Wikidata:Q5638270
 is_a: WikipediaCategory:Apicomplexa
 is_a: WikipediaCategory:Poultry_diseases
 is_a: WikipediaCategory:Veterinary_protozoology
+xref: NCBITaxon:77521 ! Haemoproteus
 
 [Term]
 id: Wikipedia:Haemoproteus_columbae
@@ -3178,6 +3297,7 @@ is_a: WikipediaCategory:Apicomplexa
 is_a: WikipediaCategory:Parasites_of_birds
 is_a: WikipediaCategory:Poultry_diseases
 is_a: WikipediaCategory:Veterinary_protozoology
+xref: NCBITaxon:77522 ! Haemoproteus columbae
 
 [Term]
 id: Wikipedia:Haemoproteus_plataleae
@@ -3260,6 +3380,7 @@ is_a: WikipediaCategory:Dog_diseases
 is_a: WikipediaCategory:Rare_cancers
 is_a: WikipediaCategory:Sarcoma
 is_a: WikipediaCategory:Vascular_neoplasia
+xref: DOID:0001816 ! angiosarcoma
 
 [Term]
 id: Wikidata:Q5711152
@@ -3270,6 +3391,7 @@ xref: Wikidata:Q5711152
 is_a: WikipediaCategory:Dinoflagellates
 is_a: WikipediaCategory:Diseases_and_parasites_of_crustaceans
 is_a: WikipediaCategory:Parasitic_protists
+xref: NCBITaxon:412152 ! Hematodinium perezi
 
 [Term]
 id: Wikidata:Q3862741
@@ -3311,6 +3433,7 @@ is_a: WikipediaCategory:Horse_diseases
 is_a: WikipediaCategory:Paramyxoviridae
 is_a: WikipediaCategory:Viral_diseases
 is_a: WikipediaCategory:Zoonoses
+xref: NCBITaxon:260964 ! Henipavirus
 
 [Term]
 id: Wikidata:Q16983022
@@ -3323,6 +3446,7 @@ is_a: WikipediaCategory:Aquaculture
 is_a: WikipediaCategory:Fish_diseases
 is_a: WikipediaCategory:Myxozoa
 is_a: WikipediaCategory:Veterinary_parasitology
+xref: NCBITaxon:35592 ! Henneguya zschokkei
 
 [Term]
 id: Wikidata:Q5731671
@@ -3351,6 +3475,7 @@ xref: Wikidata:Q5759382
 is_a: WikipediaCategory:Alphaviruses
 is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Horse_diseases
+xref: NCBITaxon:11024 ! Highlands J virus
 
 [Term]
 id: Wikidata:Q1434611
@@ -3372,6 +3497,7 @@ synonym: "histiocytoma" RELATED []
 xref: http://commons.wikimedia.org/wiki/Special\:FilePath/Histiocytoma.JPG
 xref: Wikidata:Q5773037
 is_a: WikipediaCategory:Dog_diseases
+xref: DOID:4231 ! histiocytoma
 
 [Term]
 id: Wikipedia:Histomonas_meleagridis
@@ -3383,6 +3509,7 @@ is_a: WikipediaCategory:Metamonads
 is_a: WikipediaCategory:Parasites_of_birds
 is_a: WikipediaCategory:Poultry_diseases
 is_a: WikipediaCategory:Veterinary_protozoology
+xref: NCBITaxon:135588 ! Histomonas meleagridis
 
 [Term]
 id: Wikipedia:Histomoniasis
@@ -3406,6 +3533,7 @@ is_a: WikipediaCategory:Fungal_diseases
 is_a: WikipediaCategory:Mycosis-related_cutaneous_conditions
 is_a: WikipediaCategory:Rare_diseases
 is_a: WikipediaCategory:Wildlife_diseases
+xref: DOID:1731 ! histoplasmosis
 
 [Term]
 id: Wikipedia:Hock_burns
@@ -3432,6 +3560,7 @@ is_a: WikipediaCategory:Parasites_of_cats
 is_a: WikipediaCategory:Parasites_of_dogs
 is_a: WikipediaCategory:Parasitic_nematodes
 is_a: WikipediaCategory:Strongylida
+xref: NCBITaxon:33277 ! Ancylostomatoidea
 
 [Term]
 id: Wikidata:Q5898525
@@ -3496,6 +3625,7 @@ is_a: WikipediaCategory:Channelopathy
 is_a: WikipediaCategory:Horse_diseases
 is_a: WikipediaCategory:Myoneural_junction_and_neuromuscular_diseases
 is_a: WikipediaCategory:Rare_diseases
+xref: DOID:14451 ! hyperkalemic periodic paralysis
 
 [Term]
 id: Wikidata:Q16499
@@ -3509,6 +3639,7 @@ is_a: WikipediaCategory:Dog_diseases
 is_a: WikipediaCategory:Endocrine-related_cutaneous_conditions
 is_a: WikipediaCategory:Thyroid
 is_a: WikipediaCategory:Thyroid_disease
+xref: DOID:7998 ! hyperthyroidism
 
 [Term]
 id: Wikidata:Q1364270
@@ -3522,6 +3653,7 @@ is_a: WikipediaCategory:Cardiogenetic_disorders
 is_a: WikipediaCategory:Cardiomyopathy
 is_a: WikipediaCategory:Cat_diseases
 is_a: WikipediaCategory:Cytoskeletal_defects
+xref: DOID:11984 ! hypertrophic cardiomyopathy
 
 [Term]
 id: Wikidata:Q5958792
@@ -3632,6 +3764,7 @@ xref: Wikidata:Q880931
 is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Fish_diseases
 is_a: WikipediaCategory:Novirhabdoviruses
+xref: NCBITaxon:11290 ! Infectious hematopoietic necrosis virus
 
 [Term]
 id: Wikidata:Q3346930
@@ -3673,6 +3806,7 @@ is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Aquaculture
 is_a: WikipediaCategory:Fish_diseases
 is_a: WikipediaCategory:Orthomyxoviridae
+xref: NCBITaxon:55987 ! Infectious salmon anemia virus
 
 [Term]
 id: Wikidata:Q2840
@@ -3684,6 +3818,7 @@ xref: Wikidata:Q2840
 is_a: WikipediaCategory:Animal_diseases
 is_a: WikipediaCategory:Healthcare-associated_infections
 is_a: WikipediaCategory:Influenza
+xref: DOID:8469 ! influenza
 
 [Term]
 id: Wikidata:Q160122
@@ -3751,6 +3886,7 @@ xref: Wikidata:Q1676739
 is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Betaretroviruses
 is_a: WikipediaCategory:Sheep_and_goat_diseases
+xref: NCBITaxon:11746 ! Jaagsiekte sheep retrovirus
 
 [Term]
 id: Wikipedia:Japanese_encephalitis
@@ -3761,6 +3897,8 @@ xref: Wikidata:Q738292
 is_a: WikipediaCategory:Neglected_diseases
 is_a: WikipediaCategory:Swine_diseases
 is_a: WikipediaCategory:Viral_encephalitis
+xref: NCBITaxon:11072 ! Japanese encephalitis virus
+xref: DOID:10844 ! Japanese encephalitis
 
 [Term]
 id: Wikidata:Q16916157
@@ -3779,6 +3917,7 @@ synonym: "junctional epidermolysis bullosa" RELATED []
 xref: http://commons.wikimedia.org/wiki/Special\:FilePath/Belgians.jpg
 xref: Wikidata:Q6311810
 is_a: WikipediaCategory:Horse_diseases
+xref: DOID:3209 ! junctional epidermolysis bullosa
 
 [Term]
 id: Wikidata:Q6318942
@@ -3813,6 +3952,7 @@ is_a: WikipediaCategory:Dog_diseases
 is_a: WikipediaCategory:Horse_diseases
 is_a: WikipediaCategory:Overuse_injuries
 is_a: WikipediaCategory:Syndromes
+xref: DOID:12895 ! keratoconjunctivitis sicca
 
 [Term]
 id: Wikidata:Q386469
@@ -3823,6 +3963,7 @@ xref: Wikidata:Q386469
 is_a: WikipediaCategory:Alloherpesviridae
 is_a: WikipediaCategory:Fish_diseases
 is_a: WikipediaCategory:Viral_diseases
+xref: NCBITaxon:180230 ! Cyprinid herpesvirus 3
 
 [Term]
 id: Wikidata:Q3151525
@@ -3835,6 +3976,7 @@ is_a: WikipediaCategory:Aquaculture
 is_a: WikipediaCategory:Fish_diseases
 is_a: WikipediaCategory:Myxozoa
 is_a: WikipediaCategory:Veterinary_parasitology
+xref: NCBITaxon:69470 ! Kudoa thyrsites
 
 [Term]
 id: Wikidata:Q6444827
@@ -3847,6 +3989,7 @@ is_a: WikipediaCategory:Flaviviruses
 is_a: WikipediaCategory:Horse_diseases
 is_a: WikipediaCategory:Insect-borne_diseases
 is_a: WikipediaCategory:Viral_diseases
+xref: NCBITaxon:11077 ! Kunjin virus
 
 [Term]
 id: Wikidata:Q16999965
@@ -3864,6 +4007,7 @@ def: "Lagos bat virus is a lyssavirus of southern and central Africa that causes
 xref: Wikidata:Q16984206
 is_a: WikipediaCategory:Bat_diseases
 is_a: WikipediaCategory:Lyssaviruses
+xref: NCBITaxon:38766 ! Lagos bat virus
 
 [Term]
 id: Wikidata:Q1428918
@@ -3915,6 +4059,7 @@ is_a: WikipediaCategory:Tropical_diseases
 is_a: WikipediaCategory:Viral_diseases
 is_a: WikipediaCategory:Virus-related_cutaneous_conditions
 is_a: WikipediaCategory:Zoonoses
+xref: NCBITaxon:11620 ! Lassa virus
 
 [Term]
 id: Wikidata:Q6502522
@@ -3958,6 +4103,7 @@ is_a: WikipediaCategory:Rodent-carried_diseases
 is_a: WikipediaCategory:Spirochaetes
 is_a: WikipediaCategory:Zoonoses
 is_a: WikipediaCategory:Zoonotic_bacterial_diseases
+xref: DOID:2297 ! leptospirosis
 
 [Term]
 id: Wikidata:Q411936
@@ -3979,6 +4125,7 @@ is_a: WikipediaCategory:Apicomplexa
 is_a: WikipediaCategory:Parasites_of_birds
 is_a: WikipediaCategory:Poultry_diseases
 is_a: WikipediaCategory:Veterinary_protozoology
+xref: NCBITaxon:195944 ! Leucocytozoon
 
 [Term]
 id: Wikipedia:Leucocytozoon_andrewsi
@@ -4066,6 +4213,7 @@ xref: Wikidata:Q1441063
 is_a: WikipediaCategory:Picornaviridae
 is_a: WikipediaCategory:Rare_diseases
 is_a: WikipediaCategory:Rodent_diseases
+xref: NCBITaxon:172314 ! Ljungan virus
 
 [Term]
 id: Wikidata:Q6662211
@@ -4100,6 +4248,7 @@ is_a: WikipediaCategory:Tropical_diseases
 is_a: WikipediaCategory:Viral_diseases
 is_a: WikipediaCategory:Virus-related_cutaneous_conditions
 is_a: WikipediaCategory:Zoonoses
+xref: NCBITaxon:1104174 ! Lloviu virus
 
 [Term]
 id: Wikipedia:Louping_ill
@@ -4111,6 +4260,7 @@ xref: Wikidata:Q614279
 is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Sheep_and_goat_diseases
 is_a: WikipediaCategory:Viral_encephalitis
+xref: DOID:10250 ! louping ill
 
 [Term]
 id: Wikidata:Q526340
@@ -4162,6 +4312,7 @@ xref: Wikidata:Q6708248
 is_a: WikipediaCategory:Articles_created_via_the_Article_Wizard
 is_a: WikipediaCategory:Fish_diseases
 is_a: WikipediaCategory:Iridoviridae
+xref: NCBITaxon:10494 ! Lymphocystivirus
 
 [Term]
 id: Wikidata:Q1878776
@@ -4173,6 +4324,7 @@ xref: Wikidata:Q1878776
 is_a: WikipediaCategory:Animal_diseases
 is_a: WikipediaCategory:Meningitis
 is_a: WikipediaCategory:Rodent-carried_diseases
+xref: DOID:12155 ! lymphocytic choriomeningitis
 
 [Term]
 id: Wikidata:Q12178324
@@ -4222,6 +4374,7 @@ xref: Wikidata:Q164952
 is_a: WikipediaCategory:Dog_diseases
 is_a: WikipediaCategory:Histiocytosis
 is_a: WikipediaCategory:Lymphoid-related_cutaneous_conditions
+xref: DOID:8580 ! malignant histiocytosis
 
 [Term]
 id: Wikidata:Q6744123
@@ -4242,6 +4395,7 @@ xref: Wikidata:Q6745789
 is_a: WikipediaCategory:Animal_diseases
 is_a: WikipediaCategory:Cat_diseases
 is_a: WikipediaCategory:Dog_diseases
+xref: DOID:1612 ! breast cancer
 
 [Term]
 id: Wikidata:Q1358140
@@ -4270,6 +4424,7 @@ is_a: WikipediaCategory:Tropical_diseases
 is_a: WikipediaCategory:Viral_diseases
 is_a: WikipediaCategory:Virus-related_cutaneous_conditions
 is_a: WikipediaCategory:Zoonoses
+xref: NCBITaxon:11269 ! Marburg marburgvirus
 
 [Term]
 id: Wikidata:Q167264
@@ -4287,6 +4442,7 @@ is_a: WikipediaCategory:Tropical_diseases
 is_a: WikipediaCategory:Viral_diseases
 is_a: WikipediaCategory:Virus-related_cutaneous_conditions
 is_a: WikipediaCategory:Zoonoses
+xref: DOID:4327 ! Marburg hemorrhagic fever
 
 [Term]
 id: Wikidata:Q15728844
@@ -4304,6 +4460,7 @@ is_a: WikipediaCategory:Tropical_diseases
 is_a: WikipediaCategory:Viral_diseases
 is_a: WikipediaCategory:Virus-related_cutaneous_conditions
 is_a: WikipediaCategory:Zoonoses
+xref: NCBITaxon:186537 ! Marburgvirus
 
 [Term]
 id: Wikidata:Q6758742
@@ -4355,6 +4512,7 @@ is_a: WikipediaCategory:Cat_diseases
 is_a: WikipediaCategory:Dog_diseases
 is_a: WikipediaCategory:Horse_diseases
 is_a: WikipediaCategory:Swine_diseases
+xref: DOID:3664 ! mast cell neoplasm
 
 [Term]
 id: Wikidata:Q1713499
@@ -4365,6 +4523,7 @@ xref: http://commons.wikimedia.org/wiki/Special\:FilePath/Chagas_megaseophagus.J
 xref: Wikidata:Q1713499
 is_a: WikipediaCategory:Dog_diseases
 is_a: WikipediaCategory:Esophagus_disorders
+xref: DOID:13186 ! megaesophagus
 
 [Term]
 id: Wikidata:Q16985267
@@ -4375,6 +4534,7 @@ xref: Wikidata:Q16985267
 is_a: WikipediaCategory:Articles_created_via_the_Article_Wizard
 is_a: WikipediaCategory:Fish_diseases
 is_a: WikipediaCategory:Iridoviridae
+xref: NCBITaxon:308906 ! Megalocytivirus
 
 [Term]
 id: Wikipedia:Melioidosis
@@ -4386,6 +4546,7 @@ xref: Wikidata:Q963944
 is_a: WikipediaCategory:Bacterium-related_cutaneous_conditions
 is_a: WikipediaCategory:Biological_weapons
 is_a: WikipediaCategory:Zoonotic_bacterial_diseases
+xref: DOID:5052 ! melioidosis
 
 [Term]
 id: Wikidata:Q6821398
@@ -4416,6 +4577,7 @@ xref: Wikidata:Q2328976
 is_a: WikipediaCategory:Strongylida
 is_a: WikipediaCategory:Swine_diseases
 is_a: WikipediaCategory:Veterinary_helminthology
+xref: NCBITaxon:55272 ! Metastrongylus
 
 [Term]
 id: Wikidata:Q840910
@@ -4452,6 +4614,7 @@ def: "Mink enteritis virus (MEV) is a species of parvovirus that infects mink an
 xref: Wikidata:Q6867816
 is_a: WikipediaCategory:Animal_diseases
 is_a: WikipediaCategory:Parvovirinae
+xref: NCBITaxon:10792 ! Mink enteritis virus
 
 [Term]
 id: Wikipedia:Mitral_valve_dysplasia
@@ -4473,6 +4636,7 @@ is_a: WikipediaCategory:RNA_viruses
 is_a: WikipediaCategory:Viral_plant_pathogens_and_diseases
 is_a: WikipediaCategory:Virus-related_cutaneous_conditions
 is_a: WikipediaCategory:Zoonoses
+xref: NCBITaxon:11157 ! Mononegavirales
 
 [Term]
 id: Wikidata:Q6908671
@@ -4491,6 +4655,7 @@ xref: Wikidata:Q6909425
 is_a: WikipediaCategory:Bovine_diseases
 is_a: WikipediaCategory:Gram-negative_bacteria
 is_a: WikipediaCategory:Moraxellaceae
+xref: NCBITaxon:476 ! Moraxella bovis
 
 [Term]
 id: Wikipedia:Mouse_hepatitis_virus
@@ -4501,6 +4666,7 @@ xref: Wikidata:Q6926073
 is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Betacoronaviruses
 is_a: WikipediaCategory:Rodent_diseases
+xref: NCBITaxon:11138 ! Murine hepatitis virus
 
 [Term]
 id: Wikipedia:Mouse_mammary_tumor_virus
@@ -4511,6 +4677,7 @@ xref: Wikidata:Q1775519
 is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Betaretroviruses
 is_a: WikipediaCategory:Rodent_diseases
+xref: NCBITaxon:11757 ! Mouse mammary tumor virus
 
 [Term]
 id: Wikidata:Q1753695
@@ -4539,6 +4706,7 @@ xref: Wikidata:Q673848
 is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Gammaretroviruses
 is_a: WikipediaCategory:Rodent_diseases
+xref: NCBITaxon:11786 ! Murine leukemia virus
 
 [Term]
 id: Wikidata:Q6939061
@@ -4561,6 +4729,7 @@ is_a: WikipediaCategory:Acid_fast_bacilli
 is_a: WikipediaCategory:Mycobacteria
 is_a: WikipediaCategory:Tuberculosis
 is_a: WikipediaCategory:Wildlife_diseases
+xref: NCBITaxon:1765 ! Mycobacterium bovis
 
 [Term]
 id: Wikidata:Q6947057
@@ -4573,6 +4742,7 @@ is_a: WikipediaCategory:Cat_diseases
 is_a: WikipediaCategory:Corynebacterineae
 is_a: WikipediaCategory:Leprosy
 is_a: WikipediaCategory:Nontuberculous_mycobacteria
+xref: NCBITaxon:64667 ! Mycobacterium lepraemurium
 
 [Term]
 id: Wikipedia:Mycoplasma_hyopneumoniae
@@ -4582,6 +4752,7 @@ def: "." [Wikipedia:Mycoplasma_hyopneumoniae]
 xref: Wikidata:Q3869024
 is_a: WikipediaCategory:Mollicutes
 is_a: WikipediaCategory:Swine_diseases
+xref: NCBITaxon:2099 ! Mycoplasma hyopneumoniae
 
 [Term]
 id: Wikipedia:Mycoplasma_hyorhinis
@@ -4591,6 +4762,7 @@ def: "Mycoplasma hyorhinis is a member of the Mycoplasmatales family. This bacte
 xref: Wikidata:Q3869017
 is_a: WikipediaCategory:Bacterial_diseases
 is_a: WikipediaCategory:Swine_diseases
+xref: NCBITaxon:2100 ! Mycoplasma hyorhinis
 
 [Term]
 id: Wikidata:Q3869031
@@ -4600,6 +4772,7 @@ def: "Also known as: Mycoplasma air sacculitis − Mycoplasma infectious stuntin
 xref: Wikidata:Q3869031
 is_a: WikipediaCategory:Bird_diseases
 is_a: WikipediaCategory:Mollicutes
+xref: NCBITaxon:29561 ! Mycoplasma meleagridis
 
 [Term]
 id: Wikidata:Q3869067
@@ -4609,6 +4782,7 @@ def: "The bacteria M. synoviae is a member of the mycoplasma genus. It causes di
 xref: Wikidata:Q3869067
 is_a: WikipediaCategory:Bacterial_diseases
 is_a: WikipediaCategory:Bird_diseases
+xref: NCBITaxon:2109 ! Mycoplasma synoviae
 
 [Term]
 id: Wikipedia:Myiasis
@@ -4621,6 +4795,7 @@ is_a: WikipediaCategory:Arthropod_infestations
 is_a: WikipediaCategory:Parasitic_infestations%2C_stings%2C_and_bites_of_the_skin
 is_a: WikipediaCategory:Sheep_and_goat_diseases
 is_a: WikipediaCategory:Veterinary_entomology
+xref: DOID:11080 ! myiasis
 
 [Term]
 id: Wikidata:Q6948009
@@ -4654,6 +4829,7 @@ xref: http://commons.wikimedia.org/wiki/Special\:FilePath/Nsalmincola.gif
 xref: Wikidata:Q10335474
 is_a: WikipediaCategory:Digenea
 is_a: WikipediaCategory:Fish_diseases
+xref: NCBITaxon:240278 ! Nanophyetus salmincola
 
 [Term]
 id: Wikidata:Q3144984
@@ -4689,6 +4865,7 @@ xref: Wikidata:Q1431408
 is_a: WikipediaCategory:Apicomplexa
 is_a: WikipediaCategory:Dog_diseases
 is_a: WikipediaCategory:Parasitic_protists
+xref: NCBITaxon:29176 ! Neospora caninum
 
 [Term]
 id: Wikipedia:Newcastle_disease
@@ -4700,6 +4877,7 @@ is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Biological_weapons
 is_a: WikipediaCategory:Poultry_diseases
 is_a: WikipediaCategory:Virotherapy
+xref: DOID:2929 ! Newcastle disease
 
 [Term]
 id: Wikidata:Q3809122
@@ -4710,6 +4888,7 @@ xref: Wikidata:Q3809122
 is_a: WikipediaCategory:Animals_described_in_1826
 is_a: WikipediaCategory:Diseases_and_parasites_of_crustaceans
 is_a: WikipediaCategory:Siphonostomatoida
+xref: NCBITaxon:499826 ! Nicothoe astaci
 
 [Term]
 id: Wikidata:Q7030539
@@ -4737,6 +4916,7 @@ def: "Novirhabdovirus is one of the genera of Rhabdoviridae, along with Vesiculo
 xref: Wikidata:Q268743
 is_a: WikipediaCategory:Fish_diseases
 is_a: WikipediaCategory:Novirhabdoviruses
+xref: NCBITaxon:186778 ! Novirhabdovirus
 
 [Term]
 id: Wikidata:Q7068198
@@ -4789,6 +4969,7 @@ is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Poxviruses
 is_a: WikipediaCategory:Sheep_and_goat_diseases
 is_a: WikipediaCategory:Virus-related_cutaneous_conditions
+xref: NCBITaxon:69811 ! Leuciscus idus
 
 [Term]
 id: Wikipedia:Ornithobacterium_rhinotracheale
@@ -4798,6 +4979,7 @@ def: "." [Wikipedia:Ornithobacterium_rhinotracheale]
 xref: Wikidata:Q1275398
 is_a: WikipediaCategory:Bacterial_diseases
 is_a: WikipediaCategory:Poultry_diseases
+xref: NCBITaxon:28251 ! Ornithobacterium rhinotracheale
 
 [Term]
 id: Wikidata:Q127556
@@ -4811,6 +4993,7 @@ is_a: WikipediaCategory:Dog_diseases
 is_a: WikipediaCategory:Horse_diseases
 is_a: WikipediaCategory:Inflammations
 is_a: WikipediaCategory:Rare_diseases
+xref: DOID:84 ! osteochondritis dissecans
 
 [Term]
 id: Wikidata:Q549534
@@ -4824,6 +5007,7 @@ is_a: WikipediaCategory:Dog_diseases
 is_a: WikipediaCategory:Osseous_and_chondromatous_neoplasia
 is_a: WikipediaCategory:Pediatrics
 is_a: WikipediaCategory:Sarcoma
+xref: DOID:3347 ! osteosarcoma
 
 [Term]
 id: Wikidata:Q7108868
@@ -4909,6 +5093,7 @@ xref: Wikidata:Q2589418
 is_a: WikipediaCategory:Bacterium-related_cutaneous_conditions
 is_a: WikipediaCategory:Rabbit_diseases
 is_a: WikipediaCategory:Zoonotic_bacterial_diseases
+xref: DOID:11055 ! pasteurellosis
 
 [Term]
 id: Wikipedia:Pathogenic_Escherichia_coli
@@ -4959,6 +5144,7 @@ xref: http://commons.wikimedia.org/wiki/Special\:FilePath/Lifecycle_of_Pfiesteri
 xref: Wikidata:Q15156646
 is_a: WikipediaCategory:Dinoflagellates
 is_a: WikipediaCategory:Fish_diseases
+xref: NCBITaxon:71001 ! Pfiesteria piscicida
 
 [Term]
 id: Wikipedia:Phocine_distemper_virus
@@ -4970,6 +5156,7 @@ xref: Wikidata:Q5040284
 is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Morbilliviruses
 is_a: WikipediaCategory:Swine_diseases
+xref: NCBITaxon:11240 ! Phocine distemper virus
 
 [Term]
 id: Wikidata:Q7187713
@@ -4979,6 +5166,7 @@ def: "Photobacterium damselae subsp. piscicida (previously known as Pasteurella 
 xref: Wikidata:Q7187713
 is_a: WikipediaCategory:Fish_diseases
 is_a: WikipediaCategory:Vibrionales
+xref: NCBITaxon:38294 ! Photobacterium damselae subsp. piscicida
 
 [Term]
 id: Wikipedia:Photosensitivity_in_animals
@@ -5021,6 +5209,7 @@ is_a: WikipediaCategory:Plague_%28disease%29
 is_a: WikipediaCategory:Rodent-carried_diseases
 is_a: WikipediaCategory:Zoonoses
 is_a: WikipediaCategory:Zoonotic_bacterial_diseases
+xref: DOID:3482 ! plague
 
 [Term]
 id: Wikipedia:Plasmodium_durae
@@ -5043,6 +5232,7 @@ is_a: WikipediaCategory:Parasites_of_birds
 is_a: WikipediaCategory:Plasmodium
 is_a: WikipediaCategory:Poultry_diseases
 is_a: WikipediaCategory:Veterinary_protozoology
+xref: NCBITaxon:5849 ! Plasmodium gallinaceum
 
 [Term]
 id: Wikidata:Q7206004
@@ -5053,6 +5243,7 @@ synonym: "pneumonia" RELATED []
 xref: Wikidata:Q7206004
 is_a: WikipediaCategory:Animal_diseases
 is_a: WikipediaCategory:Pneumonia
+xref: DOID:552 ! pneumonia
 
 [Term]
 id: Wikipedia:Pneumonic_plague
@@ -5064,6 +5255,7 @@ xref: Wikidata:Q2986781
 is_a: WikipediaCategory:Insect-borne_diseases
 is_a: WikipediaCategory:Plague_%28disease%29
 is_a: WikipediaCategory:Zoonotic_bacterial_diseases
+xref: DOID:10398 ! pneumonic plague
 
 [Term]
 id: Wikidata:Q7209785
@@ -5127,6 +5319,7 @@ def: "Porcine epidemic diarrhea virus (PED virus or PEDV) is a coronavirus that 
 xref: Wikidata:Q16988430
 is_a: WikipediaCategory:Alphacoronaviruses
 is_a: WikipediaCategory:Swine_diseases
+xref: NCBITaxon:28295 ! Porcine epidemic diarrhea virus
 
 [Term]
 id: Wikipedia:Porcine_epidemic_diarrhoea
@@ -5154,6 +5347,7 @@ def: "Porcine parvovirus (PPV) causes reproductive failure of swine characterize
 xref: Wikidata:Q749058
 is_a: WikipediaCategory:Parvovirinae
 is_a: WikipediaCategory:Swine_diseases
+xref: NCBITaxon:10796 ! Porcine parvovirus
 
 [Term]
 id: Wikipedia:Porcine_reproductive_and_respiratory_syndrome_virus
@@ -5164,6 +5358,7 @@ xref: Wikidata:Q1760147
 is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Arteriviridae
 is_a: WikipediaCategory:Swine_diseases
+xref: NCBITaxon:28344 ! Porcine reproductive and respiratory syndrome virus
 
 [Term]
 id: Wikipedia:Porcine_stress_syndrome
@@ -5242,6 +5437,7 @@ is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Bovine_diseases
 is_a: WikipediaCategory:Poxviruses
 is_a: WikipediaCategory:Virus-related_cutaneous_conditions
+xref: DOID:8729 ! milker's nodule
 
 [Term]
 id: Wikidata:Q316180
@@ -5278,6 +5474,7 @@ is_a: WikipediaCategory:Bird_diseases
 is_a: WikipediaCategory:Poultry_diseases
 is_a: WikipediaCategory:Respiratory_diseases
 is_a: WikipediaCategory:Zoonoses
+xref: DOID:11262 ! ornithosis
 
 [Term]
 id: Wikipedia:Pug_Dog_encephalitis
@@ -5312,6 +5509,7 @@ xref: Wikidata:Q3132458
 is_a: WikipediaCategory:Hantaviruses
 is_a: WikipediaCategory:Rabbit_diseases
 is_a: WikipediaCategory:Rodent-carried_diseases
+xref: NCBITaxon:11604 ! Puumala virus
 
 [Term]
 id: Wikidata:Q1147908
@@ -5347,6 +5545,7 @@ is_a: WikipediaCategory:Biological_weapons
 is_a: WikipediaCategory:Bovine_diseases
 is_a: WikipediaCategory:Rodent-carried_diseases
 is_a: WikipediaCategory:Zoonoses
+xref: DOID:11100 ! Q fever
 
 [Term]
 id: Wikidata:Q7272675
@@ -5408,6 +5607,7 @@ is_a: WikipediaCategory:Viral_encephalitis
 is_a: WikipediaCategory:Viral_infections_of_the_central_nervous_system
 is_a: WikipediaCategory:Virus-related_cutaneous_conditions
 is_a: WikipediaCategory:Zoonoses
+xref: DOID:11260 ! rabies
 
 [Term]
 id: Wikidata:Q7278999
@@ -5435,6 +5635,7 @@ def: "Ranavirus is one of five genera of viruses within the family Iridoviridae,
 xref: Wikidata:Q3418768
 is_a: WikipediaCategory:Fish_diseases
 is_a: WikipediaCategory:Iridoviridae
+xref: NCBITaxon:10492 ! Ranavirus
 
 [Term]
 id: Wikidata:Q7292733
@@ -5489,6 +5690,7 @@ xref: Wikidata:Q16989049
 is_a: WikipediaCategory:Animal_diseases
 is_a: WikipediaCategory:Bacterial_diseases
 is_a: WikipediaCategory:Fish_diseases
+xref: NCBITaxon:1646 ! Renibacterium salmoninarum
 
 [Term]
 id: Wikidata:Q7316190
@@ -5525,6 +5727,7 @@ def: "Rickettsia felis or cat-flea typhus is a species of Rickettsia that causes
 xref: Wikidata:Q7331931
 is_a: WikipediaCategory:Cat_diseases
 is_a: WikipediaCategory:Rickettsiales
+xref: NCBITaxon:42862 ! Rickettsia felis
 
 [Term]
 id: Wikipedia:Rickettsia_peacockii
@@ -5534,6 +5737,7 @@ def: "Rickettsia peacockii is a species of gram negative Alphaproteobacteria of 
 xref: Wikidata:Q16989267
 is_a: WikipediaCategory:Rickettsiales
 is_a: WikipediaCategory:Zoonoses
+xref: NCBITaxon:47589 ! Rickettsia peacockii
 
 [Term]
 id: Wikipedia:Rickettsia_prowazekii
@@ -5544,6 +5748,7 @@ xref: Wikidata:Q952862
 is_a: WikipediaCategory:Rickettsiales
 is_a: WikipediaCategory:Typhus
 is_a: WikipediaCategory:Zoonoses
+xref: NCBITaxon:782 ! Rickettsia prowazekii
 
 [Term]
 id: Wikipedia:Rickettsia_rickettsii
@@ -5555,6 +5760,7 @@ xref: Wikidata:Q2698925
 is_a: WikipediaCategory:Gram-negative_bacteria
 is_a: WikipediaCategory:Rickettsiales
 is_a: WikipediaCategory:Zoonoses
+xref: NCBITaxon:783 ! Rickettsia rickettsii
 
 [Term]
 id: Wikipedia:Riemerella_anatipestifer
@@ -5564,6 +5770,7 @@ def: "Riemerella anatipestifer is a member of the Flavobacteriaceae family. It i
 xref: Wikidata:Q2152245
 is_a: WikipediaCategory:Bacterial_diseases
 is_a: WikipediaCategory:Poultry_diseases
+xref: NCBITaxon:34085 ! Riemerella anatipestifer
 
 [Term]
 id: Wikipedia:Rift_Valley_fever
@@ -5578,6 +5785,7 @@ is_a: WikipediaCategory:Insect-borne_diseases
 is_a: WikipediaCategory:Sheep_and_goat_diseases
 is_a: WikipediaCategory:Virus-related_cutaneous_conditions
 is_a: WikipediaCategory:Zoonoses
+xref: DOID:1328 ! Rift Valley fever
 
 [Term]
 id: Wikidata:Q157008
@@ -5600,6 +5808,7 @@ synonym: "ringtail" RELATED []
 xref: Wikidata:Q3874175
 is_a: WikipediaCategory:Rodent_diseases
 is_a: WikipediaCategory:Rodents
+xref: NCBITaxon:55047 ! Bassariscus astutus
 
 [Term]
 id: Wikipedia:Rio_Mamore_virus
@@ -5609,6 +5818,7 @@ def: "Rio Mamore virus (RIOMV) is a novel, single-stranded, enveloped, negative-
 xref: Wikidata:Q16989289
 is_a: WikipediaCategory:Hantaviruses
 is_a: WikipediaCategory:Zoonoses
+xref: NCBITaxon:46920 ! Rio Mamore virus
 
 [Term]
 id: Wikipedia:Rio_Segundo_virus
@@ -5619,6 +5829,7 @@ xref: Wikidata:Q16989298
 is_a: WikipediaCategory:Hantaviruses
 is_a: WikipediaCategory:Rodent-carried_diseases
 is_a: WikipediaCategory:Zoonoses
+xref: NCBITaxon:37207 ! Rio Segundo virus
 
 [Term]
 id: Wikipedia:Rockport_virus
@@ -5628,6 +5839,7 @@ def: "Rockport virus (RKPV) is a single-stranded, enveloped, negative-sense RNA 
 xref: Wikidata:Q16992297
 is_a: WikipediaCategory:Hantaviruses
 is_a: WikipediaCategory:Zoonoses
+xref: NCBITaxon:1001080 ! Rockport virus
 
 [Term]
 id: Wikipedia:Rocky_Mountain_spotted_fever
@@ -5641,6 +5853,7 @@ is_a: WikipediaCategory:Rickettsioses
 is_a: WikipediaCategory:Rocky_Mountains
 is_a: WikipediaCategory:Tick-borne_diseases
 is_a: WikipediaCategory:Zoonoses
+xref: DOID:0050052 ! Rocky Mountain spotted fever
 
 [Term]
 id: Wikipedia:Runting-stunting_syndrome_in_broilers
@@ -5698,6 +5911,7 @@ xref: Wikidata:Q150610
 is_a: WikipediaCategory:Barnacles
 is_a: WikipediaCategory:Diseases_and_parasites_of_crustaceans
 is_a: WikipediaCategory:Parasitic_crustaceans
+xref: NCBITaxon:51649 ! Sacculina
 
 [Term]
 id: Wikidata:Q1812814
@@ -5710,6 +5924,7 @@ is_a: WikipediaCategory:Animals_described_in_1837
 is_a: WikipediaCategory:Fish_diseases
 is_a: WikipediaCategory:Parasitic_crustaceans
 is_a: WikipediaCategory:Siphonostomatoida
+xref: NCBITaxon:72036 ! Lepeophtheirus salmonis
 
 [Term]
 id: Wikidata:Q7405555
@@ -5750,6 +5965,7 @@ def: "Saprolegnia is a genus of freshwater mould often called a \"cotton mould\"
 xref: Wikidata:Q134922
 is_a: WikipediaCategory:Fish_diseases
 is_a: WikipediaCategory:Water_moulds
+xref: NCBITaxon:4769 ! Saprolegnia
 
 [Term]
 id: Wikipedia:Savaging
@@ -5792,6 +6008,7 @@ def: "Schistocephalus is a genus of tapeworm of fish, fish-eating birds and rode
 xref: Wikidata:Q16999107
 is_a: WikipediaCategory:Cestoda
 is_a: WikipediaCategory:Fish_diseases
+xref: NCBITaxon:70666 ! Schistocephalus
 
 [Term]
 id: Wikidata:Q7431532
@@ -5801,6 +6018,7 @@ def: "Schistosoma nasale is a species of digenetic trematode in the family Schis
 xref: Wikidata:Q7431532
 is_a: WikipediaCategory:Animal_diseases
 is_a: WikipediaCategory:Digenea
+xref: NCBITaxon:216971 ! Schistosoma nasale
 
 [Term]
 id: Wikidata:Q7431533
@@ -5811,6 +6029,7 @@ xref: http://commons.wikimedia.org/wiki/Special\:FilePath/Schistosoma.svg
 xref: Wikidata:Q7431533
 is_a: WikipediaCategory:Digenea
 is_a: WikipediaCategory:Diseases_of_the_ruminants
+xref: NCBITaxon:6189 ! Schistosoma spindale
 
 [Term]
 id: Wikipedia:Schistosomiasis
@@ -5825,6 +6044,7 @@ is_a: WikipediaCategory:Neglected_diseases
 is_a: WikipediaCategory:Tropical_diseases
 is_a: WikipediaCategory:Waterborne_diseases
 is_a: WikipediaCategory:Zoonoses
+xref: DOID:1395 ! schistosomiasis
 
 [Term]
 id: Wikidata:Q267036
@@ -5837,6 +6057,7 @@ is_a: WikipediaCategory:Articles_with_images_not_understandable_by_color_blind_u
 is_a: WikipediaCategory:Bovine_diseases
 is_a: WikipediaCategory:Orthobunyaviruses
 is_a: WikipediaCategory:Sheep_and_goat_diseases
+xref: NCBITaxon:1133363 ! Schmallenberg virus
 
 [Term]
 id: Wikidata:Q7438222
@@ -5856,6 +6077,7 @@ xref: Wikidata:Q170102
 is_a: WikipediaCategory:Foodborne_illnesses
 is_a: WikipediaCategory:Sheep_and_goat_diseases
 is_a: WikipediaCategory:Transmissible_spongiform_encephalopathies
+xref: DOID:5434 ! scrapie
 
 [Term]
 id: Wikipedia:Scrub_typhus
@@ -5868,6 +6090,7 @@ is_a: WikipediaCategory:Bacterium-related_cutaneous_conditions
 is_a: WikipediaCategory:Rickettsioses
 is_a: WikipediaCategory:Typhus
 is_a: WikipediaCategory:Zoonoses
+xref: DOID:13371 ! scrub typhus
 
 [Term]
 id: Wikidata:Q163865
@@ -5880,6 +6103,7 @@ is_a: WikipediaCategory:Animal_diseases
 is_a: WikipediaCategory:Nutritional_anemias
 is_a: WikipediaCategory:Vitamin_C
 is_a: WikipediaCategory:Vitamin_deficiencies
+xref: DOID:13724 ! scurvy
 
 [Term]
 id: Wikidata:Q1344999
@@ -5903,6 +6127,7 @@ is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Paramyxoviridae
 is_a: WikipediaCategory:Rodent_diseases
 is_a: WikipediaCategory:Viral_respiratory_tract_infection
+xref: NCBITaxon:11191 ! Sendai virus
 
 [Term]
 id: Wikipedia:Septicemic_plague
@@ -5914,6 +6139,7 @@ xref: Wikidata:Q3100117
 is_a: WikipediaCategory:Insect-borne_diseases
 is_a: WikipediaCategory:Plague_%28disease%29
 is_a: WikipediaCategory:Zoonotic_bacterial_diseases
+xref: DOID:3481 ! septicemic plague
 
 [Term]
 id: Wikipedia:Serang_virus
@@ -5926,6 +6152,7 @@ is_a: WikipediaCategory:Hemorrhagic_fevers
 is_a: WikipediaCategory:Rodent-carried_diseases
 is_a: WikipediaCategory:Viral_diseases
 is_a: WikipediaCategory:Zoonoses
+xref: NCBITaxon:528322 ! Serang virus
 
 [Term]
 id: Wikidata:Q103177
@@ -5943,6 +6170,7 @@ is_a: WikipediaCategory:Pneumonia
 is_a: WikipediaCategory:Severe_acute_respiratory_syndrome
 is_a: WikipediaCategory:Syndromes
 is_a: WikipediaCategory:Zoonoses
+xref: DOID:2945 ! severe acute respiratory syndrome
 
 [Term]
 id: Wikidata:Q7457844
@@ -5955,6 +6183,7 @@ is_a: WikipediaCategory:Animal_diseases
 is_a: WikipediaCategory:Combined_T_and_B%25E2%2580%2593cell_immunode%25EF%25AC%2581ciencies
 is_a: WikipediaCategory:Genetic_disorders_by_system
 is_a: WikipediaCategory:Model_organisms
+xref: DOID:627 ! severe combined immunodeficiency
 
 [Term]
 id: Wikipedia:Severe_fever_with_thrombocytopenia_syndrome
@@ -5985,6 +6214,7 @@ xref: http://commons.wikimedia.org/wiki/Special\:FilePath/Volantès_pokes_après
 xref: Wikidata:Q7480670
 is_a: WikipediaCategory:Sheep_and_goat_diseases
 is_a: WikipediaCategory:Virus-related_cutaneous_conditions
+xref: DOID:8771 ! contagious pustular dermatitis
 
 [Term]
 id: Wikidata:Q7497004
@@ -5994,6 +6224,7 @@ def: "Shimoni bat virus is a lyssavirus which was discovered in Kenya in 2009.It
 xref: Wikidata:Q7497004
 is_a: WikipediaCategory:Bat_diseases
 is_a: WikipediaCategory:Lyssaviruses
+xref: NCBITaxon:746543 ! Shimoni bat virus
 
 [Term]
 id: Wikipedia:Shope_papilloma_virus
@@ -6019,6 +6250,7 @@ is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Articles_with_inconsistent_citation_formats
 is_a: WikipediaCategory:Lentiviruses
 is_a: WikipediaCategory:Primate_diseases
+xref: NCBITaxon:11723 ! Simian immunodeficiency virus
 
 [Term]
 id: Wikidata:Q7534367
@@ -6059,6 +6291,7 @@ def: "Snakehead rhabdovirus (SHRV) is a Novirhabdovirus that affects various spe
 xref: Wikidata:Q7547179
 is_a: WikipediaCategory:Fish_diseases
 is_a: WikipediaCategory:Novirhabdoviruses
+xref: NCBITaxon:103603 ! Snakehead virus
 
 [Term]
 id: Wikipedia:Sodoku
@@ -6085,6 +6318,7 @@ def: "Sphaerothecum destruens (the rosette agent) is a parasite of fish. It was 
 xref: Wikidata:Q7576578
 is_a: WikipediaCategory:Fish_diseases
 is_a: WikipediaCategory:Mesomycetozoea
+xref: NCBITaxon:42893 ! Sphaerothecum destruens
 
 [Term]
 id: Wikipedia:Spider_lamb_syndrome
@@ -6113,6 +6347,7 @@ xref: Wikidata:Q141837
 is_a: WikipediaCategory:Cestoda
 is_a: WikipediaCategory:Parasitic_animals
 is_a: WikipediaCategory:Zoonoses
+xref: NCBITaxon:99802 ! Spirometra erinaceieuropaei
 
 [Term]
 id: Wikidata:Q7578190
@@ -6121,6 +6356,7 @@ namespace: dbpedia
 def: "Spironucleus salmonicida is a species of fish parasite. The species creates foul-smelling, pus-filled abscesses in muscles and internal organs of aquarium fish. In the late 1980s when the disease was first reported, it was believed to be caused by Spironucleus barkhanus. Anders Jørgensen was the person that found out what species really caused the disease." [Wikipedia:Spironucleus_salmonicida]
 xref: Wikidata:Q7578190
 is_a: WikipediaCategory:Fish_diseases
+xref: NCBITaxon:348837 ! Spironucleus salmonicida
 
 [Term]
 id: Wikidata:Q1472164
@@ -6202,6 +6438,7 @@ is_a: WikipediaCategory:Fish_diseases
 is_a: WikipediaCategory:Gram-positive_bacteria
 is_a: WikipediaCategory:Streptococcaceae
 is_a: WikipediaCategory:Zoonoses
+xref: NCBITaxon:1346 ! Streptococcus iniae
 
 [Term]
 id: Wikidata:Q16934813
@@ -6220,6 +6457,7 @@ def: "Canine subvalvular aortic stenosis (SAS) is an abnormal, congenital heart 
 synonym: "subvalvular aortic stenosis" RELATED []
 xref: Wikidata:Q7632441
 is_a: WikipediaCategory:Animal_diseases
+xref: DOID:5805 ! subvalvular aortic stenosis
 
 [Term]
 id: Wikidata:Q7633348
@@ -6237,6 +6475,7 @@ is_a: WikipediaCategory:Tropical_diseases
 is_a: WikipediaCategory:Viral_diseases
 is_a: WikipediaCategory:Virus-related_cutaneous_conditions
 is_a: WikipediaCategory:Zoonoses
+xref: NCBITaxon:186540 ! Sudan ebolavirus
 
 [Term]
 id: Wikidata:Q7633352
@@ -6362,6 +6601,7 @@ def: "Symbion is the name of a genus of aquatic animals, less than ½ mm wide, f
 xref: Wikidata:Q502012
 is_a: WikipediaCategory:Diseases_and_parasites_of_crustaceans
 is_a: WikipediaCategory:Protostomes
+xref: NCBITaxon:69816 ! Symbion
 
 [Term]
 id: Wikidata:Q9081129
@@ -6423,6 +6663,7 @@ def: "Tenacibaculum soleae is a bacteria. It is a fish pathogen for some species
 xref: Wikidata:Q16992998
 is_a: WikipediaCategory:Bacteroidetes
 is_a: WikipediaCategory:Fish_diseases
+xref: NCBITaxon:447689 ! Tenacibaculum soleae
 
 [Term]
 id: Wikidata:Q7706223
@@ -6434,6 +6675,7 @@ is_a: WikipediaCategory:Fish_diseases
 is_a: WikipediaCategory:Kidney_diseases
 is_a: WikipediaCategory:Myxozoa
 is_a: WikipediaCategory:Veterinary_parasitology
+xref: NCBITaxon:271932 ! Tetracapsuloides bryosalmonae
 
 [Term]
 id: Wikipedia:Thailand_virus
@@ -6443,6 +6685,7 @@ def: "Thailand virus (THAIV) is a single-stranded, enveloped, negative-sense RNA
 xref: Wikidata:Q16993032
 is_a: WikipediaCategory:Hantaviruses
 is_a: WikipediaCategory:Zoonoses
+xref: NCBITaxon:28291 ! Thailand virus
 
 [Term]
 id: Wikidata:Q2090711
@@ -6457,6 +6700,7 @@ is_a: WikipediaCategory:Dog_diseases
 is_a: WikipediaCategory:Helminthiases
 is_a: WikipediaCategory:Spirurida
 is_a: WikipediaCategory:Veterinary_helminthology
+xref: DOID:0050261 ! thelaziasis
 
 [Term]
 id: Wikidata:Q6549399
@@ -6467,6 +6711,7 @@ synonym: "thompsonia" RELATED []
 xref: Wikidata:Q6549399
 is_a: WikipediaCategory:Barnacles
 is_a: WikipediaCategory:Diseases_and_parasites_of_crustaceans
+xref: NCBITaxon:399095 ! Thompsonia
 
 [Term]
 id: Wikipedia:Tibial_dyschondroplasia
@@ -6484,6 +6729,7 @@ def: "Torovirinae is one of two subfamilies of enveloped, positive-stranded RNA 
 xref: Wikidata:Q16928092
 is_a: WikipediaCategory:Torovirinae
 is_a: WikipediaCategory:Zoonoses
+xref: NCBITaxon:694017 ! Torovirinae
 
 [Term]
 id: Wikipedia:Torticollis
@@ -6507,6 +6753,7 @@ xref: Wikidata:Q145041
 is_a: WikipediaCategory:Animal_diseases
 is_a: WikipediaCategory:Ascaridida
 is_a: WikipediaCategory:Veterinary_helminthology
+xref: NCBITaxon:59264 ! Toxascaris leonina
 
 [Term]
 id: Wikidata:Q1345113
@@ -6519,6 +6766,7 @@ is_a: WikipediaCategory:Cat_diseases
 is_a: WikipediaCategory:Dog_diseases
 is_a: WikipediaCategory:Helminthiases
 is_a: WikipediaCategory:Zoonoses
+xref: DOID:9790 ! toxocariasis
 
 [Term]
 id: Wikidata:Q131003
@@ -6534,6 +6782,7 @@ is_a: WikipediaCategory:Parasites_of_rodents
 is_a: WikipediaCategory:Protists_described_in_1908
 is_a: WikipediaCategory:Rodent-carried_diseases
 is_a: WikipediaCategory:Suicide-inducing_parasitism
+xref: NCBITaxon:5811 ! Toxoplasma gondii
 
 [Term]
 id: Wikidata:Q154878
@@ -6550,6 +6799,7 @@ is_a: WikipediaCategory:Parasitic_infestations%2C_stings%2C_and_bites_of_the_ski
 is_a: WikipediaCategory:Poultry_diseases
 is_a: WikipediaCategory:Protozoal_diseases
 is_a: WikipediaCategory:Zoonoses
+xref: DOID:9965 ! toxoplasmosis
 
 [Term]
 id: Wikidata:Q2447482
@@ -6590,6 +6840,7 @@ is_a: WikipediaCategory:Animals_described_in_1998
 is_a: WikipediaCategory:Digenea
 is_a: WikipediaCategory:Parasites_of_birds
 is_a: WikipediaCategory:Poultry_diseases
+xref: NCBITaxon:157069 ! Trichobilharzia regenti
 
 [Term]
 id: Wikipedia:Tricuspid_valve_dysplasia
@@ -6617,6 +6868,7 @@ xref: Wikidata:Q541987
 is_a: WikipediaCategory:Euglenozoa
 is_a: WikipediaCategory:Fish_diseases
 is_a: WikipediaCategory:Protist_genera
+xref: NCBITaxon:5690 ! Trypanosoma
 
 [Term]
 id: Wikipedia:Tularemia
@@ -6633,6 +6885,7 @@ is_a: WikipediaCategory:Rabbit_diseases
 is_a: WikipediaCategory:Tick-borne_diseases
 is_a: WikipediaCategory:Zoonoses
 is_a: WikipediaCategory:Zoonotic_bacterial_diseases
+xref: DOID:2123 ! tularemia
 
 [Term]
 id: Wikidata:Q7855142
@@ -6644,6 +6897,7 @@ is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Bird_diseases
 is_a: WikipediaCategory:Gammacoronaviruses
 is_a: WikipediaCategory:Viral_diseases
+xref: NCBITaxon:11152 ! Turkey coronavirus
 
 [Term]
 id: Wikidata:Q7855173
@@ -6737,6 +6991,7 @@ is_a: WikipediaCategory:Biological_weapons
 is_a: WikipediaCategory:Health_in_Venezuela
 is_a: WikipediaCategory:Horse_diseases
 is_a: WikipediaCategory:Viral_encephalitis
+xref: NCBITaxon:11036 ! Venezuelan equine encephalitis virus
 
 [Term]
 id: Wikidata:Q7921645
@@ -6769,6 +7024,7 @@ def: "Vibrio anguillarum is a Gram negative, curved rod bacterium with one polar
 xref: Wikidata:Q7924678
 is_a: WikipediaCategory:Fish_diseases
 is_a: WikipediaCategory:Ichthyology
+xref: NCBITaxon:55601 ! Vibrio anguillarum
 
 [Term]
 id: Wikipedia:Vietnamese_tuberculosis
@@ -6820,6 +7076,7 @@ xref: Wikidata:Q1883623
 is_a: WikipediaCategory:Animal_virology
 is_a: WikipediaCategory:Lentiviruses
 is_a: WikipediaCategory:Sheep_and_goat_diseases
+xref: NCBITaxon:11741 ! Visna/maedi virus
 
 [Term]
 id: Wikipedia:Vogt%25E2%2580%2593Koyanagi%25E2%2580%2593Harada_syndrome
@@ -6862,6 +7119,7 @@ is_a: WikipediaCategory:Horse_diseases
 is_a: WikipediaCategory:Insect-borne_diseases
 is_a: WikipediaCategory:Tropical_diseases
 is_a: WikipediaCategory:Zoonoses
+xref: NCBITaxon:11082 ! West Nile virus
 
 [Term]
 id: Wikidata:Q324467
@@ -6876,6 +7134,7 @@ is_a: WikipediaCategory:Biological_weapons
 is_a: WikipediaCategory:Horse_diseases
 is_a: WikipediaCategory:Insect-borne_diseases
 is_a: WikipediaCategory:Viral_encephalitis
+xref: NCBITaxon:11039 ! Western equine encephalomyelitis virus
 
 [Term]
 id: Wikipedia:Wet-tail
@@ -6895,6 +7154,7 @@ def: "White Bream virus is a species in the genus Bafinivirus in the subfamily T
 xref: Wikidata:Q16978701
 is_a: WikipediaCategory:Torovirinae
 is_a: WikipediaCategory:Zoonoses
+xref: NCBITaxon:405554 ! White bream virus
 
 [Term]
 id: Wikidata:Q16258789

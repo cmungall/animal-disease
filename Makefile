@@ -82,12 +82,28 @@ wikidata-xrefs.obo: zoodi-wp.obo
 zoodi-pre.obo: zoodi-wp.obo 
 	obo-map-ids.pl --use-xref wikidata-xrefs.obo $< > $@.tmp && grep -v ^owl-axioms $@.tmp > $@
 
-zoodi.obo: zoodi-pre.obo exclude.obo
+zoodi-1.obo: zoodi-pre.obo exclude.obo
 	obo-subtract.pl $^ > $@.tmp && mv $@.tmp $@
+
+zoodi.obo: zoodi-1.obo xrefs-zoodi-to-doid.obo xrefs-zoodi-to-ncbitaxon.obo
+	obo-merge-tags.pl -t xref $^ > $@.tmp && mv $@.tmp $@
 
 zoodi.ttl: zoodi.obo
 	owltools $< -o -f ttl $@
 
 zoodi.owl: zoodi.ttl
 	owltools $< -o $@
+
+## ALIGN
+
+align-zoodi-to-ncbitaxon.tsv: zoodi.obo
+	blip-findall -i disjoints.obo -i ignore.pro -u metadata_nlp -i $< -r taxonomy -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
+
+align-zoodi-to-doid.tsv: zoodi.obo
+	blip-findall -i disjoints.obo -i ignore.pro -u metadata_nlp -i $< -r disease -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
+
+xrefs-%.obo: align-%.tsv
+	cut -f1-4 $< | sort -u | grep ^Wik | tbl2obolinks.pl --rel xref > $@.tmp && mv $@.tmp $@
+
+
 

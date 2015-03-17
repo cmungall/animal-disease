@@ -1,0 +1,300 @@
+[Term]
+id: Wikidata:Q1345113 ! toxocariasis
+xref: DOID:9790 ! toxocariasis
+
+[Term]
+id: Wikidata:Q662298 ! ectropion
+xref: DOID:1570 ! ectropion
+
+[Term]
+id: Wikidata:Q6311810 ! junctional epidermolysis bullosa (veterinary medicine)
+xref: DOID:3209 ! junctional epidermolysis bullosa
+
+[Term]
+id: Wikidata:Q7206004 ! pneumonia (non-human)
+xref: DOID:552 ! pneumonia
+
+[Term]
+id: Wikidata:Q5773037 ! histiocytoma (dog)
+xref: DOID:4231 ! histiocytoma
+
+[Term]
+id: Wikidata:Q221547 ! coenurosis
+xref: DOID:0050251 ! coenurosis
+
+[Term]
+id: Wikidata:Q1162694 ! keratoconjunctivitis sicca
+xref: DOID:12895 ! keratoconjunctivitis sicca
+
+[Term]
+id: Wikipedia:Sheeppox ! sheeppox
+xref: DOID:8771 ! contagious pustular dermatitis
+
+[Term]
+id: Wikipedia:Schistosomiasis ! schistosomiasis
+xref: DOID:1395 ! schistosomiasis
+
+[Term]
+id: Wikipedia:Histoplasmosis ! histoplasmosis
+xref: DOID:1731 ! histoplasmosis
+
+[Term]
+id: Wikidata:Q11752015 ! feline viral rhinotracheitis
+xref: DOID:0050084 ! rhinotracheitis
+
+[Term]
+id: Wikidata:Q327005 ! glanders
+xref: DOID:13444 ! glanders
+
+[Term]
+id: Wikidata:Q154878 ! toxoplasmosis
+xref: DOID:9965 ! toxoplasmosis
+
+[Term]
+id: Wikidata:Q3270174 ! balanoposthitis
+xref: DOID:13031 ! balanoposthitis
+
+[Term]
+id: Wikipedia:Scrub_typhus ! scrub typhus
+xref: DOID:13371 ! scrub typhus
+
+[Term]
+id: Wikidata:Q16499 ! hyperthyroidism
+xref: DOID:7998 ! hyperthyroidism
+
+[Term]
+id: Wikidata:Q7254707 ! pseudocowpox
+xref: DOID:8729 ! milker's nodule
+
+[Term]
+id: Wikipedia:Coccidiosis ! coccidiosis
+xref: DOID:2113 ! coccidiosis
+
+[Term]
+id: Wikidata:Q2090711 ! thelaziasis
+xref: DOID:0050261 ! thelaziasis
+
+[Term]
+id: Wikipedia:Louping_ill ! louping ill
+xref: DOID:10250 ! louping ill
+
+[Term]
+id: Wikidata:Q164818 ! q fever
+xref: DOID:11100 ! Q fever
+
+[Term]
+id: Wikidata:Q3269843 ! hyperkalemic periodic paralysis
+xref: DOID:14451 ! hyperkalemic periodic paralysis
+
+[Term]
+id: Wikipedia:Erysipeloid ! erysipeloid
+xref: DOID:0050061 ! erysipeloid
+
+[Term]
+id: Wikidata:Q1713499 ! megaesophagus
+xref: DOID:13186 ! megaesophagus
+
+[Term]
+id: Wikipedia:Pasteurellosis ! pasteurellosis
+xref: DOID:11055 ! pasteurellosis
+
+[Term]
+id: Wikipedia:Ebola_virus ! ebola virus
+xref: Wikidata:Q5331908 ! ebolavirus
+
+[Term]
+id: Wikipedia:Pneumonic_plague ! pneumonic plague
+xref: DOID:10398 ! pneumonic plague
+
+[Term]
+id: Wikipedia:Japanese_encephalitis ! japanese encephalitis
+xref: DOID:10844 ! Japanese encephalitis
+
+[Term]
+id: Wikipedia:Tularemia ! tularemia
+xref: DOID:2123 ! tularemia
+
+[Term]
+id: Wikidata:Q5331908 ! ebolavirus
+xref: Wikipedia:Ebola_virus ! ebola virus
+
+[Term]
+id: Wikidata:Q155098 ! leptospirosis
+xref: DOID:2297 ! leptospirosis
+
+[Term]
+id: Wikidata:Q39222 ! rabies
+xref: DOID:11260 ! rabies
+
+[Term]
+id: Wikidata:Q549534 ! osteosarcoma
+xref: DOID:3347 ! osteosarcoma
+
+[Term]
+id: Wikidata:Q777087 ! echinococcosis
+xref: DOID:1496 ! echinococcosis
+
+[Term]
+id: Wikipedia:Rocky_Mountain_spotted_fever ! rocky mountain spotted fever
+xref: DOID:0050052 ! Rocky Mountain spotted fever
+
+[Term]
+id: Wikidata:Q2840 ! influenza
+xref: DOID:8469 ! influenza
+
+[Term]
+id: Wikidata:Q6745789 ! mammary tumor
+xref: DOID:1612 ! breast cancer
+
+[Term]
+id: Wikidata:Q167264 ! marburg virus disease
+xref: DOID:4327 ! Marburg hemorrhagic fever
+
+[Term]
+id: Wikipedia:Melioidosis ! melioidosis
+xref: DOID:5052 ! melioidosis
+
+[Term]
+id: Wikidata:Q1364270 ! hypertrophic cardiomyopathy
+xref: DOID:11984 ! hypertrophic cardiomyopathy
+
+[Term]
+id: Wikidata:Q6785569 ! mastocytoma
+xref: DOID:3664 ! mast cell neoplasm
+
+[Term]
+id: Wikipedia:Botulism ! botulism
+xref: DOID:11976 ! botulism
+
+[Term]
+id: Wikidata:Q815753 ! filariasis
+xref: DOID:1080 ! filariasis
+
+[Term]
+id: Wikipedia:Campylobacteriosis ! campylobacteriosis
+xref: DOID:13622 ! campylobacteriosis
+
+[Term]
+id: Wikidata:Q103177 ! severe acute respiratory syndrome
+xref: DOID:2945 ! severe acute respiratory syndrome
+
+[Term]
+id: Wikidata:Q156050 ! brucellosis
+xref: DOID:11077 ! brucellosis
+
+[Term]
+id: Wikidata:Q7632441 ! subvalvular aortic stenosis (non-human)
+xref: DOID:5805 ! subvalvular aortic stenosis
+
+[Term]
+id: Wikidata:Q1033316 ! ehrlichiosis (canine)
+xref: DOID:10242 ! ehrlichiosis
+
+[Term]
+id: Wikidata:Q1327273 ! entropion
+xref: DOID:12397 ! entropion
+
+[Term]
+id: Wikidata:Q127556 ! osteochondritis dissecans
+xref: DOID:84 ! osteochondritis dissecans
+
+[Term]
+id: Wikidata:Q5259411 ! dental caries (non-human)
+xref: DOID:216 ! dental caries
+
+[Term]
+id: Wikidata:Q1878776 ! lymphocytic choriomeningitis
+xref: DOID:12155 ! lymphocytic choriomeningitis
+
+[Term]
+id: Wikidata:Q539728 ! hemangiosarcoma
+xref: DOID:0001816 ! angiosarcoma
+
+[Term]
+id: Wikipedia:Plague_%28disease%29 ! plague (disease)
+xref: DOID:3482 ! plague
+
+[Term]
+id: Wikidata:Q43987 ! avian influenza
+xref: DOID:4492 ! avian influenza
+
+[Term]
+id: Wikidata:Q684383 ! exophthalmos
+xref: DOID:9370 ! exophthalmos
+
+[Term]
+id: Wikidata:Q1087811 ! chronic wasting disease
+xref: DOID:3530 ! chronic wasting disease
+
+[Term]
+id: Wikipedia:Actinobacillosis ! actinobacillosis
+xref: DOID:4974 ! actinobacillosis
+
+[Term]
+id: Wikidata:Q7457844 ! severe combined immunodeficiency (non-human)
+xref: DOID:627 ! severe combined immunodeficiency
+
+[Term]
+id: Wikipedia:Scrapie ! scrapie
+xref: DOID:5434 ! scrapie
+
+[Term]
+id: Wikipedia:Cat_scratch_disease ! cat scratch disease
+xref: DOID:11258 ! cat-scratch disease
+
+[Term]
+id: Wikidata:Q164727 ! psittacosis
+xref: DOID:11262 ! ornithosis
+
+[Term]
+id: Wikipedia:Rift_Valley_fever ! rift valley fever
+xref: DOID:1328 ! Rift Valley fever
+
+[Term]
+id: Wikipedia:Bubonic_plague ! bubonic plague
+xref: DOID:10773 ! bubonic plague
+
+[Term]
+id: Wikipedia:Newcastle_disease ! newcastle disease
+xref: DOID:2929 ! Newcastle disease
+
+[Term]
+id: Wikidata:Q164952 ! malignant histiocytosis
+xref: DOID:8580 ! malignant histiocytosis
+
+[Term]
+id: Wikidata:Q163865 ! scurvy
+xref: DOID:13724 ! scurvy
+
+[Term]
+id: Wikipedia:Aspergillosis ! aspergillosis
+xref: DOID:13564 ! aspergillosis
+
+[Term]
+id: Wikidata:Q1066011 ! cowpox
+xref: DOID:8956 ! cowpox
+
+[Term]
+id: Wikidata:Q641605 ! exocrine pancreatic insufficiency
+xref: DOID:13316 ! exocrine pancreatic insufficiency
+
+[Term]
+id: Wikipedia:Septicemic_plague ! septicemic plague
+xref: DOID:3481 ! septicemic plague
+
+[Term]
+id: Wikipedia:Myiasis ! myiasis
+xref: DOID:11080 ! myiasis
+
+[Term]
+id: Wikidata:Q1362453 ! fibrosarcoma
+xref: DOID:3355 ! fibrosarcoma
+
+[Term]
+id: Wikipedia:Erysipelas ! erysipelas
+xref: DOID:11330 ! erysipelas
+
+[Term]
+id: Wikidata:Q154666 ! bovine spongiform encephalopathy
+xref: DOID:5435 ! variant Creutzfeldt-Jakob disease
+
