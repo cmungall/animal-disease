@@ -1,0 +1,163 @@
+NCBITaxon:11788	Abelson murine leukemia virus	affects		NCBITaxon:9989	Rodentia
+NCBITaxon:716	Actinobacillus suis	affects		NCBITaxon:9822	Sus
+NCBITaxon:10497	African swine fever virus	affects		NCBITaxon:9822	Sus
+NCBITaxon:70566	Akabane virus	affects		NCBITaxon:9895	Bovidae
+NCBITaxon:70566	Akabane virus	affects		NCBITaxon:9963	Caprinae
+NCBITaxon:138184	Alcelaphine herpesvirus 2	infects		NCBITaxon:33208	Metazoa
+NCBITaxon:218192	Anoplocephala perfoliata	affects		NCBITaxon:9788	Equidae
+NCBITaxon:1392	Bacillus anthracis	affects		NCBITaxon:9895	Bovidae
+NCBITaxon:112090	Aphanomyces astaci	affects		NCBITaxon:6657	Crustacea
+NCBITaxon:6253	Ascaris suum	affects		NCBITaxon:9822	Sus
+NCBITaxon:675389	Avian bornavirus	affects		NCBITaxon:8782	Aves
+NCBITaxon:10555	avian adenovirus	affects		NCBITaxon:8782	Aves
+NCBITaxon:70796	Avian encephalomyelitis virus	affects		NCBITaxon:8782	Aves
+NCBITaxon:70796	Avian encephalomyelitis virus	caused_by		NCBITaxon:10239	Viruses
+NCBITaxon:11120	Infectious bronchitis virus	caused_by		NCBITaxon:10239	Viruses
+NCBITaxon:38525	Avian metapneumovirus	affects		NCBITaxon:8782	Aves
+NCBITaxon:38525	Avian metapneumovirus	caused_by		NCBITaxon:10239	Viruses
+NCBITaxon:10260	Avipoxvirus	affects		NCBITaxon:8782	Aves
+NCBITaxon:32595	Babesia divergens	affects		NCBITaxon:9895	Bovidae
+NCBITaxon:518	Bordetella bronchiseptica	affects		NCBITaxon:9975	Lagomorpha
+NCBITaxon:35814	Bordetella holmesii	affects		NCBITaxon:9975	Lagomorpha
+NCBITaxon:160097	Bovicola bovis	affects		NCBITaxon:9895	Bovidae
+NCBITaxon:389483	Ovine adenovirus B	affects		NCBITaxon:9895	Bovidae
+NCBITaxon:389483	Ovine adenovirus B	caused_by		NCBITaxon:10239	Viruses
+NCBITaxon:11128	Bovine coronavirus	affects		NCBITaxon:9895	Bovidae
+NCBITaxon:11128	Bovine coronavirus	caused_by		NCBITaxon:10239	Viruses
+NCBITaxon:12064	Bovine enterovirus	affects		NCBITaxon:9895	Bovidae
+NCBITaxon:10320	Bovine herpesvirus 1	affects		NCBITaxon:9895	Bovidae
+NCBITaxon:10295	Bovine herpesvirus 2	affects		NCBITaxon:9895	Bovidae
+NCBITaxon:10385	Bovine herpesvirus 4	affects		NCBITaxon:9895	Bovidae
+NCBITaxon:10385	Bovine herpesvirus 4	caused_by		NCBITaxon:10239	Viruses
+NCBITaxon:35244	Bovine herpesvirus 5	affects		NCBITaxon:9895	Bovidae
+NCBITaxon:11901	Bovine leukemia virus	affects		NCBITaxon:9895	Bovidae
+NCBITaxon:10571	Bovine papillomavirus	affects		NCBITaxon:9895	Bovidae
+NCBITaxon:10571	Bovine papillomavirus	affects		NCBITaxon:9788	Equidae
+NCBITaxon:10784	Bovine parvovirus	affects		NCBITaxon:9895	Bovidae
+NCBITaxon:10784	Bovine parvovirus	caused_by		NCBITaxon:10239	Viruses
+NCBITaxon:52584	Brachyspira pilosicoli	affects		NCBITaxon:9895	Bovidae
+NCBITaxon:36855	Brucella canis	affects		NCBITaxon:9608	Canidae
+NCBITaxon:170325	Canid herpesvirus 1	affects		NCBITaxon:9608	Canidae
+NCBITaxon:10788	Canine parvovirus	affects		NCBITaxon:9608	Canidae
+NCBITaxon:10401	Ictalurid herpesvirus 1	caused_by		NCBITaxon:10239	Viruses
+NCBITaxon:12618	Chicken anemia virus	caused_by		NCBITaxon:10239	Viruses
+NCBITaxon:83555	Chlamydophila abortus	infects		NCBITaxon:33208	Metazoa
+NCBITaxon:83556	Chlamydophila felis	affects		NCBITaxon:9681	Felidae
+NCBITaxon:40411	Chrysosporium	infects		NCBITaxon:33208	Metazoa
+NCBITaxon:40411	Chrysosporium	caused_by		NCBITaxon:4751	Fungi
+NCBITaxon:5796	Coccidia	infects		NCBITaxon:33208	Metazoa
+NCBITaxon:5796	Coccidia	affects		NCBITaxon:9681	Felidae
+NCBITaxon:5796	Coccidia	affects		NCBITaxon:9608	Canidae
+NCBITaxon:12136	Cricket paralysis virus	affects		NCBITaxon:50557	Insecta
+NCBITaxon:12136	Cricket paralysis virus	caused_by		NCBITaxon:10239	Viruses
+NCBITaxon:5806	Cryptosporidium	affects		NCBITaxon:9895	Bovidae
+NCBITaxon:1191121	Demodex injai	affects		NCBITaxon:9608	Canidae
+NCBITaxon:57078	Dicrocoelium dendriticum	affects		NCBITaxon:9895	Bovidae
+NCBITaxon:29171	Dictyocaulus	affects		NCBITaxon:9845	Ruminantia
+NCBITaxon:46320	Distichia	affects		NCBITaxon:9608	Canidae
+NCBITaxon:508692	Drosophila endobranchia	affects		NCBITaxon:6657	Crustacea
+NCBITaxon:11021	Eastern equine encephalitis virus	affects		NCBITaxon:8782	Aves
+NCBITaxon:11021	Eastern equine encephalitis virus	affects		NCBITaxon:9788	Equidae
+NCBITaxon:11021	Eastern equine encephalitis virus	caused_by		NCBITaxon:10239	Viruses
+NCBITaxon:186536	Ebolavirus	caused_by		NCBITaxon:10239	Viruses
+NCBITaxon:186536	Ebolavirus	infects		NCBITaxon:33208	Metazoa
+NCBITaxon:186536	Ebolavirus	caused_by		NCBITaxon:10239	Viruses
+NCBITaxon:6210	Echinococcus granulosus	affects		NCBITaxon:9608	Canidae
+NCBITaxon:12643	Ectromelia virus	affects		NCBITaxon:9989	Rodentia
+NCBITaxon:779	Ehrlichia ruminantium	affects		NCBITaxon:9845	Ruminantia
+NCBITaxon:34485	Entomophthora muscae	affects		NCBITaxon:50557	Insecta
+NCBITaxon:48410	Equine herpesvirus sp.	affects		NCBITaxon:9788	Equidae
+NCBITaxon:10326	Equid herpesvirus 1	affects		NCBITaxon:9788	Equidae
+NCBITaxon:12657	Equid herpesvirus 2	affects		NCBITaxon:9788	Equidae
+NCBITaxon:80341	Equid herpesvirus 3	affects		NCBITaxon:9788	Equidae
+NCBITaxon:10331	Equid herpesvirus 4	affects		NCBITaxon:9788	Equidae
+NCBITaxon:10371	Equid herpesvirus 5	affects		NCBITaxon:9788	Equidae
+NCBITaxon:194961	Erbovirus	affects		NCBITaxon:9788	Equidae
+NCBITaxon:562	Escherichia coli	affects		NCBITaxon:9975	Lagomorpha
+NCBITaxon:692069	Falcon adenovirus A	affects		NCBITaxon:8782	Aves
+NCBITaxon:46835	Fasciola gigantica	infects		NCBITaxon:33208	Metazoa
+NCBITaxon:6192	Fasciola hepatica	infects		NCBITaxon:33208	Metazoa
+NCBITaxon:394415	Fascioloides magna	affects		NCBITaxon:9845	Ruminantia
+NCBITaxon:11978	Feline calicivirus	affects		NCBITaxon:9681	Felidae
+NCBITaxon:12663	Feline coronavirus	affects		NCBITaxon:9681	Felidae
+NCBITaxon:11673	Feline immunodeficiency virus	affects		NCBITaxon:9681	Felidae
+NCBITaxon:11768	Feline leukemia virus	affects		NCBITaxon:9681	Felidae
+NCBITaxon:11768	Feline leukemia virus	caused_by		NCBITaxon:10239	Viruses
+NCBITaxon:11266	Filoviridae	infects		NCBITaxon:33208	Metazoa
+NCBITaxon:11266	Filoviridae	caused_by		NCBITaxon:10239	Viruses
+NCBITaxon:5506	Fusarium	infects		NCBITaxon:33208	Metazoa
+NCBITaxon:5506	Fusarium	affects		NCBITaxon:33090	Viridiplantae
+NCBITaxon:10386	Gallid herpesvirus 1	affects		NCBITaxon:8782	Aves
+NCBITaxon:6289	Haemonchus contortus	affects		NCBITaxon:9963	Caprinae
+NCBITaxon:412152	Hematodinium perezi	affects		NCBITaxon:6657	Crustacea
+NCBITaxon:260964	Henipavirus	affects		NCBITaxon:9788	Equidae
+NCBITaxon:260964	Henipavirus	caused_by		NCBITaxon:10239	Viruses
+NCBITaxon:11024	Highlands J virus	affects		NCBITaxon:9788	Equidae
+NCBITaxon:33277	Ancylostomatoidea	affects		NCBITaxon:9681	Felidae
+NCBITaxon:11746	Jaagsiekte sheep retrovirus	affects		NCBITaxon:9963	Caprinae
+NCBITaxon:11072	Japanese encephalitis virus	affects		NCBITaxon:9822	Sus
+NCBITaxon:180230	Cyprinid herpesvirus 3	caused_by		NCBITaxon:10239	Viruses
+NCBITaxon:11077	Kunjin virus	affects		NCBITaxon:9788	Equidae
+NCBITaxon:11077	Kunjin virus	transmitted_by		NCBITaxon:50557	Insecta
+NCBITaxon:11077	Kunjin virus	caused_by		NCBITaxon:10239	Viruses
+NCBITaxon:38766	Lagos bat virus	affects		NCBITaxon:9397	Chiroptera
+NCBITaxon:11620	Lassa virus	caused_by		NCBITaxon:10239	Viruses
+NCBITaxon:172314	Ljungan virus	affects		NCBITaxon:9989	Rodentia
+NCBITaxon:1104174	Lloviu virus	affects		NCBITaxon:9397	Chiroptera
+NCBITaxon:1104174	Lloviu virus	caused_by		NCBITaxon:10239	Viruses
+NCBITaxon:11269	Marburg marburgvirus	infects		NCBITaxon:33208	Metazoa
+NCBITaxon:11269	Marburg marburgvirus	caused_by		NCBITaxon:10239	Viruses
+NCBITaxon:186537	Marburgvirus	infects		NCBITaxon:33208	Metazoa
+NCBITaxon:186537	Marburgvirus	caused_by		NCBITaxon:10239	Viruses
+NCBITaxon:55272	Metastrongylus	affects		NCBITaxon:9822	Sus
+NCBITaxon:10792	Mink enteritis virus	infects		NCBITaxon:33208	Metazoa
+NCBITaxon:11157	Mononegavirales	infects		NCBITaxon:33208	Metazoa
+NCBITaxon:11157	Mononegavirales	affects		NCBITaxon:33090	Viridiplantae
+NCBITaxon:11157	Mononegavirales	caused_by		NCBITaxon:10239	Viruses
+NCBITaxon:476	Moraxella bovis	affects		NCBITaxon:9895	Bovidae
+NCBITaxon:11138	Murine hepatitis virus	affects		NCBITaxon:9989	Rodentia
+NCBITaxon:11757	Mouse mammary tumor virus	affects		NCBITaxon:9989	Rodentia
+NCBITaxon:11786	Murine leukemia virus	affects		NCBITaxon:9989	Rodentia
+NCBITaxon:64667	Mycobacterium lepraemurium	affects		NCBITaxon:9681	Felidae
+NCBITaxon:2099	Mycoplasma hyopneumoniae	affects		NCBITaxon:9822	Sus
+NCBITaxon:2100	Mycoplasma hyorhinis	affects		NCBITaxon:9822	Sus
+NCBITaxon:29561	Mycoplasma meleagridis	affects		NCBITaxon:8782	Aves
+NCBITaxon:2109	Mycoplasma synoviae	affects		NCBITaxon:8782	Aves
+NCBITaxon:29176	Neospora caninum	affects		NCBITaxon:9608	Canidae
+NCBITaxon:499826	Nicothoe astaci	affects		NCBITaxon:6657	Crustacea
+NCBITaxon:69811	Leuciscus idus	affects		NCBITaxon:9963	Caprinae
+NCBITaxon:11240	Phocine distemper virus	affects		NCBITaxon:9822	Sus
+NCBITaxon:28295	Porcine epidemic diarrhea virus	affects		NCBITaxon:9822	Sus
+NCBITaxon:10796	Porcine parvovirus	affects		NCBITaxon:9822	Sus
+NCBITaxon:28344	Porcine reproductive and respiratory syndrome virus	affects		NCBITaxon:9822	Sus
+NCBITaxon:11604	Puumala virus	affects		NCBITaxon:9975	Lagomorpha
+NCBITaxon:11604	Puumala virus	transmitted_by		NCBITaxon:9989	Rodentia
+NCBITaxon:1646	Renibacterium salmoninarum	infects		NCBITaxon:33208	Metazoa
+NCBITaxon:42862	Rickettsia felis	affects		NCBITaxon:9681	Felidae
+NCBITaxon:55047	Bassariscus astutus	affects		NCBITaxon:9989	Rodentia
+NCBITaxon:37207	Rio Segundo virus	transmitted_by		NCBITaxon:9989	Rodentia
+NCBITaxon:51649	Sacculina	affects		NCBITaxon:6657	Crustacea
+NCBITaxon:216971	Schistosoma nasale	infects		NCBITaxon:33208	Metazoa
+NCBITaxon:6189	Schistosoma spindale	affects		NCBITaxon:9845	Ruminantia
+NCBITaxon:1133363	Schmallenberg virus	affects		NCBITaxon:9895	Bovidae
+NCBITaxon:1133363	Schmallenberg virus	affects		NCBITaxon:9963	Caprinae
+NCBITaxon:11191	Sendai virus	affects		NCBITaxon:9989	Rodentia
+NCBITaxon:11191	Sendai virus	caused_by		NCBITaxon:10239	Viruses
+NCBITaxon:528322	Serang virus	transmitted_by		NCBITaxon:9989	Rodentia
+NCBITaxon:528322	Serang virus	caused_by		NCBITaxon:10239	Viruses
+NCBITaxon:746543	Shimoni bat virus	affects		NCBITaxon:9397	Chiroptera
+NCBITaxon:186540	Sudan ebolavirus	infects		NCBITaxon:33208	Metazoa
+NCBITaxon:186540	Sudan ebolavirus	caused_by		NCBITaxon:10239	Viruses
+NCBITaxon:69816	Symbion	affects		NCBITaxon:6657	Crustacea
+NCBITaxon:399095	Thompsonia	affects		NCBITaxon:6657	Crustacea
+NCBITaxon:59264	Toxascaris leonina	infects		NCBITaxon:33208	Metazoa
+NCBITaxon:5811	Toxoplasma gondii	affects		NCBITaxon:9681	Felidae
+NCBITaxon:5811	Toxoplasma gondii	transmitted_by		NCBITaxon:9989	Rodentia
+NCBITaxon:11152	Turkey coronavirus	affects		NCBITaxon:8782	Aves
+NCBITaxon:11152	Turkey coronavirus	caused_by		NCBITaxon:10239	Viruses
+NCBITaxon:11036	Venezuelan equine encephalitis virus	affects		NCBITaxon:9788	Equidae
+NCBITaxon:11741	Visna/maedi virus	affects		NCBITaxon:9963	Caprinae
+NCBITaxon:11082	West Nile virus	affects		NCBITaxon:9788	Equidae
+NCBITaxon:11082	West Nile virus	transmitted_by		NCBITaxon:50557	Insecta
+NCBITaxon:11039	Western equine encephalomyelitis virus	affects		NCBITaxon:9788	Equidae
+NCBITaxon:11039	Western equine encephalomyelitis virus	transmitted_by		NCBITaxon:50557	Insecta

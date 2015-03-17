@@ -102,8 +102,17 @@ align-zoodi-to-ncbitaxon.tsv: zoodi.obo
 align-zoodi-to-doid.tsv: zoodi.obo
 	blip-findall -i disjoints.obo -i ignore.pro -u metadata_nlp -i $< -r disease -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
+
+align-zcat-to-ncbitaxon.tsv: wikipedia-categories.obo
+	blip-findall -i disjoints.obo -i ignore.pro -u metadata_nlp -i $< -r taxonomy -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X),\\+entity_xref(X,_)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
+
+align-zcat-to-doid.tsv: wikipedia-categories.obo
+	blip-findall -i disjoints.obo -i ignore.pro -u metadata_nlp -i $< -r disease -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X),\\+entity_xref(X,_)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
+
 xrefs-%.obo: align-%.tsv
 	cut -f1-4 $< | sort -u | grep ^Wik | tbl2obolinks.pl --rel xref > $@.tmp && mv $@.tmp $@
 
+taxon-triples.tsv:
+	blip-findall -r taxonomy -i zoodi.obo -i wikipedia-categories.obo "entity_xref_idspace(D,X,'NCBITaxon'),subclassRT(D,D2),parent(D2,R,Y),id_idspace(Y,'NCBITaxon')" -select "x(X,R,Y)" -no_pred -label -use_tabs > $@
 
 
