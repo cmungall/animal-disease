@@ -15,6 +15,7 @@ xref: DOID:1091 ! tooth disease
 [Term]
 id: WikipediaCategory:Adenoviridae
 name: Adenoviridae
+xref: NCBITaxon:10508 ! Adenoviridae
 
 [Term]
 id: WikipediaCategory:Agricultural_health_and_safety
@@ -31,22 +32,27 @@ name: Ailments of unknown etiology
 [Term]
 id: WikipediaCategory:Alloherpesviridae
 name: Alloherpesviridae
+xref: NCBITaxon:548682 ! Alloherpesviridae
 
 [Term]
 id: WikipediaCategory:Alphacoronaviruses
 name: Alphacoronaviruses
+xref: NCBITaxon:693996 ! Alphacoronavirus
 
 [Term]
 id: WikipediaCategory:Alphaherpesvirinae
 name: Alphaherpesvirinae
+xref: NCBITaxon:10293 ! Alphaherpesvirinae
 
 [Term]
 id: WikipediaCategory:Alpharetroviruses
 name: Alpharetroviruses
+xref: NCBITaxon:153057 ! Alpharetrovirus
 
 [Term]
 id: WikipediaCategory:Alphaviruses
 name: Alphaviruses
+xref: NCBITaxon:11019 ! Alphavirus
 
 [Term]
 id: WikipediaCategory:American_Quarter_Horses
@@ -86,6 +92,8 @@ name: Animal welfare
 id: WikipediaCategory:Anthrax
 name: Anthrax
 xref: DOID:7427 ! anthrax disease
+xref: NCBITaxon:117078 ! Anthrax
+xref: NCBITaxon:1392 ! Bacillus anthracis
 
 [Term]
 id: WikipediaCategory:Anxiety_disorders
@@ -95,6 +103,7 @@ xref: DOID:2030 ! anxiety disorder
 [Term]
 id: WikipediaCategory:Apicomplexa
 name: Apicomplexa
+xref: NCBITaxon:5794 ! Apicomplexa
 
 [Term]
 id: WikipediaCategory:Aquaculture
@@ -103,10 +112,12 @@ name: Aquaculture
 [Term]
 id: WikipediaCategory:Arenaviridae
 name: Arenaviridae
+xref: NCBITaxon:11617 ! Arenaviridae
 
 [Term]
 id: WikipediaCategory:Arteriviridae
 name: Arteriviridae
+xref: NCBITaxon:76803 ! Arteriviridae
 
 [Term]
 id: WikipediaCategory:Arthropod-borne_viral_fevers_and_viral_haemorrhagic_fevers
@@ -120,10 +131,14 @@ relationship: caused_by NCBITaxon:6656 ! Arthropoda
 [Term]
 id: WikipediaCategory:Ascaridida
 name: Ascaridida
+xref: NCBITaxon:6249 ! Ascaridida
+xref: NCBITaxon:6250 ! Ascarididae
 
 [Term]
 id: WikipediaCategory:Asteroidea
 name: Asteroidea
+xref: NCBITaxon:102804 ! Asteroideae
+xref: NCBITaxon:7588 ! Asteroidea
 
 [Term]
 id: WikipediaCategory:Asthma
@@ -147,10 +162,12 @@ xref: DOID:4492 ! avian influenza
 [Term]
 id: WikipediaCategory:Avulaviruses
 name: Avulaviruses
+xref: NCBITaxon:260963 ! Avulavirus
 
 [Term]
 id: WikipediaCategory:Bacteria
 name: Bacteria
+xref: NCBITaxon:2 ! Bacteria
 
 [Term]
 id: WikipediaCategory:Bacterial_diseases
@@ -167,10 +184,12 @@ name: Bacterium-related cutaneous conditions
 [Term]
 id: WikipediaCategory:Bacteroidetes
 name: Bacteroidetes
+xref: NCBITaxon:976 ! Bacteroidetes
 
 [Term]
 id: WikipediaCategory:Barnacles
 name: Barnacles
+xref: NCBITaxon:6676 ! Thoracica
 
 [Term]
 id: WikipediaCategory:Bat-borne_viruses
@@ -185,14 +204,17 @@ relationship: affects NCBITaxon:9397 ! Chiroptera
 [Term]
 id: WikipediaCategory:Betacoronaviruses
 name: Betacoronaviruses
+xref: NCBITaxon:694002 ! Betacoronavirus
 
 [Term]
 id: WikipediaCategory:Betaherpesvirinae
 name: Betaherpesvirinae
+xref: NCBITaxon:10357 ! Betaherpesvirinae
 
 [Term]
 id: WikipediaCategory:Betaretroviruses
 name: Betaretroviruses
+xref: NCBITaxon:140052 ! Betaretrovirus
 
 [Term]
 id: WikipediaCategory:Biological_hazards
@@ -225,10 +247,12 @@ xref: DOID:11054 ! urinary bladder cancer
 [Term]
 id: WikipediaCategory:Bombycidae
 name: Bombycidae
+xref: NCBITaxon:7089 ! Bombycidae
 
 [Term]
 id: WikipediaCategory:Bornaviruses
 name: Bornaviruses
+xref: NCBITaxon:186458 ! Bornavirus
 
 [Term]
 id: WikipediaCategory:Botulism
@@ -252,10 +276,13 @@ xref: DOID:1319 ! brain cancer
 [Term]
 id: WikipediaCategory:Burkholderiales
 name: Burkholderiales
+xref: NCBITaxon:80840 ! Burkholderiales
 
 [Term]
 id: WikipediaCategory:Camels
 name: Camels
+xref: NCBITaxon:9837 ! Camelus bactrianus
+xref: NCBITaxon:9838 ! Camelus dromedarius
 
 [Term]
 id: WikipediaCategory:Cancer_in_cats
@@ -299,6 +326,7 @@ name: Causes of death
 [Term]
 id: WikipediaCategory:Cestoda
 name: Cestoda
+xref: NCBITaxon:6199 ! Cestoda
 
 [Term]
 id: WikipediaCategory:Channelopathy
@@ -308,6 +336,8 @@ relationship: affects GO:0034702 ! ion channel complex
 [Term]
 id: WikipediaCategory:Chlamydiae
 name: Chlamydiae
+xref: NCBITaxon:204428 ! Chlamydiae
+xref: NCBITaxon:810 ! Chlamydia
 
 [Term]
 id: WikipediaCategory:Chondropathies
@@ -317,14 +347,17 @@ relationship: affects UBERON:0002418 ! cartilage tissue
 [Term]
 id: WikipediaCategory:Cichlidae
 name: Cichlidae
+xref: NCBITaxon:8113 ! Cichlidae
 
 [Term]
 id: WikipediaCategory:Ciliates
 name: Ciliates
+xref: NCBITaxon:5878 ! Ciliophora
 
 [Term]
 id: WikipediaCategory:Circoviridae
 name: Circoviridae
+xref: NCBITaxon:39724 ! Circoviridae
 
 [Term]
 id: WikipediaCategory:Clonally_transmissible_cancers
@@ -361,6 +394,7 @@ xref: DOID:1115 ! sarcoma
 [Term]
 id: WikipediaCategory:Copper
 name: Copper
+xref: NCBITaxon:124406 ! Lycaeninae
 
 [Term]
 id: WikipediaCategory:Coral_diseases
@@ -374,18 +408,22 @@ name: Coral reefs
 [Term]
 id: WikipediaCategory:Coronaviridae
 name: Coronaviridae
+xref: NCBITaxon:11118 ! Coronaviridae
 
 [Term]
 id: WikipediaCategory:Corynebacterineae
 name: Corynebacterineae
+xref: NCBITaxon:85007 ! Corynebacterineae
 
 [Term]
 id: WikipediaCategory:Crayfish
 name: Crayfish
+xref: NCBITaxon:6724 ! Astacoidea
 
 [Term]
 id: WikipediaCategory:Crickets
 name: Crickets
+xref: NCBITaxon:6995 ! Gryllidae
 
 [Term]
 id: WikipediaCategory:Cruelty_to_animals
@@ -407,10 +445,13 @@ name: Cutaneous conditions
 [Term]
 id: WikipediaCategory:Cycads
 name: Cycads
+xref: NCBITaxon:3296 ! Cycadopsida
 
 [Term]
 id: WikipediaCategory:Cymothoida
 name: Cymothoida
+xref: NCBITaxon:142082 ! Cymothoidae
+xref: NCBITaxon:330540 ! Cymothoida
 
 [Term]
 id: WikipediaCategory:Cytoskeletal_defects
@@ -432,10 +473,12 @@ name: Deforming dorsopathies
 [Term]
 id: WikipediaCategory:Deltaretroviruses
 name: Deltaretroviruses
+xref: NCBITaxon:153136 ! Deltaretrovirus
 
 [Term]
 id: WikipediaCategory:Dendrobranchiata
 name: Dendrobranchiata
+xref: NCBITaxon:6684 ! Dendrobranchiata
 
 [Term]
 id: WikipediaCategory:Dermal_and_subcutaneous_growths
@@ -457,14 +500,18 @@ xref: DOID:13250 ! diarrhea
 [Term]
 id: WikipediaCategory:Dicistroviridae
 name: Dicistroviridae
+xref: NCBITaxon:232795 ! Dicistroviridae
 
 [Term]
 id: WikipediaCategory:Digenea
 name: Digenea
+xref: NCBITaxon:256429 ! Digenea <Rhodophyta>
+xref: NCBITaxon:6179 ! Digenea <flatworm>
 
 [Term]
 id: WikipediaCategory:Dinoflagellates
 name: Dinoflagellates
+xref: NCBITaxon:2864 ! Dinophyceae
 
 [Term]
 id: WikipediaCategory:Diseases_and_parasites_of_crustaceans
@@ -526,10 +573,13 @@ name: Dog health
 [Term]
 id: WikipediaCategory:Dogs
 name: Dogs
+xref: NCBITaxon:9615 ! Canis lupus familiaris
 
 [Term]
 id: WikipediaCategory:Drosophila
 name: Drosophila
+xref: NCBITaxon:32281 ! Drosophila <fruit fly, subgenus>
+xref: NCBITaxon:7215 ! Drosophila <fruit fly, genus>
 
 [Term]
 id: WikipediaCategory:Eating_behaviors
@@ -538,10 +588,12 @@ name: Eating behaviors
 [Term]
 id: WikipediaCategory:Ebolaviruses
 name: Ebolaviruses
+xref: NCBITaxon:186536 ! Ebolavirus
 
 [Term]
 id: WikipediaCategory:Echinoidea
 name: Echinoidea
+xref: NCBITaxon:7625 ! Echinoidea
 
 [Term]
 id: WikipediaCategory:Ecology
@@ -555,6 +607,8 @@ xref: DOID:4110 ! parasitic ectoparasitic infectious disease
 [Term]
 id: WikipediaCategory:Elephants
 name: Elephants
+xref: NCBITaxon:9779 ! Proboscidea <mammal>
+xref: NCBITaxon:9780 ! Elephantidae
 
 [Term]
 id: WikipediaCategory:Encephalitis
@@ -568,10 +622,12 @@ name: Endocrine-related cutaneous conditions
 [Term]
 id: WikipediaCategory:Enoplia
 name: Enoplia
+xref: NCBITaxon:33218 ! Enoplia
 
 [Term]
 id: WikipediaCategory:Enteroviruses
 name: Enteroviruses
+xref: NCBITaxon:12059 ! Enterovirus
 
 [Term]
 id: WikipediaCategory:Eosinophilic_cutaneous_conditions
@@ -593,6 +649,7 @@ xref: DOID:1826 ! epilepsy syndrome
 [Term]
 id: WikipediaCategory:Epsilonretroviruses
 name: Epsilonretroviruses
+xref: NCBITaxon:153137 ! Epsilonretrovirus
 
 [Term]
 id: WikipediaCategory:Equine_hoof
@@ -609,6 +666,7 @@ name: Eradicated diseases
 [Term]
 id: WikipediaCategory:Escherichia_coli
 name: Escherichia coli
+xref: NCBITaxon:562 ! Escherichia coli
 
 [Term]
 id: WikipediaCategory:Esophagus_disorders
@@ -621,22 +679,27 @@ name: Ethology
 [Term]
 id: WikipediaCategory:Euglenozoa
 name: Euglenozoa
+xref: NCBITaxon:33682 ! Euglenozoa
 
 [Term]
 id: WikipediaCategory:Eurotiomycetes
 name: Eurotiomycetes
+xref: NCBITaxon:147545 ! Eurotiomycetes
 
 [Term]
 id: WikipediaCategory:Falcons
 name: Falcons
+xref: NCBITaxon:8952 ! Falco
 
 [Term]
 id: WikipediaCategory:Fasciola
 name: Fasciola
+xref: NCBITaxon:6191 ! Fasciola
 
 [Term]
 id: WikipediaCategory:Fasciolidae
 name: Fasciolidae
+xref: NCBITaxon:27843 ! Fasciolidae
 
 [Term]
 id: WikipediaCategory:Feathers
@@ -646,6 +709,7 @@ relationship: affects UBERON:0000022 ! feather
 [Term]
 id: WikipediaCategory:Filoviridae
 name: Filoviridae
+xref: NCBITaxon:11266 ! Filoviridae
 
 [Term]
 id: WikipediaCategory:Fish_diseases
@@ -666,6 +730,7 @@ name: Fishkeeping
 [Term]
 id: WikipediaCategory:Flaviviruses
 name: Flaviviruses
+xref: NCBITaxon:11051 ! Flavivirus
 
 [Term]
 id: WikipediaCategory:Foodborne_illnesses
@@ -679,6 +744,7 @@ relationship: caused_by NCBITaxon:4751 ! Fungi
 [Term]
 id: WikipediaCategory:Fusarium
 name: Fusarium
+xref: NCBITaxon:5506 ! Fusarium
 
 [Term]
 id: WikipediaCategory:GI_tract_disorders
@@ -687,18 +753,22 @@ name: GI tract disorders
 [Term]
 id: WikipediaCategory:Gadidae
 name: Gadidae
+xref: NCBITaxon:8045 ! Gadidae
 
 [Term]
 id: WikipediaCategory:Gammacoronaviruses
 name: Gammacoronaviruses
+xref: NCBITaxon:694013 ! Gammacoronavirus
 
 [Term]
 id: WikipediaCategory:Gammaherpesvirinae
 name: Gammaherpesvirinae
+xref: NCBITaxon:10374 ! Gammaherpesvirinae
 
 [Term]
 id: WikipediaCategory:Gammaretroviruses
 name: Gammaretroviruses
+xref: NCBITaxon:153135 ! Gammaretrovirus
 
 [Term]
 id: WikipediaCategory:Gangrene
@@ -707,6 +777,7 @@ name: Gangrene
 [Term]
 id: WikipediaCategory:Gastropods
 name: Gastropods
+xref: NCBITaxon:6448 ! Gastropoda
 
 [Term]
 id: WikipediaCategory:Genetic_animal_diseases
@@ -727,6 +798,7 @@ name: Genetic disorders with no OMIM
 [Term]
 id: WikipediaCategory:Goldfish
 name: Goldfish
+xref: NCBITaxon:7957 ! Carassius auratus
 
 [Term]
 id: WikipediaCategory:Gram-negative_bacteria
@@ -735,6 +807,7 @@ name: Gram-negative bacteria
 [Term]
 id: WikipediaCategory:Gram-positive_bacteria
 name: Gram-positive bacteria
+xref: NCBITaxon:1239 ! Firmicutes
 
 [Term]
 id: WikipediaCategory:Gut_flora_bacteria
@@ -743,6 +816,7 @@ name: Gut flora bacteria
 [Term]
 id: WikipediaCategory:Hantaviruses
 name: Hantaviruses
+xref: NCBITaxon:11598 ! Hantavirus
 
 [Term]
 id: WikipediaCategory:Health_disasters
@@ -759,6 +833,7 @@ name: Healthcare-associated infections
 [Term]
 id: WikipediaCategory:Hedgehogs
 name: Hedgehogs
+xref: NCBITaxon:9363 ! Erinaceidae
 
 [Term]
 id: WikipediaCategory:Helminthiases
@@ -775,6 +850,7 @@ name: Hemorrhagic fevers
 [Term]
 id: WikipediaCategory:Hepaciviruses
 name: Hepaciviruses
+xref: NCBITaxon:11102 ! Hepacivirus
 
 [Term]
 id: WikipediaCategory:Hepatology
@@ -787,6 +863,7 @@ name: Hernias
 [Term]
 id: WikipediaCategory:Herpesviridae
 name: Herpesviridae
+xref: NCBITaxon:10292 ! Herpesviridae
 
 [Term]
 id: WikipediaCategory:Histiocytosis
@@ -865,6 +942,7 @@ name: Intersex and medicine
 [Term]
 id: WikipediaCategory:Iridoviridae
 name: Iridoviridae
+xref: NCBITaxon:10486 ! Iridoviridae
 
 [Term]
 id: WikipediaCategory:Kidney_diseases
@@ -878,10 +956,12 @@ name: Laboratory mouse breeds
 [Term]
 id: WikipediaCategory:Lactobacillales
 name: Lactobacillales
+xref: NCBITaxon:186826 ! Lactobacillales
 
 [Term]
 id: WikipediaCategory:Lentiviruses
 name: Lentiviruses
+xref: NCBITaxon:11646 ! Lentivirus
 
 [Term]
 id: WikipediaCategory:Leprosy
@@ -891,6 +971,7 @@ xref: DOID:1024 ! leprosy
 [Term]
 id: WikipediaCategory:Lice
 name: Lice
+xref: NCBITaxon:85819 ! Phthiraptera
 
 [Term]
 id: WikipediaCategory:Livestock
@@ -912,10 +993,12 @@ xref: DOID:0060058 ! lymphoma
 [Term]
 id: WikipediaCategory:Lyssaviruses
 name: Lyssaviruses
+xref: NCBITaxon:11286 ! Lyssavirus
 
 [Term]
 id: WikipediaCategory:Marburgviruses
 name: Marburgviruses
+xref: NCBITaxon:186537 ! Marburgvirus
 
 [Term]
 id: WikipediaCategory:Marine_biology
@@ -937,10 +1020,12 @@ xref: DOID:9471 ! meningitis
 [Term]
 id: WikipediaCategory:Mesomycetozoea
 name: Mesomycetozoea
+xref: NCBITaxon:127916 ! Ichthyosporea
 
 [Term]
 id: WikipediaCategory:Mesostigmata
 name: Mesostigmata
+xref: NCBITaxon:34634 ! Mesostigmata
 
 [Term]
 id: WikipediaCategory:Metamonads
@@ -966,14 +1051,17 @@ name: Molecular biology
 [Term]
 id: WikipediaCategory:Mollicutes
 name: Mollicutes
+xref: NCBITaxon:31969 ! Mollicutes
 
 [Term]
 id: WikipediaCategory:Mononegavirales
 name: Mononegavirales
+xref: NCBITaxon:11157 ! Mononegavirales
 
 [Term]
 id: WikipediaCategory:Monopisthocotylea
 name: Monopisthocotylea
+xref: NCBITaxon:37844 ! Monopisthocotylea
 
 [Term]
 id: WikipediaCategory:Monotypic_animal_genera
@@ -986,10 +1074,12 @@ name: Monotypic genera
 [Term]
 id: WikipediaCategory:Moraxellaceae
 name: Moraxellaceae
+xref: NCBITaxon:468 ! Moraxellaceae
 
 [Term]
 id: WikipediaCategory:Morbilliviruses
 name: Morbilliviruses
+xref: NCBITaxon:11229 ! Morbillivirus
 
 [Term]
 id: WikipediaCategory:Mycobacteria
@@ -1006,6 +1096,7 @@ name: Myoneural junction and neuromuscular diseases
 [Term]
 id: WikipediaCategory:Myxozoa
 name: Myxozoa
+xref: NCBITaxon:35581 ! Myxozoa
 
 [Term]
 id: WikipediaCategory:Neglected_diseases
@@ -1030,6 +1121,7 @@ name: Nontuberculous mycobacteria
 [Term]
 id: WikipediaCategory:Novirhabdoviruses
 name: Novirhabdoviruses
+xref: NCBITaxon:186778 ! Novirhabdovirus
 
 [Term]
 id: WikipediaCategory:Nutritional_anemias
@@ -1042,10 +1134,12 @@ name: Occupational diseases
 [Term]
 id: WikipediaCategory:Orthobunyaviruses
 name: Orthobunyaviruses
+xref: NCBITaxon:11572 ! Orthobunyavirus
 
 [Term]
 id: WikipediaCategory:Orthomyxoviridae
 name: Orthomyxoviridae
+xref: NCBITaxon:11308 ! Orthomyxoviridae
 
 [Term]
 id: WikipediaCategory:Osseous_and_chondromatous_neoplasia
@@ -1067,10 +1161,12 @@ name: Pancreas disorders
 [Term]
 id: WikipediaCategory:Papillomavirus
 name: Papillomavirus
+xref: NCBITaxon:151340 ! Papillomaviridae
 
 [Term]
 id: WikipediaCategory:Paramyxoviridae
 name: Paramyxoviridae
+xref: NCBITaxon:11158 ! Paramyxoviridae
 
 [Term]
 id: WikipediaCategory:Parasites_of_birds
@@ -1145,10 +1241,12 @@ name: Parasitology
 [Term]
 id: WikipediaCategory:Parvovirinae
 name: Parvovirinae
+xref: NCBITaxon:40119 ! Parvovirinae
 
 [Term]
 id: WikipediaCategory:Patella
 name: Patella
+xref: NCBITaxon:6463 ! Patella
 
 [Term]
 id: WikipediaCategory:Pathogenic_bacteria
@@ -1169,10 +1267,12 @@ name: Periodontal disorders
 [Term]
 id: WikipediaCategory:Phleboviruses
 name: Phleboviruses
+xref: NCBITaxon:11584 ! Phlebovirus
 
 [Term]
 id: WikipediaCategory:Picornaviridae
 name: Picornaviridae
+xref: NCBITaxon:12058 ! Picornaviridae
 
 [Term]
 id: WikipediaCategory:Plague_%28disease%29
@@ -1186,6 +1286,7 @@ relationship: affects NCBITaxon:33090 ! Viridiplantae
 [Term]
 id: WikipediaCategory:Plasmodium
 name: Plasmodium
+xref: NCBITaxon:5820 ! Plasmodium
 
 [Term]
 id: WikipediaCategory:Pneumonia
@@ -1215,6 +1316,7 @@ name: Primate diseases
 [Term]
 id: WikipediaCategory:Proteobacteria
 name: Proteobacteria
+xref: NCBITaxon:1224 ! Proteobacteria
 
 [Term]
 id: WikipediaCategory:Protist_genera
@@ -1248,6 +1350,7 @@ relationship: affects NCBITaxon:9975 ! Lagomorpha
 [Term]
 id: WikipediaCategory:Rabbits_and_hares
 name: Rabbits and hares
+xref: NCBITaxon:9979 ! Leporidae
 
 [Term]
 id: WikipediaCategory:Rabies
@@ -1265,6 +1368,8 @@ name: Rare diseases
 [Term]
 id: WikipediaCategory:Reoviruses
 name: Reoviruses
+xref: NCBITaxon:10882 ! Orthoreovirus
+xref: NCBITaxon:10891 ! Reovirus sp.
 
 [Term]
 id: WikipediaCategory:Respiratory_and_cardiovascular_disorders_specific_to_the_perinatal_period
@@ -1277,10 +1382,12 @@ name: Respiratory diseases
 [Term]
 id: WikipediaCategory:Rhizobiales
 name: Rhizobiales
+xref: NCBITaxon:356 ! Rhizobiales
 
 [Term]
 id: WikipediaCategory:Rickettsiales
 name: Rickettsiales
+xref: NCBITaxon:766 ! Rickettsiales
 
 [Term]
 id: WikipediaCategory:Rickettsioses
@@ -1303,6 +1410,7 @@ relationship: affects NCBITaxon:9989 ! Rodentia
 [Term]
 id: WikipediaCategory:Rodents
 name: Rodents
+xref: NCBITaxon:9989 ! Rodentia
 
 [Term]
 id: WikipediaCategory:Salmonellosis
@@ -1311,6 +1419,7 @@ name: Salmonellosis
 [Term]
 id: WikipediaCategory:Salmonidae
 name: Salmonidae
+xref: NCBITaxon:8015 ! Salmonidae
 
 [Term]
 id: WikipediaCategory:Sarcoma
@@ -1340,10 +1449,12 @@ relationship: affects NCBITaxon:9935 ! Ovis
 [Term]
 id: WikipediaCategory:Simplexviruses
 name: Simplexviruses
+xref: NCBITaxon:10294 ! Simplexvirus
 
 [Term]
 id: WikipediaCategory:Siphonostomatoida
 name: Siphonostomatoida
+xref: NCBITaxon:72033 ! Siphonostomatoida
 
 [Term]
 id: WikipediaCategory:Skeletal_disorders
@@ -1357,6 +1468,7 @@ name: Skin conditions resulting from physical factors
 id: WikipediaCategory:Smallpox
 name: Smallpox
 xref: DOID:8736 ! smallpox
+xref: NCBITaxon:10255 ! Variola virus
 
 [Term]
 id: WikipediaCategory:Smallpox_vaccines
@@ -1369,10 +1481,13 @@ name: Speleology
 [Term]
 id: WikipediaCategory:Spirochaetes
 name: Spirochaetes
+xref: NCBITaxon:203691 ! Spirochaetes
 
 [Term]
 id: WikipediaCategory:Spirurida
 name: Spirurida
+xref: NCBITaxon:1080592 ! Spiruridae
+xref: NCBITaxon:6274 ! Spirurida
 
 [Term]
 id: WikipediaCategory:Steatorrhea-related_diseases
@@ -1381,10 +1496,13 @@ name: Steatorrhea-related diseases
 [Term]
 id: WikipediaCategory:Streptococcaceae
 name: Streptococcaceae
+xref: NCBITaxon:1300 ! Streptococcaceae
 
 [Term]
 id: WikipediaCategory:Strongylida
 name: Strongylida
+xref: NCBITaxon:27830 ! Strongylidae
+xref: NCBITaxon:6308 ! Strongylida
 
 [Term]
 id: WikipediaCategory:Subtypes_of_Influenza_A_virus
@@ -1433,6 +1551,7 @@ relationship: transmitted_by NCBITaxon:6935 ! Ixodida
 [Term]
 id: WikipediaCategory:Torovirinae
 name: Torovirinae
+xref: NCBITaxon:694017 ! Torovirinae
 
 [Term]
 id: WikipediaCategory:Transmissible_spongiform_encephalopathies
@@ -1442,10 +1561,12 @@ xref: DOID:649 ! prion disease
 [Term]
 id: WikipediaCategory:Trematoda
 name: Trematoda
+xref: NCBITaxon:6178 ! Trematoda
 
 [Term]
 id: WikipediaCategory:Trombidiformes
 name: Trombidiformes
+xref: NCBITaxon:83136 ! Trombidiformes
 
 [Term]
 id: WikipediaCategory:Tropical_diseases
@@ -1472,6 +1593,7 @@ name: Valvular heart disease
 [Term]
 id: WikipediaCategory:Varicelloviruses
 name: Varicelloviruses
+xref: NCBITaxon:10319 ! Varicellovirus
 
 [Term]
 id: WikipediaCategory:Vascular_neoplasia
@@ -1480,10 +1602,12 @@ name: Vascular neoplasia
 [Term]
 id: WikipediaCategory:Vesiculoviruses
 name: Vesiculoviruses
+xref: NCBITaxon:11271 ! Vesiculovirus
 
 [Term]
 id: WikipediaCategory:Vesiviruses
 name: Vesiviruses
+xref: NCBITaxon:95337 ! Vesivirus
 
 [Term]
 id: WikipediaCategory:Veterinary_entomology
@@ -1516,6 +1640,7 @@ name: Veterinary protozoology
 [Term]
 id: WikipediaCategory:Vibrionales
 name: Vibrionales
+xref: NCBITaxon:135623 ! Vibrionales
 
 [Term]
 id: WikipediaCategory:Viral_diseases
@@ -1557,6 +1682,7 @@ name: Virus-related cutaneous conditions
 [Term]
 id: WikipediaCategory:Viruses
 name: Viruses
+xref: NCBITaxon:10239 ! Viruses
 
 [Term]
 id: WikipediaCategory:Viruses_with_sequenced_genomes
@@ -1602,4 +1728,9 @@ name: Zoonotic bacterial diseases
 [Term]
 id: WikipediaCategory:Zygomycota
 name: Zygomycota
+xref: NCBITaxon:287987 ! Nephridiophagidae
+xref: NCBITaxon:451507 ! Mucoromycotina
+xref: NCBITaxon:451824 ! Entomophthoromycotina
+xref: NCBITaxon:451827 ! Zoopagomycotina
+xref: NCBITaxon:451828 ! Kickxellomycotina
 
