@@ -531,14 +531,17 @@ relationship: affects NCBITaxon:9845 ! Ruminantia
 [Term]
 id: WikipediaCategory:Disorders_of_conjunctiva
 name: Disorders of conjunctiva
+relationship: affects UBERON:0001811 ! conjunctiva
 
 [Term]
 id: WikipediaCategory:Disorders_of_eyelid%2C_lacrimal_system_and_orbit
 name: Disorders of eyelid%2C lacrimal system and orbit
+relationship: affects UBERON:0001697 ! orbit of skull
 
 [Term]
 id: WikipediaCategory:Disorders_of_iris_and_ciliary_body
 name: Disorders of iris and ciliary body
+relationship: affects UBERON:0011892 ! anterior uvea
 
 [Term]
 id: WikipediaCategory:Disorders_of_lens
@@ -552,6 +555,8 @@ name: Disorders of ocular muscles%2C binocular movement%2C accommodation and ref
 [Term]
 id: WikipediaCategory:Disorders_of_sclera_and_cornea
 name: Disorders of sclera and cornea
+relationship: affects UBERON:0001773 ! sclera
+relationship: affects UBERON:0000964 ! cornea
 
 [Term]
 id: WikipediaCategory:Disturbances_of_human_pigmentation
@@ -671,6 +676,7 @@ xref: NCBITaxon:562 ! Escherichia coli
 [Term]
 id: WikipediaCategory:Esophagus_disorders
 name: Esophagus disorders
+relationship: affects UBERON:0001043 ! esophagus
 
 [Term]
 id: WikipediaCategory:Ethology
@@ -773,6 +779,7 @@ xref: NCBITaxon:153135 ! Gammaretrovirus
 [Term]
 id: WikipediaCategory:Gangrene
 name: Gangrene
+relationship: has_part HP:0100758 ! Gangrene
 
 [Term]
 id: WikipediaCategory:Gastropods
@@ -859,6 +866,7 @@ name: Hepatology
 [Term]
 id: WikipediaCategory:Hernias
 name: Hernias
+relationship: has_part HP:0100790 ! Hernia
 
 [Term]
 id: WikipediaCategory:Herpesviridae
@@ -1259,6 +1267,7 @@ name: Pediatrics
 [Term]
 id: WikipediaCategory:Penis_disorders
 name: Penis disorders
+relationship: affects UBERON:0000989 ! penis
 
 [Term]
 id: WikipediaCategory:Periodontal_disorders
@@ -1542,6 +1551,7 @@ xref: DOID:7166 ! thyroiditis
 [Term]
 id: WikipediaCategory:Thyroid_disease
 name: Thyroid disease
+relationship: has_part HP:0000820 ! Abnormality of the thyroid gland
 
 [Term]
 id: WikipediaCategory:Tick-borne_diseases
@@ -1589,6 +1599,7 @@ xref: DOID:11256 ! typhus
 [Term]
 id: WikipediaCategory:Valvular_heart_disease
 name: Valvular heart disease
+relationship: has_part HP:0001654 ! Abnormality of the heart valves
 
 [Term]
 id: WikipediaCategory:Varicelloviruses
@@ -1728,9 +1739,5 @@ name: Zoonotic bacterial diseases
 [Term]
 id: WikipediaCategory:Zygomycota
 name: Zygomycota
-xref: NCBITaxon:287987 ! Nephridiophagidae
-xref: NCBITaxon:451507 ! Mucoromycotina
 xref: NCBITaxon:451824 ! Entomophthoromycotina
-xref: NCBITaxon:451827 ! Zoopagomycotina
-xref: NCBITaxon:451828 ! Kickxellomycotina
 
