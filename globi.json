@@ -1,0 +1,44 @@
+{
+  "@context" : [ "http://www.w3.org/ns/csvw", {
+    "@language" : "en"
+  } ],
+  "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
+  "tables" : [ {
+    "@context" : [ "http://www.w3.org/ns/csvw", {
+      "@language" : "en"
+    } ],
+    "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
+    "url" : "taxon-triples.tsv",
+    "dcterms:bibliographicCitation" : "Mungall CJ. 2016. Animal Diseases. GitHub.",
+    "delimiter" : "\t",
+    "headerRowCount" : 1,
+    "null" : [ "" ],
+    "tableSchema" : {
+      "columns" : [ {
+        "name" : "sourceTaxonId",
+        "titles" : "NCBITaxon:11788",
+        "datatype" : "string"
+      }, {
+        "name" : "sourceTaxonName",
+        "titles" : "Abelson murine leukemia virus",
+        "datatype" : "string"
+      }, {
+        "name" : "interactionTypeName",
+        "titles" : "caused_by",
+        "datatype" : "string"
+      }, {
+        "name" : "",
+        "titles" : "",
+        "datatype" : "string"
+      }, {
+        "name" : "targetTaxonId",
+        "titles" : "NCBITaxon:153135",
+        "datatype" : "string"
+      }, {
+        "name" : "targetTaxonName",
+        "titles" : "Gammaretrovirus",
+        "datatype" : "string"
+      } ]
+    }
+  } ]
+}

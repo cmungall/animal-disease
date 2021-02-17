@@ -1,6 +1,6 @@
 # Animal Disease Ontology
 
-Currently slurped from dbpedia
+Currently slurped from dbpedia. 
 
 # Pipeline
 
@@ -13,3 +13,4 @@ See Makefile for details
  * Merge with augmented axioms TODO
     * zoodi-categories - axiomatization of main categories
 
+Resulting taxon-triples are configured to be indexed by Global Biotic Interactions (GloBI, https://globalbioticinteractions.org)
